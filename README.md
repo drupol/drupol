@@ -1,5 +1,7 @@
 Hi, I'm Pol Dellaiera, a developer from Belgium.
 
+Find my full bio on my blog: https://not-a-number.io/about/
+
 <p align="center">
   <a href="https://twitter.com/drupol"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.reddit.com/user/drupol"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
