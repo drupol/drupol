@@ -9,6 +9,4 @@ Hi, I'm Pol Dellaiera.
 
 More about me on my blog: https://not-a-number.io/about/
 
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=drupol.drupol" alt="visitor badge"/>
-</p>
+I'm currently **available for remote work**, feel free to contact me.
