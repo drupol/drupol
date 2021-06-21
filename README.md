@@ -12,8 +12,8 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) - Let users customize the PHP configuration through a custom ini file. (today)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (3 days ago)
 - [drupol/cv](https://github.com/drupol/cv) - My public CV (3 days ago)
 - [loophp/tin](https://github.com/loophp/tin) - Taxpayer Identification Number (TIN) Validator (6 days ago)
@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) ([1.0.0](https://github.com/ecphp/php-directive-bundle/releases/tag/1.0.0), today) - Let users customize the PHP configuration through a custom ini file.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.8.1](https://github.com/vimeo/psalm/releases/tag/4.8.1), 1 day ago) - A static analysis tool for finding errors in PHP applications
 - [phpspec/phpspec](https://github.com/phpspec/phpspec) ([7.1.0](https://github.com/phpspec/phpspec/releases/tag/7.1.0), 2 days ago) - SpecBDD Framework for PHP
 - [drupol/cv](https://github.com/drupol/cv) ([v10-5c8720c](https://github.com/drupol/cv/releases/tag/v10-5c8720c), 3 days ago) - My public CV
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/tin](https://github.com/loophp/tin) ([1.0.3](https://github.com/loophp/tin/releases/tag/1.0.3), 6 days ago) - Taxpayer Identification Number (TIN) Validator
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [ecphp/reverse-proxy-helper-bundle](https://github.com/ecphp/reverse-proxy-helper-bundle) ([1.0.4](https://github.com/ecphp/reverse-proxy-helper-bundle/releases/tag/1.0.4), 1 week ago) - Helper bundle, configure the request headers from a given base URL.
-- [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) ([1.0.1](https://github.com/ecphp/eu-login-api-authentication-bundle/releases/tag/1.0.1), 1 week ago) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol.
 
 I'm currently **available for remote work**, feel free to contact me.
 
