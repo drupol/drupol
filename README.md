@@ -12,22 +12,22 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) - Let users customize the PHP configuration through a custom ini file. (today)
+- [drupol/cv](https://github.com/drupol/cv) - My public CV (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (3 days ago)
-- [drupol/cv](https://github.com/drupol/cv) - My public CV (3 days ago)
 - [loophp/tin](https://github.com/loophp/tin) - Taxpayer Identification Number (TIN) Validator (6 days ago)
 - [ecphp/reverse-proxy-helper-bundle](https://github.com/ecphp/reverse-proxy-helper-bundle) - Helper bundle, configure the request headers from a given base URL. (1 week ago)
-- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (1 week ago)
 - [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol. (1 week ago)
+- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (1 week ago)
 - [drupol/php-conventions](https://github.com/drupol/php-conventions) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [drupol/cv](https://github.com/drupol/cv) ([v13-e766b8b](https://github.com/drupol/cv/releases/tag/v13-e766b8b), today) - My public CV
 - [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) ([1.0.0](https://github.com/ecphp/php-directive-bundle/releases/tag/1.0.0), today) - Let users customize the PHP configuration through a custom ini file.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.8.1](https://github.com/vimeo/psalm/releases/tag/4.8.1), 1 day ago) - A static analysis tool for finding errors in PHP applications
 - [phpspec/phpspec](https://github.com/phpspec/phpspec) ([7.1.0](https://github.com/phpspec/phpspec/releases/tag/7.1.0), 2 days ago) - SpecBDD Framework for PHP
-- [drupol/cv](https://github.com/drupol/cv) ([v10-5c8720c](https://github.com/drupol/cv/releases/tag/v10-5c8720c), 3 days ago) - My public CV
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.2](https://github.com/symfony/framework-bundle/releases/tag/v5.3.2), 4 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.2](https://github.com/symfony/symfony/releases/tag/v5.3.2), 4 days ago) - The Symfony PHP framework
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.0](https://github.com/laminas/laminas-code/releases/tag/4.4.0), 4 days ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
