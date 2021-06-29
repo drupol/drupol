@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [loophp/phposinfo](https://github.com/loophp/phposinfo) ([1.7.1](https://github.com/loophp/phposinfo/releases/tag/1.7.1), today) - Try to guess the host operating system.
+- [loophp/phposinfo](https://github.com/loophp/phposinfo) ([1.7.2](https://github.com/loophp/phposinfo/releases/tag/1.7.2), today) - Try to guess the host operating system.
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.12.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.12.0), 6 days ago) - JWT authentication for your Symfony API
 - [drupol/cv](https://github.com/drupol/cv) ([v13-e766b8b](https://github.com/drupol/cv/releases/tag/v13-e766b8b), 1 week ago) - My public CV
 - [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) ([1.0.0](https://github.com/ecphp/php-directive-bundle/releases/tag/1.0.0), 1 week ago) - Let users customize the PHP configuration through a custom ini file.
