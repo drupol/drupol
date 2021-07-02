@@ -11,22 +11,22 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
-- [drupol/test-phpspec-darwin](https://github.com/drupol/test-phpspec-darwin) -  (today)
-- [loophp/phposinfo](https://github.com/loophp/phposinfo) - Try to guess the host operating system. (2 days ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (5 days ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
+- [drupol/test-phpspec-darwin](https://github.com/drupol/test-phpspec-darwin) -  (1 day ago)
+- [loophp/phposinfo](https://github.com/loophp/phposinfo) - Try to guess the host operating system. (3 days ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (6 days ago)
 - [drupol/doctrine-dbal-postgres-bundle](https://github.com/drupol/doctrine-dbal-postgres-bundle) - Doctrine DBAL Postgres Bundle (1 week ago)
 - [drupol/cv](https://github.com/drupol/cv) - My public CV (1 week ago)
 - [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) - Let users customize the PHP configuration through a custom ini file. (1 week ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 week ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (2 weeks ago)
 - [loophp/tin](https://github.com/loophp/tin) - Taxpayer Identification Number (TIN) Validator (2 weeks ago)
 - [ecphp/reverse-proxy-helper-bundle](https://github.com/ecphp/reverse-proxy-helper-bundle) - Helper bundle, configure the request headers from a given base URL. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.3), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.3](https://github.com/symfony/symfony/releases/tag/v5.3.3), 1 day ago) - The Symfony PHP framework
-- [loophp/phposinfo](https://github.com/loophp/phposinfo) ([1.7.2](https://github.com/loophp/phposinfo/releases/tag/1.7.2), 2 days ago) - Try to guess the host operating system.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.3), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.3](https://github.com/symfony/symfony/releases/tag/v5.3.3), 2 days ago) - The Symfony PHP framework
+- [loophp/phposinfo](https://github.com/loophp/phposinfo) ([1.7.2](https://github.com/loophp/phposinfo/releases/tag/1.7.2), 3 days ago) - Try to guess the host operating system.
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.12.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.12.0), 1 week ago) - JWT authentication for your Symfony API
 - [drupol/cv](https://github.com/drupol/cv) ([v13-e766b8b](https://github.com/drupol/cv/releases/tag/v13-e766b8b), 1 week ago) - My public CV
 - [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) ([1.0.0](https://github.com/ecphp/php-directive-bundle/releases/tag/1.0.0), 1 week ago) - Let users customize the PHP configuration through a custom ini file.
