@@ -11,10 +11,10 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
+- [loophp/fpt](https://github.com/loophp/fpt) - Functional programming toolbox for PHP. (today)
 - [loophp/grumphp-license-task](https://github.com/loophp/grumphp-license-task) - Provide the license task for GrumPHP. (1 day ago)
-- [loophp/fpt](https://github.com/loophp/fpt) - Functional programming toolbox for PHP. (1 day ago)
 - [drupol/test-phpspec-darwin](https://github.com/drupol/test-phpspec-darwin) -  (2 days ago)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
 - [loophp/phposinfo](https://github.com/loophp/phposinfo) - Try to guess the host operating system. (4 days ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 week ago)
 - [drupol/doctrine-dbal-postgres-bundle](https://github.com/drupol/doctrine-dbal-postgres-bundle) - Doctrine DBAL Postgres Bundle (1 week ago)
