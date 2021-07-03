@@ -24,11 +24,11 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.12.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.12.1), today) - JWT authentication for your Symfony API
 - [loophp/grumphp-license-task](https://github.com/loophp/grumphp-license-task) ([1.0.6](https://github.com/loophp/grumphp-license-task/releases/tag/1.0.6), 1 day ago) - Provide the license task for GrumPHP.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.3), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.3](https://github.com/symfony/symfony/releases/tag/v5.3.3), 3 days ago) - The Symfony PHP framework
 - [loophp/phposinfo](https://github.com/loophp/phposinfo) ([1.7.2](https://github.com/loophp/phposinfo/releases/tag/1.7.2), 4 days ago) - Try to guess the host operating system.
-- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.12.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.12.0), 1 week ago) - JWT authentication for your Symfony API
 - [drupol/cv](https://github.com/drupol/cv) ([v13-e766b8b](https://github.com/drupol/cv/releases/tag/v13-e766b8b), 1 week ago) - My public CV
 - [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) ([1.0.0](https://github.com/ecphp/php-directive-bundle/releases/tag/1.0.0), 1 week ago) - Let users customize the PHP configuration through a custom ini file.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.8.1](https://github.com/vimeo/psalm/releases/tag/4.8.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
