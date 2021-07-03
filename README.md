@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [loophp/nanobench](https://github.com/loophp/nanobench) ([1.1.0](https://github.com/loophp/nanobench/releases/tag/1.1.0), today) - A simple and lightweight benchmarking tool for PHP.
+- [loophp/nanobench](https://github.com/loophp/nanobench) ([1.1.1](https://github.com/loophp/nanobench/releases/tag/1.1.1), today) - A simple and lightweight benchmarking tool for PHP.
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.12.2](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.12.2), today) - JWT authentication for your Symfony API
 - [loophp/grumphp-license-task](https://github.com/loophp/grumphp-license-task) ([1.0.6](https://github.com/loophp/grumphp-license-task/releases/tag/1.0.6), 1 day ago) - Provide the license task for GrumPHP.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.3), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
