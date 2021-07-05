@@ -11,8 +11,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
 - [loophp/nanobench](https://github.com/loophp/nanobench) - A simple and lightweight benchmarking tool for PHP. (1 day ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (2 days ago)
 - [loophp/fpt](https://github.com/loophp/fpt) - Functional programming toolbox for PHP. (2 days ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
 - [loophp/grumphp-license-task](https://github.com/loophp/grumphp-license-task) - Provide the license task for GrumPHP. (3 days ago)
