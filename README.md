@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [loophp/collection](https://github.com/loophp/collection) ([4.1.0](https://github.com/loophp/collection/releases/tag/4.1.0), today) - A (memory) friendly, easy, lazy and modular collection class.
 - [ecphp/reverse-proxy-helper-bundle](https://github.com/ecphp/reverse-proxy-helper-bundle) ([1.0.6](https://github.com/ecphp/reverse-proxy-helper-bundle/releases/tag/1.0.6), today) - Helper bundle, configure the request headers from a given base URL.
 - [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) ([1.0.1](https://github.com/ecphp/php-directive-bundle/releases/tag/1.0.1), today) - Let users customize the PHP configuration through a custom ini file.
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.3.6](https://github.com/ecphp/eu-login-bundle/releases/tag/2.3.6), today) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/api-gw-authentication-bundle](https://github.com/ecphp/api-gw-authentication-bundle) ([1.0.3](https://github.com/ecphp/api-gw-authentication-bundle/releases/tag/1.0.3), today) - API Gateway Authentication Bundle, authenticate requests from European Commission corporate service &#39;API Gateway&#39;.
 - [loophp/nanobench](https://github.com/loophp/nanobench) ([1.1.1](https://github.com/loophp/nanobench/releases/tag/1.1.1), 2 days ago) - A simple and lightweight benchmarking tool for PHP.
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.12.2](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.12.2), 2 days ago) - JWT authentication for your Symfony API
-- [loophp/grumphp-license-task](https://github.com/loophp/grumphp-license-task) ([1.0.6](https://github.com/loophp/grumphp-license-task/releases/tag/1.0.6), 3 days ago) - Provide the license task for GrumPHP.
 
 I'm currently **available for remote work**, feel free to contact me.
 
