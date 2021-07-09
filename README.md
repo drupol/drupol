@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.1](https://github.com/laminas/laminas-code/releases/tag/4.4.1), today) - Extensions to the PHP Reflection API, static code scanning, and code generation
+- [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.2](https://github.com/laminas/laminas-code/releases/tag/4.4.2), today) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.12.3](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.12.3), 2 days ago) - JWT authentication for your Symfony API
 - [loophp/collection](https://github.com/loophp/collection) ([4.1.0](https://github.com/loophp/collection/releases/tag/4.1.0), 4 days ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [ecphp/reverse-proxy-helper-bundle](https://github.com/ecphp/reverse-proxy-helper-bundle) ([1.0.6](https://github.com/ecphp/reverse-proxy-helper-bundle/releases/tag/1.0.6), 4 days ago) - Helper bundle, configure the request headers from a given base URL.
