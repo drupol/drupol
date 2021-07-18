@@ -11,20 +11,20 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
-- [loophp/phpspec-time](https://github.com/loophp/phpspec-time) - A PHPSpec extension providing matchers for measuring time in tests. (today)
-- [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (today)
-- [drupol/yaroc](https://github.com/drupol/yaroc) - YAROC: Yet Another Random.Org Client. (today)
-- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (today)
-- [drupol/primes-bench](https://github.com/drupol/primes-bench) - A playground for benchmarking Prime numbers iterators. (today)
-- [loophp/nanobench](https://github.com/loophp/nanobench) - A simple and lightweight benchmarking tool for PHP. (today)
-- [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (today)
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (today)
-- [loophp/fpt](https://github.com/loophp/fpt) - Functional programming toolbox for PHP. (today)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
+- [loophp/phpspec-time](https://github.com/loophp/phpspec-time) - A PHPSpec extension providing matchers for measuring time in tests. (1 day ago)
+- [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (1 day ago)
+- [drupol/yaroc](https://github.com/drupol/yaroc) - YAROC: Yet Another Random.Org Client. (1 day ago)
+- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (1 day ago)
+- [drupol/primes-bench](https://github.com/drupol/primes-bench) - A playground for benchmarking Prime numbers iterators. (1 day ago)
+- [loophp/nanobench](https://github.com/loophp/nanobench) - A simple and lightweight benchmarking tool for PHP. (1 day ago)
+- [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (1 day ago)
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (1 day ago)
+- [loophp/fpt](https://github.com/loophp/fpt) - Functional programming toolbox for PHP. (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.4.0](https://github.com/phpro/grumphp/releases/tag/v1.4.0), 3 days ago) - A PHP code-quality tool
+- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.4.0](https://github.com/phpro/grumphp/releases/tag/v1.4.0), 4 days ago) - A PHP code-quality tool
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.2](https://github.com/laminas/laminas-code/releases/tag/4.4.2), 1 week ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.12.3](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.12.3), 1 week ago) - JWT authentication for your Symfony API
 - [loophp/collection](https://github.com/loophp/collection) ([4.1.0](https://github.com/loophp/collection/releases/tag/4.1.0), 1 week ago) - A (memory) friendly, easy, lazy and modular collection class.
