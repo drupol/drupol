@@ -11,22 +11,22 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (today)
-- [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (today)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
-- [drupol/yaroc](https://github.com/drupol/yaroc) - YAROC: Yet Another Random.Org Client. (3 days ago)
-- [loophp/fpt](https://github.com/loophp/fpt) - Functional programming toolbox for PHP. (3 days ago)
-- [loophp/nanobench](https://github.com/loophp/nanobench) - A simple and lightweight benchmarking tool for PHP. (3 days ago)
-- [loophp/phpspec-time](https://github.com/loophp/phpspec-time) - A PHPSpec extension providing matchers for measuring time in tests. (3 days ago)
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (3 days ago)
-- [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (3 days ago)
+- [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (1 day ago)
+- [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (1 day ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (2 days ago)
+- [drupol/yaroc](https://github.com/drupol/yaroc) - YAROC: Yet Another Random.Org Client. (4 days ago)
+- [loophp/fpt](https://github.com/loophp/fpt) - Functional programming toolbox for PHP. (4 days ago)
+- [loophp/nanobench](https://github.com/loophp/nanobench) - A simple and lightweight benchmarking tool for PHP. (4 days ago)
+- [loophp/phpspec-time](https://github.com/loophp/phpspec-time) - A PHPSpec extension providing matchers for measuring time in tests. (4 days ago)
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (4 days ago)
+- [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.4.0](https://github.com/phpro/grumphp/releases/tag/v1.4.0), 6 days ago) - A PHP code-quality tool
+- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.4.0](https://github.com/phpro/grumphp/releases/tag/v1.4.0), 1 week ago) - A PHP code-quality tool
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.2](https://github.com/laminas/laminas-code/releases/tag/4.4.2), 1 week ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
-- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.12.3](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.12.3), 1 week ago) - JWT authentication for your Symfony API
+- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.12.3](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.12.3), 2 weeks ago) - JWT authentication for your Symfony API
 - [loophp/collection](https://github.com/loophp/collection) ([4.1.0](https://github.com/loophp/collection/releases/tag/4.1.0), 2 weeks ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [ecphp/reverse-proxy-helper-bundle](https://github.com/ecphp/reverse-proxy-helper-bundle) ([1.0.6](https://github.com/ecphp/reverse-proxy-helper-bundle/releases/tag/1.0.6), 2 weeks ago) - Helper bundle, configure the request headers from a given base URL.
 - [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) ([1.0.1](https://github.com/ecphp/php-directive-bundle/releases/tag/1.0.1), 2 weeks ago) - Let users customize the PHP configuration through a custom ini file.
