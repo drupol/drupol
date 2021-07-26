@@ -24,8 +24,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.12](https://github.com/symfony/framework-bundle/releases/tag/v5.2.12), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.12](https://github.com/symfony/symfony/releases/tag/v5.2.12), today) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.4), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.4](https://github.com/symfony/symfony/releases/tag/v5.3.4), today) - The Symfony PHP framework
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.0](https://github.com/loophp/psr17/releases/tag/1.0.0), 3 days ago) - Provides a PSR17 synthetic implementation.
 - [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) ([2.0.3](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle/releases/tag/2.0.3), 4 days ago) - Provide a PSR HTTP message bridge without altering query parameters.
 - [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) ([1.0.0](https://github.com/loophp/psr-http-message-bridge-bundle/releases/tag/1.0.0), 5 days ago) - Register symfony/psr-http-message-bridge classes in your Symfony application.
