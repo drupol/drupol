@@ -24,6 +24,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.12](https://github.com/symfony/framework-bundle/releases/tag/v5.2.12), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.12](https://github.com/symfony/symfony/releases/tag/v5.2.12), today) - The Symfony PHP framework
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.0](https://github.com/loophp/psr17/releases/tag/1.0.0), 3 days ago) - Provides a PSR17 synthetic implementation.
 - [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) ([2.0.3](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle/releases/tag/2.0.3), 4 days ago) - Provide a PSR HTTP message bridge without altering query parameters.
 - [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) ([1.0.0](https://github.com/loophp/psr-http-message-bridge-bundle/releases/tag/1.0.0), 5 days ago) - Register symfony/psr-http-message-bridge classes in your Symfony application.
@@ -32,8 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.12.3](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.12.3), 2 weeks ago) - JWT authentication for your Symfony API
 - [loophp/collection](https://github.com/loophp/collection) ([4.1.0](https://github.com/loophp/collection/releases/tag/4.1.0), 3 weeks ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [ecphp/reverse-proxy-helper-bundle](https://github.com/ecphp/reverse-proxy-helper-bundle) ([1.0.6](https://github.com/ecphp/reverse-proxy-helper-bundle/releases/tag/1.0.6), 3 weeks ago) - Helper bundle, configure the request headers from a given base URL.
-- [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) ([1.0.1](https://github.com/ecphp/php-directive-bundle/releases/tag/1.0.1), 3 weeks ago) - Let users customize the PHP configuration through a custom ini file.
-- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.3.6](https://github.com/ecphp/eu-login-bundle/releases/tag/2.3.6), 3 weeks ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 
 I'm currently **available for remote work**, feel free to contact me.
 
