@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.14](https://github.com/symfony/symfony/releases/tag/v5.2.14), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), today) - The Symfony PHP framework
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.12.5](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.12.5), 1 day ago) - JWT authentication for your Symfony API
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.4), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.0](https://github.com/loophp/psr17/releases/tag/1.0.0), 6 days ago) - Provides a PSR17 synthetic implementation.
