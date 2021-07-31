@@ -11,16 +11,16 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [phpbench/phpbench](https://github.com/phpbench/phpbench) - PHP Benchmarking framework (today)
 - [loophp/fpt](https://github.com/loophp/fpt) - Functional programming toolbox for PHP. (1 day ago)
-- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (2 days ago)
+- [ecphp/doctrine-oci8](https://github.com/ecphp/doctrine-oci8) - Doctrine&#39;s OCI8 (Oracle) driver with cursor support. (2 days ago)
 - [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (2 days ago)
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (2 days ago)
 - [ecphp/reverse-proxy-helper-bundle](https://github.com/ecphp/reverse-proxy-helper-bundle) - Helper bundle, configure the request headers from a given base URL. (2 days ago)
-- [ecphp/doctrine-oci8](https://github.com/ecphp/doctrine-oci8) - Doctrine&#39;s OCI8 (Oracle) driver with cursor support. (2 days ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (3 days ago)
+- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (2 days ago)
 - [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) - Let users customize the PHP configuration through a custom ini file. (3 days ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (3 days ago)
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (4 days ago)
-- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -31,9 +31,9 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.0](https://github.com/loophp/psr17/releases/tag/1.0.0), 1 week ago) - Provides a PSR17 synthetic implementation.
 - [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) ([2.0.3](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle/releases/tag/2.0.3), 1 week ago) - Provide a PSR HTTP message bridge without altering query parameters.
 - [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) ([1.0.0](https://github.com/loophp/psr-http-message-bridge-bundle/releases/tag/1.0.0), 1 week ago) - Register symfony/psr-http-message-bridge classes in your Symfony application.
+- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.0.4](https://github.com/phpbench/phpbench/releases/tag/1.0.4), 1 week ago) - PHP Benchmarking framework
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.4.0](https://github.com/phpro/grumphp/releases/tag/v1.4.0), 2 weeks ago) - A PHP code-quality tool
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.2](https://github.com/laminas/laminas-code/releases/tag/4.4.2), 3 weeks ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
-- [loophp/collection](https://github.com/loophp/collection) ([4.1.0](https://github.com/loophp/collection/releases/tag/4.1.0), 3 weeks ago) - A (memory) friendly, easy, lazy and modular collection class.
 
 I'm currently **available for remote work**, feel free to contact me.
 
