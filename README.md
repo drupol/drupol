@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.0](https://github.com/vimeo/psalm/releases/tag/4.9.0), today) - A static analysis tool for finding errors in PHP applications
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.12.6](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.12.6), 2 days ago) - JWT authentication for your Symfony API
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 2 days ago) - The Symfony PHP framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.4), 5 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.4.0](https://github.com/phpro/grumphp/releases/tag/v1.4.0), 2 weeks ago) - A PHP code-quality tool
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.2](https://github.com/laminas/laminas-code/releases/tag/4.4.2), 3 weeks ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [loophp/collection](https://github.com/loophp/collection) ([4.1.0](https://github.com/loophp/collection/releases/tag/4.1.0), 3 weeks ago) - A (memory) friendly, easy, lazy and modular collection class.
-- [ecphp/reverse-proxy-helper-bundle](https://github.com/ecphp/reverse-proxy-helper-bundle) ([1.0.6](https://github.com/ecphp/reverse-proxy-helper-bundle/releases/tag/1.0.6), 3 weeks ago) - Helper bundle, configure the request headers from a given base URL.
 
 I'm currently **available for remote work**, feel free to contact me.
 
