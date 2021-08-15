@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.1.0](https://github.com/phpbench/phpbench/releases/tag/1.1.0), today) - PHP Benchmarking framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.3](https://github.com/vimeo/psalm/releases/tag/4.9.3), today) - A static analysis tool for finding errors in PHP applications
 - [loophp/collection](https://github.com/loophp/collection) ([5.0.0](https://github.com/loophp/collection/releases/tag/5.0.0), 1 week ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [loophp/combinator](https://github.com/loophp/combinator) ([2.0.2](https://github.com/loophp/combinator/releases/tag/2.0.2), 1 week ago) - A curated list of combinators
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.4), 2 weeks ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.0](https://github.com/loophp/psr17/releases/tag/1.0.0), 3 weeks ago) - Provides a PSR17 synthetic implementation.
 - [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) ([2.0.3](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle/releases/tag/2.0.3), 3 weeks ago) - Provide a PSR HTTP message bridge without altering query parameters.
-- [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) ([1.0.0](https://github.com/loophp/psr-http-message-bridge-bundle/releases/tag/1.0.0), 3 weeks ago) - Register symfony/psr-http-message-bridge classes in your Symfony application.
 
 I'm currently **available for remote work**, feel free to contact me.
 
