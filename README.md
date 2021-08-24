@@ -11,6 +11,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (today)
 - [Champs-Libres/wopi-bundle](https://github.com/Champs-Libres/wopi-bundle) - A bundle providing routes and glue code between Symfony and a WOPI connector. (1 day ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
 - [drupol/wopi-bundle](https://github.com/drupol/wopi-bundle) - A bundle providing routes and glue code between Symfony and a WOPI connector. (3 days ago)
@@ -19,7 +20,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [Champs-Libres/wopi-lib](https://github.com/Champs-Libres/wopi-lib) - A standard and framework agnostic PHP library to facilitate the implementation of the WOPI protocol. (1 week ago)
 - [drupol/php-conventions](https://github.com/drupol/php-conventions) -  (1 week ago)
 - [loophp/combinator](https://github.com/loophp/combinator) - A curated list of combinators (2 weeks ago)
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (2 weeks ago)
 - [loophp/compose](https://github.com/loophp/compose) - Temporary repository - Compose function for PHP with Psalm and PHPStan plugin. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
