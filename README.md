@@ -11,12 +11,12 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [Champs-Libres/wopi-bundle](https://github.com/Champs-Libres/wopi-bundle) - A bundle providing routes and glue code between Symfony and a WOPI connector. (today)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
-- [drupol/wopi-bundle](https://github.com/drupol/wopi-bundle) - A bundle providing routes and glue code between Symfony and a WOPI connector. (2 days ago)
-- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (4 days ago)
-- [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (4 days ago)
-- [Champs-Libres/wopi-lib](https://github.com/Champs-Libres/wopi-lib) - A standard and framework agnostic PHP library to facilitate the implementation of the WOPI protocol. (6 days ago)
+- [Champs-Libres/wopi-bundle](https://github.com/Champs-Libres/wopi-bundle) - A bundle providing routes and glue code between Symfony and a WOPI connector. (1 day ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
+- [drupol/wopi-bundle](https://github.com/drupol/wopi-bundle) - A bundle providing routes and glue code between Symfony and a WOPI connector. (3 days ago)
+- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (5 days ago)
+- [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (5 days ago)
+- [Champs-Libres/wopi-lib](https://github.com/Champs-Libres/wopi-lib) - A standard and framework agnostic PHP library to facilitate the implementation of the WOPI protocol. (1 week ago)
 - [drupol/php-conventions](https://github.com/drupol/php-conventions) -  (1 week ago)
 - [loophp/combinator](https://github.com/loophp/combinator) - A curated list of combinators (2 weeks ago)
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (2 weeks ago)
@@ -24,8 +24,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [ecphp/ecas](https://github.com/ecphp/ecas) ([2.1.2](https://github.com/ecphp/ecas/releases/tag/2.1.2), 4 days ago) - CAS library to communicate with eCAS/EULogin
-- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.3.7](https://github.com/ecphp/eu-login-bundle/releases/tag/2.3.7), 4 days ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
+- [ecphp/ecas](https://github.com/ecphp/ecas) ([2.1.2](https://github.com/ecphp/ecas/releases/tag/2.1.2), 5 days ago) - CAS library to communicate with eCAS/EULogin
+- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.3.7](https://github.com/ecphp/eu-login-bundle/releases/tag/2.3.7), 5 days ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.1.0](https://github.com/phpbench/phpbench/releases/tag/1.1.0), 1 week ago) - PHP Benchmarking framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.3](https://github.com/vimeo/psalm/releases/tag/4.9.3), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [loophp/collection](https://github.com/loophp/collection) ([5.0.0](https://github.com/loophp/collection/releases/tag/5.0.0), 2 weeks ago) - A (memory) friendly, easy, lazy and modular collection class.
