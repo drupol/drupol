@@ -11,16 +11,16 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (2 days ago)
-- [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) - Let users customize the PHP configuration through a custom ini file. (2 days ago)
-- [loophp/nanobench](https://github.com/loophp/nanobench) - A simple and lightweight benchmarking tool for PHP. (2 days ago)
-- [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (2 days ago)
-- [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (2 days ago)
-- [drupol/primes-bench](https://github.com/drupol/primes-bench) - A playground for benchmarking Prime numbers iterators. (2 days ago)
-- [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (2 days ago)
-- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (2 days ago)
-- [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (2 days ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
+- [loophp/fpt](https://github.com/loophp/fpt) - Functional programming toolbox for PHP. (3 days ago)
+- [loophp/compose](https://github.com/loophp/compose) - Temporary repository - Compose function for PHP with Psalm and PHPStan plugin. (3 days ago)
+- [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) - Let users customize the PHP configuration through a custom ini file. (3 days ago)
+- [loophp/nanobench](https://github.com/loophp/nanobench) - A simple and lightweight benchmarking tool for PHP. (3 days ago)
+- [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (3 days ago)
+- [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (3 days ago)
+- [drupol/primes-bench](https://github.com/drupol/primes-bench) - A playground for benchmarking Prime numbers iterators. (3 days ago)
+- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (3 days ago)
+- [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -28,7 +28,7 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.3.7](https://github.com/ecphp/eu-login-bundle/releases/tag/2.3.7), 1 week ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.1.0](https://github.com/phpbench/phpbench/releases/tag/1.1.0), 1 week ago) - PHP Benchmarking framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.3](https://github.com/vimeo/psalm/releases/tag/4.9.3), 1 week ago) - A static analysis tool for finding errors in PHP applications
-- [loophp/collection](https://github.com/loophp/collection) ([5.0.0](https://github.com/loophp/collection/releases/tag/5.0.0), 2 weeks ago) - A (memory) friendly, easy, lazy and modular collection class.
+- [loophp/collection](https://github.com/loophp/collection) ([5.0.0](https://github.com/loophp/collection/releases/tag/5.0.0), 3 weeks ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [loophp/combinator](https://github.com/loophp/combinator) ([2.0.2](https://github.com/loophp/combinator/releases/tag/2.0.2), 3 weeks ago) - A curated list of combinators
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.4](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.4), 3 weeks ago) - Base PHP CS Fixer configurations.
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.12.6](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.12.6), 4 weeks ago) - JWT authentication for your Symfony API
