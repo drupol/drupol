@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [consolidation/Robo](https://github.com/consolidation/Robo) ([3.0.4](https://github.com/consolidation/Robo/releases/tag/3.0.4), today) - Modern task runner for PHP
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([2.1.2](https://github.com/ecphp/ecas/releases/tag/2.1.2), 1 week ago) - CAS library to communicate with eCAS/EULogin
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.3.7](https://github.com/ecphp/eu-login-bundle/releases/tag/2.3.7), 1 week ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.1.0](https://github.com/phpbench/phpbench/releases/tag/1.1.0), 1 week ago) - PHP Benchmarking framework
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.4](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.4), 3 weeks ago) - Base PHP CS Fixer configurations.
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.12.6](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.12.6), 1 month ago) - JWT authentication for your Symfony API
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 1 month ago) - The Symfony PHP framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.4), 1 month ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 I'm currently **available for remote work**, feel free to contact me.
 
