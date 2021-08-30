@@ -24,6 +24,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.7](https://github.com/symfony/framework-bundle/releases/tag/v5.3.7), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.7](https://github.com/symfony/symfony/releases/tag/v5.3.7), today) - The Symfony PHP framework
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.5](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.5), today) - Base PHP CS Fixer configurations.
 - [consolidation/Robo](https://github.com/consolidation/Robo) ([3.0.4](https://github.com/consolidation/Robo/releases/tag/3.0.4), 2 days ago) - Modern task runner for PHP
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([2.1.2](https://github.com/ecphp/ecas/releases/tag/2.1.2), 1 week ago) - CAS library to communicate with eCAS/EULogin
@@ -32,8 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.3](https://github.com/vimeo/psalm/releases/tag/4.9.3), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [loophp/collection](https://github.com/loophp/collection) ([5.0.0](https://github.com/loophp/collection/releases/tag/5.0.0), 3 weeks ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [loophp/combinator](https://github.com/loophp/combinator) ([2.0.2](https://github.com/loophp/combinator/releases/tag/2.0.2), 3 weeks ago) - A curated list of combinators
-- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.12.6](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.12.6), 1 month ago) - JWT authentication for your Symfony API
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 1 month ago) - The Symfony PHP framework
 
 I'm currently **available for remote work**, feel free to contact me.
 
