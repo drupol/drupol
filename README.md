@@ -13,12 +13,12 @@ More about me on my blog: https://not-a-number.io/about/
 
 - [Champs-Libres/wopi-lib](https://github.com/Champs-Libres/wopi-lib) - A standard and framework agnostic PHP library to facilitate the implementation of the WOPI protocol. (today)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
+- [Champs-Libres/wopi-bundle](https://github.com/Champs-Libres/wopi-bundle) - A bundle providing routes and glue code between Symfony and a WOPI connector. (today)
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (1 day ago)
 - [loophp/fpt](https://github.com/loophp/fpt) - Functional programming toolbox for PHP. (1 week ago)
+- [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (1 week ago)
 - [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (1 week ago)
-- [loophp/phpspec-time](https://github.com/loophp/phpspec-time) - A PHPSpec extension providing matchers for measuring time in tests. (1 week ago)
-- [drupol/primes-bench](https://github.com/drupol/primes-bench) - A playground for benchmarking Prime numbers iterators. (1 week ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (1 week ago)
+- [loophp/nanobench](https://github.com/loophp/nanobench) - A simple and lightweight benchmarking tool for PHP. (1 week ago)
 - [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (1 week ago)
 - [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (1 week ago)
 
