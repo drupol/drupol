@@ -11,10 +11,10 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [Champs-Libres/wopi-lib](https://github.com/Champs-Libres/wopi-lib) - A standard and framework agnostic PHP library to facilitate the implementation of the WOPI protocol. (today)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
-- [Champs-Libres/wopi-bundle](https://github.com/Champs-Libres/wopi-bundle) - A bundle providing routes and glue code between Symfony and a WOPI connector. (today)
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (1 day ago)
+- [Champs-Libres/wopi-lib](https://github.com/Champs-Libres/wopi-lib) - A standard and framework agnostic PHP library to facilitate the implementation of the WOPI protocol. (1 day ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
+- [Champs-Libres/wopi-bundle](https://github.com/Champs-Libres/wopi-bundle) - A bundle providing routes and glue code between Symfony and a WOPI connector. (1 day ago)
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (2 days ago)
 - [loophp/fpt](https://github.com/loophp/fpt) - Functional programming toolbox for PHP. (1 week ago)
 - [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (1 week ago)
 - [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (1 week ago)
@@ -24,16 +24,16 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.6](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.6), 1 day ago) - Base PHP CS Fixer configurations.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.7](https://github.com/symfony/framework-bundle/releases/tag/v5.3.7), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.7](https://github.com/symfony/symfony/releases/tag/v5.3.7), 1 day ago) - The Symfony PHP framework
-- [consolidation/Robo](https://github.com/consolidation/Robo) ([3.0.4](https://github.com/consolidation/Robo/releases/tag/3.0.4), 3 days ago) - Modern task runner for PHP
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.6](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.6), 2 days ago) - Base PHP CS Fixer configurations.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.7](https://github.com/symfony/framework-bundle/releases/tag/v5.3.7), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.7](https://github.com/symfony/symfony/releases/tag/v5.3.7), 2 days ago) - The Symfony PHP framework
+- [consolidation/Robo](https://github.com/consolidation/Robo) ([3.0.4](https://github.com/consolidation/Robo/releases/tag/3.0.4), 4 days ago) - Modern task runner for PHP
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([2.1.2](https://github.com/ecphp/ecas/releases/tag/2.1.2), 1 week ago) - CAS library to communicate with eCAS/EULogin
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.3.7](https://github.com/ecphp/eu-login-bundle/releases/tag/2.3.7), 1 week ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.1.0](https://github.com/phpbench/phpbench/releases/tag/1.1.0), 2 weeks ago) - PHP Benchmarking framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.3](https://github.com/vimeo/psalm/releases/tag/4.9.3), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [loophp/collection](https://github.com/loophp/collection) ([5.0.0](https://github.com/loophp/collection/releases/tag/5.0.0), 3 weeks ago) - A (memory) friendly, easy, lazy and modular collection class.
-- [loophp/combinator](https://github.com/loophp/combinator) ([2.0.2](https://github.com/loophp/combinator/releases/tag/2.0.2), 3 weeks ago) - A curated list of combinators
+- [loophp/combinator](https://github.com/loophp/combinator) ([2.0.2](https://github.com/loophp/combinator/releases/tag/2.0.2), 4 weeks ago) - A curated list of combinators
 
 I'm currently **available for remote work**, feel free to contact me.
 
