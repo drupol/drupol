@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.1.1](https://github.com/phpbench/phpbench/releases/tag/1.1.1), today) - PHP Benchmarking framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.10.0](https://github.com/vimeo/psalm/releases/tag/4.10.0), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.6](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.6), 1 week ago) - Base PHP CS Fixer configurations.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.7](https://github.com/symfony/framework-bundle/releases/tag/v5.3.7), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
@@ -31,7 +32,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [consolidation/Robo](https://github.com/consolidation/Robo) ([3.0.4](https://github.com/consolidation/Robo/releases/tag/3.0.4), 1 week ago) - Modern task runner for PHP
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([2.1.2](https://github.com/ecphp/ecas/releases/tag/2.1.2), 2 weeks ago) - CAS library to communicate with eCAS/EULogin
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.3.7](https://github.com/ecphp/eu-login-bundle/releases/tag/2.3.7), 2 weeks ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
-- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.1.0](https://github.com/phpbench/phpbench/releases/tag/1.1.0), 3 weeks ago) - PHP Benchmarking framework
 - [loophp/collection](https://github.com/loophp/collection) ([5.0.0](https://github.com/loophp/collection/releases/tag/5.0.0), 1 month ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [loophp/combinator](https://github.com/loophp/combinator) ([2.0.2](https://github.com/loophp/combinator/releases/tag/2.0.2), 1 month ago) - A curated list of combinators
 
