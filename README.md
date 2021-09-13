@@ -11,12 +11,12 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
-- [Champs-Libres/wopi-bundle](https://github.com/Champs-Libres/wopi-bundle) - A bundle providing routes and glue code between Symfony and a WOPI connector. (3 days ago)
-- [Champs-Libres/wopi-lib](https://github.com/Champs-Libres/wopi-lib) - A standard and framework agnostic PHP library to facilitate the implementation of the WOPI protocol. (3 days ago)
-- [Champs-Libres/wopi-test-bundle](https://github.com/Champs-Libres/wopi-test-bundle) - A bundle for testing champs-libres/wopi-bundle (3 days ago)
-- [ydarchi/www.yd.archi](https://github.com/ydarchi/www.yd.archi) -  (4 days ago)
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (1 week ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (2 days ago)
+- [Champs-Libres/wopi-bundle](https://github.com/Champs-Libres/wopi-bundle) - A bundle providing routes and glue code between Symfony and a WOPI connector. (4 days ago)
+- [Champs-Libres/wopi-lib](https://github.com/Champs-Libres/wopi-lib) - A standard and framework agnostic PHP library to facilitate the implementation of the WOPI protocol. (4 days ago)
+- [Champs-Libres/wopi-test-bundle](https://github.com/Champs-Libres/wopi-test-bundle) - A bundle for testing champs-libres/wopi-bundle (4 days ago)
+- [ydarchi/www.yd.archi](https://github.com/ydarchi/www.yd.archi) -  (5 days ago)
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (2 weeks ago)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (2 weeks ago)
 - [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) - Let users customize the PHP configuration through a custom ini file. (2 weeks ago)
 - [drupol/primes-bench](https://github.com/drupol/primes-bench) - A playground for benchmarking Prime numbers iterators. (2 weeks ago)
@@ -24,11 +24,11 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.1.1](https://github.com/phpbench/phpbench/releases/tag/1.1.1), 4 days ago) - PHP Benchmarking framework
+- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.1.1](https://github.com/phpbench/phpbench/releases/tag/1.1.1), 5 days ago) - PHP Benchmarking framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.10.0](https://github.com/vimeo/psalm/releases/tag/4.10.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.6](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.6), 1 week ago) - Base PHP CS Fixer configurations.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.7](https://github.com/symfony/framework-bundle/releases/tag/v5.3.7), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.7](https://github.com/symfony/symfony/releases/tag/v5.3.7), 1 week ago) - The Symfony PHP framework
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.6](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.6), 2 weeks ago) - Base PHP CS Fixer configurations.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.7](https://github.com/symfony/framework-bundle/releases/tag/v5.3.7), 2 weeks ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.7](https://github.com/symfony/symfony/releases/tag/v5.3.7), 2 weeks ago) - The Symfony PHP framework
 - [consolidation/Robo](https://github.com/consolidation/Robo) ([3.0.4](https://github.com/consolidation/Robo/releases/tag/3.0.4), 2 weeks ago) - Modern task runner for PHP
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([2.1.2](https://github.com/ecphp/ecas/releases/tag/2.1.2), 3 weeks ago) - CAS library to communicate with eCAS/EULogin
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.3.7](https://github.com/ecphp/eu-login-bundle/releases/tag/2.3.7), 3 weeks ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
