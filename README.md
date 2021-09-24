@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.5.0](https://github.com/phpro/grumphp/releases/tag/v1.5.0), today) - A PHP code-quality tool
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.3](https://github.com/laminas/laminas-code/releases/tag/4.4.3), 3 days ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.13.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.13.0), 1 week ago) - JWT authentication for your Symfony API
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.1.1](https://github.com/phpbench/phpbench/releases/tag/1.1.1), 2 weeks ago) - PHP Benchmarking framework
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.7](https://github.com/symfony/symfony/releases/tag/v5.3.7), 3 weeks ago) - The Symfony PHP framework
 - [consolidation/Robo](https://github.com/consolidation/Robo) ([3.0.4](https://github.com/consolidation/Robo/releases/tag/3.0.4), 3 weeks ago) - Modern task runner for PHP
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([2.1.2](https://github.com/ecphp/ecas/releases/tag/2.1.2), 1 month ago) - CAS library to communicate with eCAS/EULogin
-- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.3.7](https://github.com/ecphp/eu-login-bundle/releases/tag/2.3.7), 1 month ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 
 I'm currently **available for remote work**, feel free to contact me.
 
