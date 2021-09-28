@@ -24,8 +24,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), today) - The Symfony PHP framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.8](https://github.com/symfony/framework-bundle/releases/tag/v5.3.8), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.8](https://github.com/symfony/symfony/releases/tag/v5.3.8), today) - The Symfony PHP framework
 - [loophp/collection](https://github.com/loophp/collection) ([5.1.0](https://github.com/loophp/collection/releases/tag/5.1.0), 1 day ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [drupol/cv](https://github.com/drupol/cv) ([v14-aa1e8fd](https://github.com/drupol/cv/releases/tag/v14-aa1e8fd), 1 day ago) - My public CV
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.1.2](https://github.com/phpbench/phpbench/releases/tag/1.1.2), 3 days ago) - PHP Benchmarking framework
