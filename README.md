@@ -11,10 +11,10 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (3 days ago)
-- [alexanderpas/php-http-enum](https://github.com/alexanderpas/php-http-enum) -  (5 days ago)
-- [drupol/wopi-app](https://github.com/drupol/wopi-app) -  (6 days ago)
-- [Champs-Libres/wopi-test-bundle](https://github.com/Champs-Libres/wopi-test-bundle) - A bundle for testing champs-libres/wopi-bundle (6 days ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (4 days ago)
+- [alexanderpas/php-http-enum](https://github.com/alexanderpas/php-http-enum) -  (6 days ago)
+- [drupol/wopi-app](https://github.com/drupol/wopi-app) -  (1 week ago)
+- [Champs-Libres/wopi-test-bundle](https://github.com/Champs-Libres/wopi-test-bundle) - A bundle for testing champs-libres/wopi-bundle (1 week ago)
 - [Champs-Libres/wopi-lib](https://github.com/Champs-Libres/wopi-lib) - A standard and framework agnostic PHP library to facilitate the implementation of the WOPI protocol. (1 week ago)
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (1 week ago)
 - [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (1 week ago)
@@ -30,7 +30,7 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/collection](https://github.com/loophp/collection) ([5.1.0](https://github.com/loophp/collection/releases/tag/5.1.0), 1 week ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [drupol/cv](https://github.com/drupol/cv) ([v14-aa1e8fd](https://github.com/drupol/cv/releases/tag/v14-aa1e8fd), 1 week ago) - My public CV
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.1.2](https://github.com/phpbench/phpbench/releases/tag/1.1.2), 1 week ago) - PHP Benchmarking framework
-- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.5.0](https://github.com/phpro/grumphp/releases/tag/v1.5.0), 1 week ago) - A PHP code-quality tool
+- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.5.0](https://github.com/phpro/grumphp/releases/tag/v1.5.0), 2 weeks ago) - A PHP code-quality tool
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.3](https://github.com/laminas/laminas-code/releases/tag/4.4.3), 2 weeks ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [alexanderpas/php-http-enum](https://github.com/alexanderpas/php-http-enum) ([1.0.0](https://github.com/alexanderpas/php-http-enum/releases/tag/1.0.0), 2 weeks ago) - 
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.13.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.13.0), 3 weeks ago) - JWT authentication for your Symfony API
