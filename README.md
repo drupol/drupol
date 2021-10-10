@@ -11,8 +11,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (today)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (5 days ago)
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (1 day ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (6 days ago)
 - [alexanderpas/php-http-enum](https://github.com/alexanderpas/php-http-enum) -  (1 week ago)
 - [drupol/wopi-app](https://github.com/drupol/wopi-app) -  (1 week ago)
 - [Champs-Libres/wopi-test-bundle](https://github.com/Champs-Libres/wopi-test-bundle) - A bundle for testing champs-libres/wopi-bundle (1 week ago)
@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.7](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.7), today) - Base PHP CS Fixer configurations.
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.7](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.7), 1 day ago) - Base PHP CS Fixer configurations.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 1 week ago) - The Symfony PHP framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.8](https://github.com/symfony/framework-bundle/releases/tag/v5.3.8), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
