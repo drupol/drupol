@@ -17,7 +17,7 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (3 days ago)
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (1 week ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 week ago)
-- [alexanderpas/php-http-enum](https://github.com/alexanderpas/php-http-enum) -  (2 weeks ago)
+- [alexanderpas/php-http-enum](https://github.com/alexanderpas/php-http-enum) - Composer package providing HTTP Methods, Status Codes and Reason Phrases for PHP (2 weeks ago)
 - [drupol/wopi-app](https://github.com/drupol/wopi-app) -  (2 weeks ago)
 - [Champs-Libres/wopi-test-bundle](https://github.com/Champs-Libres/wopi-test-bundle) - A bundle for testing champs-libres/wopi-bundle (2 weeks ago)
 - [Champs-Libres/wopi-lib](https://github.com/Champs-Libres/wopi-lib) - A standard and framework agnostic PHP library to facilitate the implementation of the WOPI protocol. (2 weeks ago)
