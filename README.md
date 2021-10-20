@@ -11,20 +11,20 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (1 day ago)
-- [loophp/compose](https://github.com/loophp/compose) - Temporary repository - Compose function for PHP with Psalm and PHPStan plugin. (1 day ago)
-- [drupol/yaroc](https://github.com/drupol/yaroc) - YAROC: Yet Another Random.Org Client. (1 day ago)
-- [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) - Let users customize the PHP configuration through a custom ini file. (1 day ago)
-- [loophp/fpt](https://github.com/loophp/fpt) - Functional programming toolbox for PHP. (1 day ago)
-- [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (1 day ago)
-- [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (1 day ago)
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (1 day ago)
-- [loophp/nanobench](https://github.com/loophp/nanobench) - A simple and lightweight benchmarking tool for PHP. (1 day ago)
-- [drupol/primes-bench](https://github.com/drupol/primes-bench) - A playground for benchmarking Prime numbers iterators. (1 day ago)
+- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (2 days ago)
+- [loophp/compose](https://github.com/loophp/compose) - Temporary repository - Compose function for PHP with Psalm and PHPStan plugin. (2 days ago)
+- [drupol/yaroc](https://github.com/drupol/yaroc) - YAROC: Yet Another Random.Org Client. (2 days ago)
+- [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) - Let users customize the PHP configuration through a custom ini file. (2 days ago)
+- [loophp/fpt](https://github.com/loophp/fpt) - Functional programming toolbox for PHP. (2 days ago)
+- [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (2 days ago)
+- [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (2 days ago)
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (2 days ago)
+- [loophp/nanobench](https://github.com/loophp/nanobench) - A simple and lightweight benchmarking tool for PHP. (2 days ago)
+- [drupol/primes-bench](https://github.com/drupol/primes-bench) - A playground for benchmarking Prime numbers iterators. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ecphp/ecas](https://github.com/ecphp/ecas) ([2.1.3](https://github.com/ecphp/ecas/releases/tag/2.1.3), 6 days ago) - CAS library to communicate with eCAS/EULogin
+- [ecphp/ecas](https://github.com/ecphp/ecas) ([2.1.3](https://github.com/ecphp/ecas/releases/tag/2.1.3), 1 week ago) - CAS library to communicate with eCAS/EULogin
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.7](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.7), 1 week ago) - Base PHP CS Fixer configurations.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 3 weeks ago) - The Symfony PHP framework
