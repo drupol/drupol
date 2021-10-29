@@ -11,11 +11,11 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [Chris00/latex-umons](https://github.com/Chris00/latex-umons) - Various LaTeX classes to write tests, homeworks, and master&#39;s theses. (today)
-- [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (today)
-- [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (1 day ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (3 days ago)
-- [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (5 days ago)
+- [Chris00/latex-umons](https://github.com/Chris00/latex-umons) - Various LaTeX classes to write tests, homeworks, and master&#39;s theses. (1 day ago)
+- [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (1 day ago)
+- [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (2 days ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (4 days ago)
+- [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (6 days ago)
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) - A collection of type-safe functional data structures (1 week ago)
 - [loophp/compose](https://github.com/loophp/compose) - Temporary repository - Compose function for PHP with Psalm and PHPStan plugin. (1 week ago)
 - [drupol/primes-bench](https://github.com/drupol/primes-bench) - A playground for benchmarking Prime numbers iterators. (1 week ago)
@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.11.2](https://github.com/vimeo/psalm/releases/tag/4.11.2), 2 days ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.11.2](https://github.com/vimeo/psalm/releases/tag/4.11.2), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([2.1.3](https://github.com/ecphp/ecas/releases/tag/2.1.3), 2 weeks ago) - CAS library to communicate with eCAS/EULogin
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.7](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.7), 2 weeks ago) - Base PHP CS Fixer configurations.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 4 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
