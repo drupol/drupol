@@ -24,12 +24,12 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.10](https://github.com/symfony/framework-bundle/releases/tag/v5.3.10), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.10](https://github.com/symfony/symfony/releases/tag/v5.3.10), today) - The Symfony PHP framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.11.2](https://github.com/vimeo/psalm/releases/tag/4.11.2), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([2.1.3](https://github.com/ecphp/ecas/releases/tag/2.1.3), 2 weeks ago) - CAS library to communicate with eCAS/EULogin
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.7](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.7), 2 weeks ago) - Base PHP CS Fixer configurations.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 4 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 1 month ago) - The Symfony PHP framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.8](https://github.com/symfony/framework-bundle/releases/tag/v5.3.8), 1 month ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [loophp/collection](https://github.com/loophp/collection) ([5.1.0](https://github.com/loophp/collection/releases/tag/5.1.0), 1 month ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [drupol/cv](https://github.com/drupol/cv) ([v14-aa1e8fd](https://github.com/drupol/cv/releases/tag/v14-aa1e8fd), 1 month ago) - My public CV
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.1.2](https://github.com/phpbench/phpbench/releases/tag/1.1.2), 1 month ago) - PHP Benchmarking framework
