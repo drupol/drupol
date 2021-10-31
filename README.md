@@ -11,10 +11,10 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [Chris00/latex-umons](https://github.com/Chris00/latex-umons) - Various LaTeX classes to write tests, homeworks, and master&#39;s theses. (2 days ago)
-- [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (2 days ago)
-- [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (3 days ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (5 days ago)
+- [Chris00/latex-umons](https://github.com/Chris00/latex-umons) - Various LaTeX classes to write tests, homeworks, and master&#39;s theses. (3 days ago)
+- [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (3 days ago)
+- [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (4 days ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (6 days ago)
 - [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (1 week ago)
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) - A collection of type-safe functional data structures (1 week ago)
 - [loophp/compose](https://github.com/loophp/compose) - Temporary repository - Compose function for PHP with Psalm and PHPStan plugin. (1 week ago)
@@ -24,9 +24,9 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.10](https://github.com/symfony/framework-bundle/releases/tag/v5.3.10), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.10](https://github.com/symfony/symfony/releases/tag/v5.3.10), 1 day ago) - The Symfony PHP framework
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.11.2](https://github.com/vimeo/psalm/releases/tag/4.11.2), 4 days ago) - A static analysis tool for finding errors in PHP applications
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.10](https://github.com/symfony/framework-bundle/releases/tag/v5.3.10), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.10](https://github.com/symfony/symfony/releases/tag/v5.3.10), 2 days ago) - The Symfony PHP framework
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.11.2](https://github.com/vimeo/psalm/releases/tag/4.11.2), 5 days ago) - A static analysis tool for finding errors in PHP applications
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([2.1.3](https://github.com/ecphp/ecas/releases/tag/2.1.3), 2 weeks ago) - CAS library to communicate with eCAS/EULogin
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.7](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.7), 3 weeks ago) - Base PHP CS Fixer configurations.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
