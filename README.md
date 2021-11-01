@@ -11,6 +11,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [loophp/nanobench](https://github.com/loophp/nanobench) - A simple and lightweight benchmarking tool for PHP. (today)
+- [drupol/php-conventions](https://github.com/drupol/php-conventions) -  (today)
 - [Chris00/latex-umons](https://github.com/Chris00/latex-umons) - Various LaTeX classes to write tests, homeworks, and master&#39;s theses. (4 days ago)
 - [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (4 days ago)
 - [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (5 days ago)
@@ -18,9 +20,7 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (1 week ago)
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) - A collection of type-safe functional data structures (1 week ago)
 - [loophp/compose](https://github.com/loophp/compose) - Temporary repository - Compose function for PHP with Psalm and PHPStan plugin. (2 weeks ago)
-- [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) - Let users customize the PHP configuration through a custom ini file. (2 weeks ago)
 - [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (2 weeks ago)
-- [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
