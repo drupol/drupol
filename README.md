@@ -24,11 +24,11 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.12.0](https://github.com/vimeo/psalm/releases/tag/4.12.0), today) - A static analysis tool for finding errors in PHP applications
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.0](https://github.com/phpbench/phpbench/releases/tag/1.2.0), today) - PHP Benchmarking framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0-BETA1), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA1), 1 day ago) - The Symfony PHP framework
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.14.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.14.1), 4 days ago) - JWT authentication for your Symfony API
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.11.2](https://github.com/vimeo/psalm/releases/tag/4.11.2), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([2.1.3](https://github.com/ecphp/ecas/releases/tag/2.1.3), 3 weeks ago) - CAS library to communicate with eCAS/EULogin
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.7](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.7), 4 weeks ago) - Base PHP CS Fixer configurations.
 - [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.2.0](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.2.0), 1 month ago) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
