@@ -17,14 +17,14 @@ More about me on my blog: https://not-a-number.io/about/
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (1 week ago)
 - [drupol/yaroc](https://github.com/drupol/yaroc) - YAROC: Yet Another Random.Org Client. (1 week ago)
 - [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (1 week ago)
-- [loophp/fpt](https://github.com/loophp/fpt) - Functional programming toolbox for PHP. (1 week ago)
 - [loophp/compose](https://github.com/loophp/compose) - Temporary repository - Compose function for PHP with Psalm and PHPStan plugin. (1 week ago)
 - [loophp/nanobench](https://github.com/loophp/nanobench) - A simple and lightweight benchmarking tool for PHP. (1 week ago)
 - [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (1 week ago)
+- [drupol/primes-bench](https://github.com/drupol/primes-bench) - A playground for benchmarking Prime numbers iterators. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v22-cb4ff4e](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v22-cb4ff4e), today) - Session
+- [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v23-33d9b90](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v23-33d9b90), today) - Session
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.12.0](https://github.com/vimeo/psalm/releases/tag/4.12.0), 4 days ago) - A static analysis tool for finding errors in PHP applications
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.0](https://github.com/phpbench/phpbench/releases/tag/1.2.0), 4 days ago) - PHP Benchmarking framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0-BETA1), 5 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
