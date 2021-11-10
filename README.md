@@ -11,7 +11,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) - Session (today)
+- [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) - Session &#39;Composition and inheritance&#39; (today)
 - [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (2 days ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (2 days ago)
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (1 week ago)
@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v23-33d9b90](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v23-33d9b90), today) - Session
+- [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v26-7b05ed7](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v26-7b05ed7), today) - Session &#39;Composition and inheritance&#39;
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.12.0](https://github.com/vimeo/psalm/releases/tag/4.12.0), 4 days ago) - A static analysis tool for finding errors in PHP applications
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.0](https://github.com/phpbench/phpbench/releases/tag/1.2.0), 4 days ago) - PHP Benchmarking framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0-BETA1), 5 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
