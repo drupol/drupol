@@ -11,9 +11,9 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (1 day ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
 - [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) - Session &#39;Composition and inheritance&#39; (1 day ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (3 days ago)
+- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (1 day ago)
 - [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (3 days ago)
 - [loophp/phpspec-time](https://github.com/loophp/phpspec-time) - A PHPSpec extension providing matchers for measuring time in tests. (1 week ago)
 - [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (1 week ago)
@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [loophp/collection](https://github.com/loophp/collection) ([6.0.0](https://github.com/loophp/collection/releases/tag/6.0.0), today) - A (memory) friendly, easy, lazy and modular collection class.
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.3.8](https://github.com/ecphp/eu-login-bundle/releases/tag/2.3.8), 1 day ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v26-7b05ed7](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v26-7b05ed7), 1 day ago) - Session &#39;Composition and inheritance&#39;
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.12.0](https://github.com/vimeo/psalm/releases/tag/4.12.0), 5 days ago) - A static analysis tool for finding errors in PHP applications
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.14.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.14.1), 1 week ago) - JWT authentication for your Symfony API
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([2.1.3](https://github.com/ecphp/ecas/releases/tag/2.1.3), 4 weeks ago) - CAS library to communicate with eCAS/EULogin
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.7](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.7), 1 month ago) - Base PHP CS Fixer configurations.
-- [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.2.0](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.2.0), 1 month ago) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
 
 I'm currently **available for remote work**, feel free to contact me.
 
