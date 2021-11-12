@@ -11,7 +11,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
 - [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) - Session &#39;Composition and inheritance&#39; (2 days ago)
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (2 days ago)
 - [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (4 days ago)
@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [loophp/collection](https://github.com/loophp/collection) ([6.0.0](https://github.com/loophp/collection/releases/tag/6.0.0), 1 day ago) - A (memory) friendly, easy, lazy and modular collection class.
+- [loophp/collection](https://github.com/loophp/collection) ([6.0.1](https://github.com/loophp/collection/releases/tag/6.0.1), today) - A (memory) friendly, easy, lazy and modular collection class.
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.3.8](https://github.com/ecphp/eu-login-bundle/releases/tag/2.3.8), 2 days ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v26-7b05ed7](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v26-7b05ed7), 2 days ago) - Session &#39;Composition and inheritance&#39;
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.12.0](https://github.com/vimeo/psalm/releases/tag/4.12.0), 6 days ago) - A static analysis tool for finding errors in PHP applications
