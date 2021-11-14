@@ -24,8 +24,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v5.4.0-BETA2), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.0-BETA2](https://github.com/symfony/symfony/releases/tag/v5.4.0-BETA2), today) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0-BETA2), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA2), today) - The Symfony PHP framework
 - [drupol/cv](https://github.com/drupol/cv) ([v15-cffdb27](https://github.com/drupol/cv/releases/tag/v15-cffdb27), 1 day ago) - My public CV
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.3.1](https://github.com/ecphp/cas-bundle/releases/tag/2.3.1), 2 days ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.3.9](https://github.com/ecphp/eu-login-bundle/releases/tag/2.3.9), 2 days ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
