@@ -24,8 +24,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.3.1](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.3.1), today) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.8](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.8), 1 day ago) - Base PHP CS Fixer configurations.
-- [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.3.0](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.3.0), 3 days ago) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0-BETA2), 4 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA2), 4 days ago) - The Symfony PHP framework
 - [drupol/cv](https://github.com/drupol/cv) ([v15-cffdb27](https://github.com/drupol/cv/releases/tag/v15-cffdb27), 5 days ago) - My public CV
