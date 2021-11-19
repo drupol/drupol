@@ -11,7 +11,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) - WIP (today)
+- [loophp/service-alias-auto-register](https://github.com/loophp/service-alias-auto-register) - Auto register services implementing interfaces. (today)
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (2 days ago)
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) - A collection of type-safe functional data structures (5 days ago)
 - [drupol/cv](https://github.com/drupol/cv) - My public CV (6 days ago)
