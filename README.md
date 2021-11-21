@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.13.0](https://github.com/vimeo/psalm/releases/tag/4.13.0), today) - A static analysis tool for finding errors in PHP applications
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0-BETA3), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA3), 3 days ago) - The Symfony PHP framework
 - [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.3.1](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.3.1), 3 days ago) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.3.9](https://github.com/ecphp/eu-login-bundle/releases/tag/2.3.9), 1 week ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v29-437e9bb](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v29-437e9bb), 1 week ago) - Session &#39;Composition and inheritance&#39;
 - [loophp/collection](https://github.com/loophp/collection) ([6.0.1](https://github.com/loophp/collection/releases/tag/6.0.1), 1 week ago) - A (memory) friendly, easy, lazy and modular collection class.
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.12.0](https://github.com/vimeo/psalm/releases/tag/4.12.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 
 I'm currently **available for remote work**, feel free to contact me.
 
