@@ -24,9 +24,9 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.11](https://github.com/symfony/framework-bundle/releases/tag/v5.3.11), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.11](https://github.com/symfony/symfony/releases/tag/v5.3.11), today) - The Symfony PHP framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.13.0](https://github.com/vimeo/psalm/releases/tag/4.13.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0-BETA3), 4 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA3), 4 days ago) - The Symfony PHP framework
 - [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.3.1](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.3.1), 4 days ago) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.8](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.8), 5 days ago) - Base PHP CS Fixer configurations.
 - [drupol/cv](https://github.com/drupol/cv) ([v15-cffdb27](https://github.com/drupol/cv/releases/tag/v15-cffdb27), 1 week ago) - My public CV
