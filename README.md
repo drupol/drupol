@@ -11,16 +11,16 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (today)
+- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (today)
 - [loophp/nanobench](https://github.com/loophp/nanobench) - A simple and lightweight benchmarking tool for PHP. (today)
 - [drupol/primes-bench](https://github.com/drupol/primes-bench) - A playground for benchmarking Prime numbers iterators. (today)
 - [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) - Auto register services aliases in the Symfony container. (today)
+- [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (today)
 - [loophp/fpt](https://github.com/loophp/fpt) - Functional programming toolbox for PHP. (today)
-- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (today)
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (today)
 - [loophp/phpspec-time](https://github.com/loophp/phpspec-time) - A PHPSpec extension providing matchers for measuring time in tests. (today)
 - [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (1 day ago)
-- [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
