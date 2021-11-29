@@ -12,15 +12,15 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
+- [loophp/phpspec-time](https://github.com/loophp/phpspec-time) - A PHPSpec extension providing matchers for measuring time in tests. (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - TODO (2 days ago)
-- [drupol/primes-bench](https://github.com/drupol/primes-bench) - A playground for benchmarking Prime numbers iterators. (3 days ago)
-- [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (3 days ago)
-- [loophp/phpspec-time](https://github.com/loophp/phpspec-time) - A PHPSpec extension providing matchers for measuring time in tests. (3 days ago)
-- [loophp/nanobench](https://github.com/loophp/nanobench) - A simple and lightweight benchmarking tool for PHP. (3 days ago)
-- [loophp/fpt](https://github.com/loophp/fpt) - Functional programming toolbox for PHP. (3 days ago)
 - [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (3 days ago)
+- [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) - Auto register services aliases in the Symfony container. (3 days ago)
+- [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (3 days ago)
+- [loophp/fpt](https://github.com/loophp/fpt) - Functional programming toolbox for PHP. (3 days ago)
+- [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
