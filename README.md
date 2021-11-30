@@ -11,21 +11,21 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/cv](https://github.com/drupol/cv) - My public CV (today)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (today)
+- [drupol/cv](https://github.com/drupol/cv) - My public CV (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 day ago)
 - [loophp/phpspec-time](https://github.com/loophp/phpspec-time) - A PHPSpec extension providing matchers for measuring time in tests. (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 day ago)
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - TODO (3 days ago)
 - [drupol/primes-bench](https://github.com/drupol/primes-bench) - A playground for benchmarking Prime numbers iterators. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [loophp/collection](https://github.com/loophp/collection) ([6.0.2](https://github.com/loophp/collection/releases/tag/6.0.2), today) - A (memory) friendly, easy, lazy and modular collection class.
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) ([1.0.0](https://github.com/loophp/flake-lock-update-workflow/releases/tag/1.0.0), today) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically.
+- [loophp/collection](https://github.com/loophp/collection) ([6.0.2](https://github.com/loophp/collection/releases/tag/6.0.2), today) - A (memory) friendly, easy, lazy and modular collection class.
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.10](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.10), today) - Base PHP CS Fixer configurations.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0](https://github.com/symfony/symfony/releases/tag/v6.0.0), 1 day ago) - The Symfony PHP framework
