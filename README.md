@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.1](https://github.com/phpbench/phpbench/releases/tag/1.2.1), today) - PHP Benchmarking framework
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) ([1.0.2](https://github.com/loophp/flake-lock-update-workflow/releases/tag/1.0.2), today) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically.
 - [loophp/collection](https://github.com/loophp/collection) ([6.0.2](https://github.com/loophp/collection/releases/tag/6.0.2), 4 days ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.10](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.10), 4 days ago) - Base PHP CS Fixer configurations.
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.13.1](https://github.com/vimeo/psalm/releases/tag/4.13.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.3.1](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.3.1), 2 weeks ago) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.3.1](https://github.com/ecphp/cas-bundle/releases/tag/2.3.1), 3 weeks ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
-- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.3.9](https://github.com/ecphp/eu-login-bundle/releases/tag/2.3.9), 3 weeks ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 
 I'm currently **available for remote work**, feel free to contact me.
 
