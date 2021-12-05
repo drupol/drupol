@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.14.2](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.14.2), today) - JWT authentication for your Symfony API
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([v4.14.0](https://github.com/vimeo/psalm/releases/tag/v4.14.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.1](https://github.com/phpbench/phpbench/releases/tag/1.2.1), 1 day ago) - PHP Benchmarking framework
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) ([1.0.2](https://github.com/loophp/flake-lock-update-workflow/releases/tag/1.0.2), 1 day ago) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically.
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0](https://github.com/symfony/symfony/releases/tag/v6.0.0), 6 days ago) - The Symfony PHP framework
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.6.0](https://github.com/phpro/grumphp/releases/tag/v1.6.0), 1 week ago) - A PHP code-quality tool
 - [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.3.1](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.3.1), 2 weeks ago) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
-- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.3.1](https://github.com/ecphp/cas-bundle/releases/tag/2.3.1), 3 weeks ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 
 I'm currently **available for remote work**, feel free to contact me.
 
