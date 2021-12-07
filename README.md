@@ -24,9 +24,9 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([v4.15.0](https://github.com/vimeo/psalm/releases/tag/v4.15.0), today) - A static analysis tool for finding errors in PHP applications
 - [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.4.0](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.4.0), 2 days ago) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.14.2](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.14.2), 2 days ago) - JWT authentication for your Symfony API
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([v4.14.0](https://github.com/vimeo/psalm/releases/tag/v4.14.0), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.1](https://github.com/phpbench/phpbench/releases/tag/1.2.1), 3 days ago) - PHP Benchmarking framework
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) ([1.0.2](https://github.com/loophp/flake-lock-update-workflow/releases/tag/1.0.2), 3 days ago) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically.
 - [loophp/collection](https://github.com/loophp/collection) ([6.0.2](https://github.com/loophp/collection/releases/tag/6.0.2), 1 week ago) - A (memory) friendly, easy, lazy and modular collection class.
