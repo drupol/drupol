@@ -13,14 +13,14 @@ More about me on my blog: https://not-a-number.io/about/
 
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (1 day ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (3 days ago)
-- [marcosh/lamphpda](https://github.com/marcosh/lamphpda) - A collection of type-safe functional data structures (4 days ago)
 - [loophp/tin](https://github.com/loophp/tin) - Taxpayer Identification Number (TIN) Validator (4 days ago)
+- [marcosh/lamphpda](https://github.com/marcosh/lamphpda) - A collection of type-safe functional data structures (4 days ago)
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (6 days ago)
 - [drupol/rustin](https://github.com/drupol/rustin) -  (1 week ago)
 - [doctrine/persistence](https://github.com/doctrine/persistence) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence. (1 week ago)
-- [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
