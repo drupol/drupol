@@ -15,12 +15,12 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (1 day ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (3 days ago)
+- [marcosh/lamphpda](https://github.com/marcosh/lamphpda) - A collection of type-safe functional data structures (4 days ago)
 - [loophp/tin](https://github.com/loophp/tin) - Taxpayer Identification Number (TIN) Validator (4 days ago)
-- [marcosh/lamphpda](https://github.com/marcosh/lamphpda) - A collection of type-safe functional data structures (5 days ago)
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (6 days ago)
 - [drupol/rustin](https://github.com/drupol/rustin) -  (1 week ago)
 - [doctrine/persistence](https://github.com/doctrine/persistence) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence. (1 week ago)
-- [loophp/compose](https://github.com/loophp/compose) - Temporary repository - Compose function for PHP with Psalm and PHPStan plugin. (2 weeks ago)
+- [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
