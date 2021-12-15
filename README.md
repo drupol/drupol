@@ -12,18 +12,19 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
+- [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure (today)
+- [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) - Iterable assertions for PHPUnit (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (1 day ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (3 days ago)
-- [loophp/tin](https://github.com/loophp/tin) - Taxpayer Identification Number (TIN) Validator (4 days ago)
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) - A collection of type-safe functional data structures (4 days ago)
+- [loophp/tin](https://github.com/loophp/tin) - Taxpayer Identification Number (TIN) Validator (4 days ago)
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (6 days ago)
-- [drupol/rustin](https://github.com/drupol/rustin) -  (1 week ago)
-- [doctrine/persistence](https://github.com/doctrine/persistence) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [loophp/iterators](https://github.com/loophp/iterators) ([1.0.0](https://github.com/loophp/iterators/releases/tag/1.0.0), today) - The missing PHP iterators.
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.2](https://github.com/phpbench/phpbench/releases/tag/1.2.2), 4 days ago) - PHP Benchmarking framework
 - [loophp/collection](https://github.com/loophp/collection) ([6.0.3](https://github.com/loophp/collection/releases/tag/6.0.3), 4 days ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.0](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.0), 6 days ago) - Monadic Doctrine repositories helper classes and services.
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.4.0](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.4.0), 1 week ago) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.14.2](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.14.2), 1 week ago) - JWT authentication for your Symfony API
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) ([1.0.2](https://github.com/loophp/flake-lock-update-workflow/releases/tag/1.0.2), 1 week ago) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically.
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.10](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.10), 2 weeks ago) - Base PHP CS Fixer configurations.
 
 I'm currently **available for remote work**, feel free to contact me.
 
