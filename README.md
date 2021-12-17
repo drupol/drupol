@@ -12,14 +12,14 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure (today)
+- [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) - Iterable assertions for PHPUnit (today)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
-- [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) - Iterable assertions for PHPUnit (1 day ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (2 days ago)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (2 days ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (5 days ago)
-- [loophp/tin](https://github.com/loophp/tin) - Taxpayer Identification Number (TIN) Validator (6 days ago)
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) - A collection of type-safe functional data structures (6 days ago)
+- [loophp/tin](https://github.com/loophp/tin) - Taxpayer Identification Number (TIN) Validator (6 days ago)
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
