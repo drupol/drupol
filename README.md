@@ -13,8 +13,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 - [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure (today)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
-- [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) - Iterable assertions for PHPUnit (1 day ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
+- [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) - Iterable assertions for PHPUnit (1 day ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (2 days ago)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (2 days ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (5 days ago)
