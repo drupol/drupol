@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [loophp/iterators](https://github.com/loophp/iterators) ([1.3.1](https://github.com/loophp/iterators/releases/tag/1.3.1), 1 day ago) - The missing PHP iterators.
+- [loophp/iterators](https://github.com/loophp/iterators) ([1.4.0](https://github.com/loophp/iterators/releases/tag/1.4.0), today) - The missing PHP iterators.
 - [loophp/phptree](https://github.com/loophp/phptree) ([2.6.7](https://github.com/loophp/phptree/releases/tag/2.6.7), 3 days ago) - An implementation of tree data structure
 - [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.0](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.0), 4 days ago) - Iterable assertions for PHPUnit
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.14.3](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.14.3), 5 days ago) - JWT authentication for your Symfony API
