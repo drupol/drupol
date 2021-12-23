@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.7.0](https://github.com/phpro/grumphp/releases/tag/v1.7.0), today) - A PHP code-quality tool
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.5.3](https://github.com/loophp/iterators/releases/tag/1.5.3), 1 day ago) - The missing PHP iterators.
 - [loophp/phptree](https://github.com/loophp/phptree) ([2.6.7](https://github.com/loophp/phptree/releases/tag/2.6.7), 6 days ago) - An implementation of tree data structure
 - [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.0](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.0), 1 week ago) - Iterable assertions for PHPUnit
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.0](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.0), 2 weeks ago) - Monadic Doctrine repositories helper classes and services.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.1](https://github.com/symfony/framework-bundle/releases/tag/v6.0.1), 2 weeks ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.1](https://github.com/symfony/symfony/releases/tag/v6.0.1), 2 weeks ago) - The Symfony PHP framework
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([v4.15.0](https://github.com/vimeo/psalm/releases/tag/v4.15.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 
 I'm currently **available for remote work**, feel free to contact me.
 
