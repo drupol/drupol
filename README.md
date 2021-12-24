@@ -11,22 +11,22 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
-- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (2 days ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (2 days ago)
-- [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure (6 days ago)
-- [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) - Iterable assertions for PHPUnit (6 days ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (1 day ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 day ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (2 days ago)
+- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (3 days ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (3 days ago)
+- [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure (1 week ago)
+- [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) - Iterable assertions for PHPUnit (1 week ago)
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) - A collection of type-safe functional data structures (1 week ago)
 - [loophp/tin](https://github.com/loophp/tin) - Taxpayer Identification Number (TIN) Validator (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.7.0](https://github.com/phpro/grumphp/releases/tag/v1.7.0), today) - A PHP code-quality tool
-- [loophp/iterators](https://github.com/loophp/iterators) ([1.5.3](https://github.com/loophp/iterators/releases/tag/1.5.3), 1 day ago) - The missing PHP iterators.
-- [loophp/phptree](https://github.com/loophp/phptree) ([2.6.7](https://github.com/loophp/phptree/releases/tag/2.6.7), 6 days ago) - An implementation of tree data structure
+- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.7.0](https://github.com/phpro/grumphp/releases/tag/v1.7.0), 1 day ago) - A PHP code-quality tool
+- [loophp/iterators](https://github.com/loophp/iterators) ([1.5.3](https://github.com/loophp/iterators/releases/tag/1.5.3), 2 days ago) - The missing PHP iterators.
+- [loophp/phptree](https://github.com/loophp/phptree) ([2.6.7](https://github.com/loophp/phptree/releases/tag/2.6.7), 1 week ago) - An implementation of tree data structure
 - [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.0](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.0), 1 week ago) - Iterable assertions for PHPUnit
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.14.3](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.14.3), 1 week ago) - JWT authentication for your Symfony API
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.2](https://github.com/phpbench/phpbench/releases/tag/1.2.2), 1 week ago) - PHP Benchmarking framework
