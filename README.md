@@ -24,12 +24,12 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.3](https://github.com/phpbench/phpbench/releases/tag/1.2.3), today) - PHP Benchmarking framework
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.7.0](https://github.com/phpro/grumphp/releases/tag/v1.7.0), 1 day ago) - A PHP code-quality tool
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.5.3](https://github.com/loophp/iterators/releases/tag/1.5.3), 2 days ago) - The missing PHP iterators.
 - [loophp/phptree](https://github.com/loophp/phptree) ([2.6.7](https://github.com/loophp/phptree/releases/tag/2.6.7), 1 week ago) - An implementation of tree data structure
 - [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.0](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.0), 1 week ago) - Iterable assertions for PHPUnit
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.14.3](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.14.3), 1 week ago) - JWT authentication for your Symfony API
-- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.2](https://github.com/phpbench/phpbench/releases/tag/1.2.2), 1 week ago) - PHP Benchmarking framework
 - [loophp/collection](https://github.com/loophp/collection) ([6.0.3](https://github.com/loophp/collection/releases/tag/6.0.3), 1 week ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.0](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.0), 2 weeks ago) - Monadic Doctrine repositories helper classes and services.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.1](https://github.com/symfony/framework-bundle/releases/tag/v6.0.1), 2 weeks ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
