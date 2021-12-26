@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.16.0](https://github.com/vimeo/psalm/releases/tag/4.16.0), today) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.16.1](https://github.com/vimeo/psalm/releases/tag/4.16.1), today) - A static analysis tool for finding errors in PHP applications
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.3](https://github.com/phpbench/phpbench/releases/tag/1.2.3), 2 days ago) - PHP Benchmarking framework
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.7.0](https://github.com/phpro/grumphp/releases/tag/v1.7.0), 3 days ago) - A PHP code-quality tool
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.5.3](https://github.com/loophp/iterators/releases/tag/1.5.3), 4 days ago) - The missing PHP iterators.
