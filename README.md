@@ -24,6 +24,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v4.4.36](https://github.com/symfony/framework-bundle/releases/tag/v4.4.36), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v4.4.36](https://github.com/symfony/symfony/releases/tag/v4.4.36), today) - The Symfony PHP framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.16.1](https://github.com/vimeo/psalm/releases/tag/4.16.1), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.3](https://github.com/phpbench/phpbench/releases/tag/1.2.3), 5 days ago) - PHP Benchmarking framework
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.7.0](https://github.com/phpro/grumphp/releases/tag/v1.7.0), 6 days ago) - A PHP code-quality tool
@@ -32,8 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.0](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.0), 1 week ago) - Iterable assertions for PHPUnit
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.14.3](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.14.3), 2 weeks ago) - JWT authentication for your Symfony API
 - [loophp/collection](https://github.com/loophp/collection) ([6.0.3](https://github.com/loophp/collection/releases/tag/6.0.3), 2 weeks ago) - A (memory) friendly, easy, lazy and modular collection class.
-- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.0](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.0), 2 weeks ago) - Monadic Doctrine repositories helper classes and services.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.1](https://github.com/symfony/framework-bundle/releases/tag/v6.0.1), 2 weeks ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 I'm currently **available for remote work**, feel free to contact me.
 
