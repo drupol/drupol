@@ -12,11 +12,11 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
 - [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (today)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (1 day ago)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (3 days ago)
 - [loophp/compose](https://github.com/loophp/compose) - Temporary repository - Compose function for PHP with Psalm and PHPStan plugin. (1 week ago)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 week ago)
 - [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) - Iterable assertions for PHPUnit (2 weeks ago)
@@ -24,8 +24,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [loophp/iterators](https://github.com/loophp/iterators) ([1.5.5](https://github.com/loophp/iterators/releases/tag/1.5.5), today) - The missing PHP iterators.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.17.0](https://github.com/vimeo/psalm/releases/tag/4.17.0), 2 days ago) - A static analysis tool for finding errors in PHP applications
-- [loophp/iterators](https://github.com/loophp/iterators) ([1.5.4](https://github.com/loophp/iterators/releases/tag/1.5.4), 3 days ago) - The missing PHP iterators.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.2](https://github.com/symfony/framework-bundle/releases/tag/v6.0.2), 5 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.2](https://github.com/symfony/symfony/releases/tag/v6.0.2), 5 days ago) - The Symfony PHP framework
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.3](https://github.com/phpbench/phpbench/releases/tag/1.2.3), 1 week ago) - PHP Benchmarking framework
