@@ -24,9 +24,9 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.18](https://github.com/vimeo/psalm/releases/tag/4.18), today) - A static analysis tool for finding errors in PHP applications
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.14.4](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.14.4), 3 days ago) - JWT authentication for your Symfony API
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.5.5](https://github.com/loophp/iterators/releases/tag/1.5.5), 4 days ago) - The missing PHP iterators.
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.17.0](https://github.com/vimeo/psalm/releases/tag/4.17.0), 6 days ago) - A static analysis tool for finding errors in PHP applications
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.2](https://github.com/symfony/framework-bundle/releases/tag/v6.0.2), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.2](https://github.com/symfony/symfony/releases/tag/v6.0.2), 1 week ago) - The Symfony PHP framework
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.3](https://github.com/phpbench/phpbench/releases/tag/1.2.3), 2 weeks ago) - PHP Benchmarking framework
