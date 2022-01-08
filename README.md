@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.18](https://github.com/vimeo/psalm/releases/tag/4.18), 1 day ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.18.1](https://github.com/vimeo/psalm/releases/tag/4.18.1), today) - A static analysis tool for finding errors in PHP applications
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.14.4](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.14.4), 4 days ago) - JWT authentication for your Symfony API
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.5.5](https://github.com/loophp/iterators/releases/tag/1.5.5), 5 days ago) - The missing PHP iterators.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.2](https://github.com/symfony/framework-bundle/releases/tag/v6.0.2), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
