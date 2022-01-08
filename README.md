@@ -11,9 +11,9 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (today)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn&#39;t ever lose your work if you&#39;re using Git (today)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (2 days ago)
