@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.3.0](https://github.com/doctrine/persistence/releases/tag/2.3.0), today) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.18.1](https://github.com/vimeo/psalm/releases/tag/4.18.1), 1 day ago) - A static analysis tool for finding errors in PHP applications
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.14.4](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.14.4), 5 days ago) - JWT authentication for your Symfony API
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.5.5](https://github.com/loophp/iterators/releases/tag/1.5.5), 6 days ago) - The missing PHP iterators.
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.7.0](https://github.com/phpro/grumphp/releases/tag/v1.7.0), 2 weeks ago) - A PHP code-quality tool
 - [loophp/phptree](https://github.com/loophp/phptree) ([2.6.7](https://github.com/loophp/phptree/releases/tag/2.6.7), 3 weeks ago) - An implementation of tree data structure
 - [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.0](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.0), 3 weeks ago) - Iterable assertions for PHPUnit
-- [loophp/collection](https://github.com/loophp/collection) ([6.0.3](https://github.com/loophp/collection/releases/tag/6.0.3), 4 weeks ago) - A (memory) friendly, easy, lazy and modular collection class.
 
 I'm currently **available for remote work**, feel free to contact me.
 
