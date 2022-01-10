@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.5.0](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.5.0), today) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.1](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.1), 1 day ago) - Monadic Doctrine repositories helper classes and services.
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([2.3.0](https://github.com/doctrine/persistence/releases/tag/2.3.0), 1 day ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.18.1](https://github.com/vimeo/psalm/releases/tag/4.18.1), 2 days ago) - A static analysis tool for finding errors in PHP applications
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.2](https://github.com/symfony/symfony/releases/tag/v6.0.2), 1 week ago) - The Symfony PHP framework
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.3](https://github.com/phpbench/phpbench/releases/tag/1.2.3), 2 weeks ago) - PHP Benchmarking framework
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.7.0](https://github.com/phpro/grumphp/releases/tag/v1.7.0), 2 weeks ago) - A PHP code-quality tool
-- [loophp/phptree](https://github.com/loophp/phptree) ([2.6.7](https://github.com/loophp/phptree/releases/tag/2.6.7), 3 weeks ago) - An implementation of tree data structure
 
 I'm currently **available for remote work**, feel free to contact me.
 
