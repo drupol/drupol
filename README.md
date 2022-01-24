@@ -11,7 +11,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [ecphp/php-library-template](https://github.com/ecphp/php-library-template) - The ECPHP PHP project template. (today)
+- [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (today)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
 - [ecphp/api-gw-authentication-bundle](https://github.com/ecphp/api-gw-authentication-bundle) - API Gateway Authentication Bundle, authenticate requests from European Commission corporate service &#39;API Gateway&#39;. (today)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
@@ -24,10 +24,10 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [loophp/iterators](https://github.com/loophp/iterators) ([1.5.8](https://github.com/loophp/iterators/releases/tag/1.5.8), today) - The missing PHP iterators.
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.11](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.11), today) - Base PHP CS Fixer configurations.
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.1.7](https://github.com/ecphp/cas-lib/releases/tag/1.1.7), today) - CAS Lib, a standard library for CAS authentication.
 - [ecphp/php-conventions](https://github.com/ecphp/php-conventions) ([1.0.2](https://github.com/ecphp/php-conventions/releases/tag/1.0.2), today) - ECPHP PHP conventions.
-- [loophp/iterators](https://github.com/loophp/iterators) ([1.5.6](https://github.com/loophp/iterators/releases/tag/1.5.6), 1 day ago) - The missing PHP iterators.
 - [loophp/phptree](https://github.com/loophp/phptree) ([2.6.8](https://github.com/loophp/phptree/releases/tag/2.6.8), 4 days ago) - An implementation of tree data structure
 - [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.5.0](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.5.0), 2 weeks ago) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.1](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.1), 2 weeks ago) - Monadic Doctrine repositories helper classes and services.
