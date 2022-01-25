@@ -16,15 +16,15 @@ More about me on my blog: https://not-a-number.io/about/
 - [drupol/wopi-app](https://github.com/drupol/wopi-app) -  (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (today)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
-- [ecphp/doctrine-oci8-bundle](https://github.com/ecphp/doctrine-oci8-bundle) - Doctrine OCI8 (Oracle) bundle. (1 day ago)
-- [ecphp/php-conventions](https://github.com/ecphp/php-conventions) - ECPHP PHP conventions. (1 day ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
+- [ecphp/reverse-proxy-helper-bundle](https://github.com/ecphp/reverse-proxy-helper-bundle) - Helper bundle, configure the request headers from a given base URL. (1 day ago)
 - [marcosh/lamphpda-validation](https://github.com/marcosh/lamphpda-validation) - A validation library using Either from marcosh/lamphpda (1 day ago)
 - [ecphp/doctrine-oci8](https://github.com/ecphp/doctrine-oci8) - Doctrine&#39;s OCI8 (Oracle) driver with cursor support. (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [loophp/iterators](https://github.com/loophp/iterators) ([1.5.8](https://github.com/loophp/iterators/releases/tag/1.5.8), 1 day ago) - The missing PHP iterators.
+- [loophp/iterators](https://github.com/loophp/iterators) ([1.5.11](https://github.com/loophp/iterators/releases/tag/1.5.11), today) - The missing PHP iterators.
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.11](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.11), 1 day ago) - Base PHP CS Fixer configurations.
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.1.7](https://github.com/ecphp/cas-lib/releases/tag/1.1.7), 1 day ago) - CAS Lib, a standard library for CAS authentication.
 - [ecphp/php-conventions](https://github.com/ecphp/php-conventions) ([1.0.2](https://github.com/ecphp/php-conventions/releases/tag/1.0.2), 1 day ago) - ECPHP PHP conventions.
