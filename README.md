@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [loophp/iterators](https://github.com/loophp/iterators) ([1.5.11](https://github.com/loophp/iterators/releases/tag/1.5.11), 1 day ago) - The missing PHP iterators.
+- [loophp/iterators](https://github.com/loophp/iterators) ([1.5.12](https://github.com/loophp/iterators/releases/tag/1.5.12), today) - The missing PHP iterators.
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.11](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.11), 2 days ago) - Base PHP CS Fixer configurations.
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.1.7](https://github.com/ecphp/cas-lib/releases/tag/1.1.7), 2 days ago) - CAS Lib, a standard library for CAS authentication.
 - [ecphp/php-conventions](https://github.com/ecphp/php-conventions) ([1.0.2](https://github.com/ecphp/php-conventions/releases/tag/1.0.2), 2 days ago) - ECPHP PHP conventions.
