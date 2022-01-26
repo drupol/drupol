@@ -11,24 +11,24 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [Champs-Libres/wopi-test-bundle](https://github.com/Champs-Libres/wopi-test-bundle) - A bundle for testing champs-libres/wopi-bundle (today)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
-- [drupol/wopi-app](https://github.com/drupol/wopi-app) -  (today)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
-- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (today)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
-- [ecphp/reverse-proxy-helper-bundle](https://github.com/ecphp/reverse-proxy-helper-bundle) - Helper bundle, configure the request headers from a given base URL. (1 day ago)
-- [marcosh/lamphpda-validation](https://github.com/marcosh/lamphpda-validation) - A validation library using Either from marcosh/lamphpda (1 day ago)
-- [ecphp/doctrine-oci8](https://github.com/ecphp/doctrine-oci8) - Doctrine&#39;s OCI8 (Oracle) driver with cursor support. (1 day ago)
+- [Champs-Libres/wopi-test-bundle](https://github.com/Champs-Libres/wopi-test-bundle) - A bundle for testing champs-libres/wopi-bundle (1 day ago)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
+- [drupol/wopi-app](https://github.com/drupol/wopi-app) -  (1 day ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
+- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 day ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (1 day ago)
+- [ecphp/reverse-proxy-helper-bundle](https://github.com/ecphp/reverse-proxy-helper-bundle) - Helper bundle, configure the request headers from a given base URL. (2 days ago)
+- [marcosh/lamphpda-validation](https://github.com/marcosh/lamphpda-validation) - A validation library using Either from marcosh/lamphpda (2 days ago)
+- [ecphp/doctrine-oci8](https://github.com/ecphp/doctrine-oci8) - Doctrine&#39;s OCI8 (Oracle) driver with cursor support. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [loophp/iterators](https://github.com/loophp/iterators) ([1.5.11](https://github.com/loophp/iterators/releases/tag/1.5.11), today) - The missing PHP iterators.
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.11](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.11), 1 day ago) - Base PHP CS Fixer configurations.
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.1.7](https://github.com/ecphp/cas-lib/releases/tag/1.1.7), 1 day ago) - CAS Lib, a standard library for CAS authentication.
-- [ecphp/php-conventions](https://github.com/ecphp/php-conventions) ([1.0.2](https://github.com/ecphp/php-conventions/releases/tag/1.0.2), 1 day ago) - ECPHP PHP conventions.
-- [loophp/phptree](https://github.com/loophp/phptree) ([2.6.8](https://github.com/loophp/phptree/releases/tag/2.6.8), 5 days ago) - An implementation of tree data structure
+- [loophp/iterators](https://github.com/loophp/iterators) ([1.5.11](https://github.com/loophp/iterators/releases/tag/1.5.11), 1 day ago) - The missing PHP iterators.
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.11](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.11), 2 days ago) - Base PHP CS Fixer configurations.
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.1.7](https://github.com/ecphp/cas-lib/releases/tag/1.1.7), 2 days ago) - CAS Lib, a standard library for CAS authentication.
+- [ecphp/php-conventions](https://github.com/ecphp/php-conventions) ([1.0.2](https://github.com/ecphp/php-conventions/releases/tag/1.0.2), 2 days ago) - ECPHP PHP conventions.
+- [loophp/phptree](https://github.com/loophp/phptree) ([2.6.8](https://github.com/loophp/phptree/releases/tag/2.6.8), 6 days ago) - An implementation of tree data structure
 - [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.5.0](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.5.0), 2 weeks ago) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.1](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.1), 2 weeks ago) - Monadic Doctrine repositories helper classes and services.
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([2.3.0](https://github.com/doctrine/persistence/releases/tag/2.3.0), 2 weeks ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
