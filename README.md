@@ -11,8 +11,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
 - [Champs-Libres/wopi-test-bundle](https://github.com/Champs-Libres/wopi-test-bundle) - A bundle for testing champs-libres/wopi-bundle (1 day ago)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
 - [drupol/wopi-app](https://github.com/drupol/wopi-app) -  (1 day ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 day ago)
