@@ -11,16 +11,16 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [ecphp/doctrine-oci8](https://github.com/ecphp/doctrine-oci8) - Doctrine&#39;s OCI8 (Oracle) driver with cursor support. (1 day ago)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
-- [drupol/wopi-app](https://github.com/drupol/wopi-app) -  (2 days ago)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
-- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (2 days ago)
+- [ecphp/doctrine-oci8](https://github.com/ecphp/doctrine-oci8) - Doctrine&#39;s OCI8 (Oracle) driver with cursor support. (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 day ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (2 days ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
+- [drupol/wopi-app](https://github.com/drupol/wopi-app) -  (2 days ago)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (2 days ago)
 - [Champs-Libres/wopi-test-bundle](https://github.com/Champs-Libres/wopi-test-bundle) - A bundle for testing champs-libres/wopi-bundle (2 days ago)
-- [ecphp/reverse-proxy-helper-bundle](https://github.com/ecphp/reverse-proxy-helper-bundle) - Helper bundle, configure the request headers from a given base URL. (3 days ago)
-- [marcosh/lamphpda-validation](https://github.com/marcosh/lamphpda-validation) - A validation library using Either from marcosh/lamphpda (3 days ago)
+- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (2 days ago)
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
