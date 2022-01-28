@@ -24,8 +24,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.14](https://github.com/symfony/framework-bundle/releases/tag/v5.3.14), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.14](https://github.com/symfony/symfony/releases/tag/v5.3.14), today) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.3](https://github.com/symfony/framework-bundle/releases/tag/v5.4.3), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.3](https://github.com/symfony/symfony/releases/tag/v5.4.3), today) - The Symfony PHP framework
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.5.13](https://github.com/loophp/iterators/releases/tag/1.5.13), today) - The missing PHP iterators.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.19.0](https://github.com/vimeo/psalm/releases/tag/4.19.0), today) - A static analysis tool for finding errors in PHP applications
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.11](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.11), 4 days ago) - Base PHP CS Fixer configurations.
