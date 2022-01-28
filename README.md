@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.19.0](https://github.com/vimeo/psalm/releases/tag/4.19.0), today) - A static analysis tool for finding errors in PHP applications
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.5.12](https://github.com/loophp/iterators/releases/tag/1.5.12), 2 days ago) - The missing PHP iterators.
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.11](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.11), 4 days ago) - Base PHP CS Fixer configurations.
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.1.7](https://github.com/ecphp/cas-lib/releases/tag/1.1.7), 4 days ago) - CAS Lib, a standard library for CAS authentication.
@@ -32,7 +33,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.5.0](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.5.0), 2 weeks ago) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.1](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.1), 2 weeks ago) - Monadic Doctrine repositories helper classes and services.
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([2.3.0](https://github.com/doctrine/persistence/releases/tag/2.3.0), 2 weeks ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.18.1](https://github.com/vimeo/psalm/releases/tag/4.18.1), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.14.4](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.14.4), 3 weeks ago) - JWT authentication for your Symfony API
 
 I'm currently **available for remote work**, feel free to contact me.
