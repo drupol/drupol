@@ -20,7 +20,7 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/doctrine-oci8](https://github.com/ecphp/doctrine-oci8) - Doctrine&#39;s OCI8 (Oracle) driver with cursor support. (4 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (4 days ago)
 - [Champs-Libres/wopi-test-bundle](https://github.com/Champs-Libres/wopi-test-bundle) - A bundle for testing champs-libres/wopi-bundle (5 days ago)
-- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (5 days ago)
+- [drupol/wopi-app](https://github.com/drupol/wopi-app) -  (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
