@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.0.0-alpha1](https://github.com/vimeo/psalm/releases/tag/5.0.0-alpha1), today) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.20.0](https://github.com/vimeo/psalm/releases/tag/4.20.0), today) - A static analysis tool for finding errors in PHP applications
 - [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) ([1.0.3](https://github.com/ecphp/eu-login-api-authentication-bundle/releases/tag/1.0.3), 1 day ago) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol.
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.5.14](https://github.com/loophp/iterators/releases/tag/1.5.14), 4 days ago) - The missing PHP iterators.
 - [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.1](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.1), 5 days ago) - Iterable assertions for PHPUnit
