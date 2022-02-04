@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.7.1](https://github.com/phpro/grumphp/releases/tag/v1.7.1), today) - A PHP code-quality tool
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.20.0](https://github.com/vimeo/psalm/releases/tag/4.20.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
 - [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) ([1.0.3](https://github.com/ecphp/eu-login-api-authentication-bundle/releases/tag/1.0.3), 2 days ago) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol.
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.5.14](https://github.com/loophp/iterators/releases/tag/1.5.14), 5 days ago) - The missing PHP iterators.
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.11](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.11), 1 week ago) - Base PHP CS Fixer configurations.
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.1.7](https://github.com/ecphp/cas-lib/releases/tag/1.1.7), 1 week ago) - CAS Lib, a standard library for CAS authentication.
 - [ecphp/php-conventions](https://github.com/ecphp/php-conventions) ([1.0.2](https://github.com/ecphp/php-conventions/releases/tag/1.0.2), 1 week ago) - ECPHP PHP conventions.
-- [loophp/phptree](https://github.com/loophp/phptree) ([2.6.8](https://github.com/loophp/phptree/releases/tag/2.6.8), 2 weeks ago) - An implementation of tree data structure
 
 I'm currently **available for remote work**, feel free to contact me.
 
