@@ -11,15 +11,15 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 day ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
 - [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) - Auto register services aliases in the Symfony container. (3 days ago)
 - [drupol/php-conventions](https://github.com/drupol/php-conventions) -  (4 days ago)
 - [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol. (5 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (6 days ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 week ago)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
