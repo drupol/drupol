@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.0.0](https://github.com/marcosh/lamphpda/releases/tag/v1.0.0), today) - A collection of type-safe functional data structures
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.5.1](https://github.com/phpro/grumphp/releases/tag/v1.5.1), today) - A PHP code-quality tool
 - [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) ([1.0.0](https://github.com/loophp/service-alias-autoregister-bundle/releases/tag/1.0.0), 3 days ago) - Auto register services aliases in the Symfony container.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.20.0](https://github.com/vimeo/psalm/releases/tag/4.20.0), 4 days ago) - A static analysis tool for finding errors in PHP applications
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.4](https://github.com/symfony/framework-bundle/releases/tag/v6.0.4), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.4](https://github.com/symfony/symfony/releases/tag/v6.0.4), 1 week ago) - The Symfony PHP framework
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.11](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.11), 2 weeks ago) - Base PHP CS Fixer configurations.
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.1.7](https://github.com/ecphp/cas-lib/releases/tag/1.1.7), 2 weeks ago) - CAS Lib, a standard library for CAS authentication.
 
 I'm currently **available for remote work**, feel free to contact me.
 
