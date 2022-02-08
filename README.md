@@ -12,15 +12,15 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (today)
-- [marcosh/lamphpda](https://github.com/marcosh/lamphpda) - A collection of type-safe functional data structures (today)
+- [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
+- [marcosh/lamphpda](https://github.com/marcosh/lamphpda) - A collection of type-safe functional data structures (today)
 - [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (today)
 - [loophp/fpt](https://github.com/loophp/fpt) - Functional programming toolbox for PHP. (today)
 - [loophp/phpspec-time](https://github.com/loophp/phpspec-time) - A PHPSpec extension providing matchers for measuring time in tests. (today)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 day ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
