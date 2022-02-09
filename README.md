@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.8.0](https://github.com/phpro/grumphp/releases/tag/v1.8.0), 1 day ago) - A PHP code-quality tool
+- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.8.1](https://github.com/phpro/grumphp/releases/tag/v1.8.1), today) - A PHP code-quality tool
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.6.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.6.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.0.0](https://github.com/marcosh/lamphpda/releases/tag/v1.0.0), 2 days ago) - A collection of type-safe functional data structures
 - [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) ([1.0.0](https://github.com/loophp/service-alias-autoregister-bundle/releases/tag/1.0.0), 5 days ago) - Auto register services aliases in the Symfony container.
