@@ -11,10 +11,10 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (1 day ago)
 - [drupol/cas-bundle-demo](https://github.com/drupol/cas-bundle-demo) -  (2 days ago)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (3 days ago)
 - [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) - Auto register services aliases in the Symfony container. (4 days ago)
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (4 days ago)
 - [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (4 days ago)
