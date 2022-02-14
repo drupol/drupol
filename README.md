@@ -11,15 +11,15 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [ydarchi/www.yd.archi](https://github.com/ydarchi/www.yd.archi) -  (today)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (today)
-- [loophp/psr17](https://github.com/loophp/psr17) - Provides a PSR17 synthetic implementation. (1 day ago)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (1 day ago)
+- [loophp/psr17](https://github.com/loophp/psr17) - Provides a PSR17 synthetic implementation. (1 day ago)
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (2 days ago)
 - [drupol/cas-bundle-demo](https://github.com/drupol/cas-bundle-demo) -  (3 days ago)
-- [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (5 days ago)
-- [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) - Let users customize the PHP configuration through a custom ini file. (5 days ago)
+- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (5 days ago)
 - [loophp/compose](https://github.com/loophp/compose) - Temporary repository - Compose function for PHP with Psalm and PHPStan plugin. (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
