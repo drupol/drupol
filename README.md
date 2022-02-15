@@ -11,21 +11,21 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [ydarchi/www.yd.archi](https://github.com/ydarchi/www.yd.archi) -  (today)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (today)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
-- [loophp/psr17](https://github.com/loophp/psr17) - Provides a PSR17 synthetic implementation. (1 day ago)
-- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (2 days ago)
-- [drupol/cas-bundle-demo](https://github.com/drupol/cas-bundle-demo) -  (3 days ago)
-- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (5 days ago)
-- [loophp/compose](https://github.com/loophp/compose) - Temporary repository - Compose function for PHP with Psalm and PHPStan plugin. (5 days ago)
+- [ydarchi/www.yd.archi](https://github.com/ydarchi/www.yd.archi) -  (1 day ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 day ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (1 day ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 day ago)
+- [loophp/psr17](https://github.com/loophp/psr17) - Provides a PSR17 synthetic implementation. (2 days ago)
+- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (3 days ago)
+- [drupol/cas-bundle-demo](https://github.com/drupol/cas-bundle-demo) -  (4 days ago)
+- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (6 days ago)
+- [loophp/compose](https://github.com/loophp/compose) - Temporary repository - Compose function for PHP with Psalm and PHPStan plugin. (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.2](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.2), 2 days ago) - Monadic Doctrine repositories helper classes and services.
-- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.8.1](https://github.com/phpro/grumphp/releases/tag/v1.8.1), 5 days ago) - A PHP code-quality tool
+- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.2](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.2), 3 days ago) - Monadic Doctrine repositories helper classes and services.
+- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.8.1](https://github.com/phpro/grumphp/releases/tag/v1.8.1), 6 days ago) - A PHP code-quality tool
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.6.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.6.0), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.0.0](https://github.com/marcosh/lamphpda/releases/tag/v1.0.0), 1 week ago) - A collection of type-safe functional data structures
 - [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) ([1.0.0](https://github.com/loophp/service-alias-autoregister-bundle/releases/tag/1.0.0), 1 week ago) - Auto register services aliases in the Symfony container.
