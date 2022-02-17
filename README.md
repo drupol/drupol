@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [chrisnharvey/flysystem-openstack-swift](https://github.com/chrisnharvey/flysystem-openstack-swift) ([1.0.0](https://github.com/chrisnharvey/flysystem-openstack-swift/releases/tag/1.0.0), today) - OpenStack Swift adapter for Flysystem
+- [chrisnharvey/flysystem-openstack-swift](https://github.com/chrisnharvey/flysystem-openstack-swift) ([1.1.0](https://github.com/chrisnharvey/flysystem-openstack-swift/releases/tag/1.1.0), today) - OpenStack Swift adapter for Flysystem
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.2](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.2), 5 days ago) - Monadic Doctrine repositories helper classes and services.
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.8.1](https://github.com/phpro/grumphp/releases/tag/v1.8.1), 1 week ago) - A PHP code-quality tool
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.6.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.6.0), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
