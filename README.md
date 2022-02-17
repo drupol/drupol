@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [chrisnharvey/flysystem-openstack-swift](https://github.com/chrisnharvey/flysystem-openstack-swift) ([1.0.0](https://github.com/chrisnharvey/flysystem-openstack-swift/releases/tag/1.0.0), today) - OpenStack Swift adapter for Flysystem
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.2](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.2), 5 days ago) - Monadic Doctrine repositories helper classes and services.
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.8.1](https://github.com/phpro/grumphp/releases/tag/v1.8.1), 1 week ago) - A PHP code-quality tool
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.6.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.6.0), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) ([1.0.3](https://github.com/ecphp/eu-login-api-authentication-bundle/releases/tag/1.0.3), 2 weeks ago) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol.
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.5.14](https://github.com/loophp/iterators/releases/tag/1.5.14), 2 weeks ago) - The missing PHP iterators.
 - [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.1](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.1), 2 weeks ago) - Iterable assertions for PHPUnit
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.4](https://github.com/symfony/framework-bundle/releases/tag/v6.0.4), 2 weeks ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 I'm currently **available for remote work**, feel free to contact me.
 
