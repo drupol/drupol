@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.21.0](https://github.com/vimeo/psalm/releases/tag/4.21.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.22.0](https://github.com/vimeo/psalm/releases/tag/4.22.0), today) - A static analysis tool for finding errors in PHP applications
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.1.8](https://github.com/ecphp/cas-lib/releases/tag/1.1.8), 1 week ago) - CAS Lib, a standard library for CAS authentication.
 - [chrisnharvey/flysystem-openstack-swift](https://github.com/chrisnharvey/flysystem-openstack-swift) ([1.1.0](https://github.com/chrisnharvey/flysystem-openstack-swift/releases/tag/1.1.0), 1 week ago) - OpenStack Swift adapter for Flysystem
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.2](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.2), 2 weeks ago) - Monadic Doctrine repositories helper classes and services.
