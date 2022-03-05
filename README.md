@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.4](https://github.com/phpbench/phpbench/releases/tag/1.2.4), today) - PHP Benchmarking framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.22.0](https://github.com/vimeo/psalm/releases/tag/4.22.0), 6 days ago) - A static analysis tool for finding errors in PHP applications
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.1.8](https://github.com/ecphp/cas-lib/releases/tag/1.1.8), 2 weeks ago) - CAS Lib, a standard library for CAS authentication.
 - [chrisnharvey/flysystem-openstack-swift](https://github.com/chrisnharvey/flysystem-openstack-swift) ([1.1.0](https://github.com/chrisnharvey/flysystem-openstack-swift/releases/tag/1.1.0), 2 weeks ago) - OpenStack Swift adapter for Flysystem
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.0.0](https://github.com/marcosh/lamphpda/releases/tag/v1.0.0), 3 weeks ago) - A collection of type-safe functional data structures
 - [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) ([1.0.0](https://github.com/loophp/service-alias-autoregister-bundle/releases/tag/1.0.0), 4 weeks ago) - Auto register services aliases in the Symfony container.
 - [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) ([1.0.3](https://github.com/ecphp/eu-login-api-authentication-bundle/releases/tag/1.0.3), 1 month ago) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol.
-- [loophp/iterators](https://github.com/loophp/iterators) ([1.5.14](https://github.com/loophp/iterators/releases/tag/1.5.14), 1 month ago) - The missing PHP iterators.
 
 I'm currently **available for remote work**, feel free to contact me.
 
