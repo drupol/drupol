@@ -11,10 +11,10 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (2 days ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
 - [Champs-Libres/wopi-bundle](https://github.com/Champs-Libres/wopi-bundle) - A bundle providing routes and glue code between Symfony and a WOPI connector. (2 days ago)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (2 days ago)
 - [Champs-Libres/wopi-lib](https://github.com/Champs-Libres/wopi-lib) - A standard and framework agnostic PHP library to facilitate the implementation of the WOPI protocol. (2 days ago)
 - [drupol/fizzbuzz](https://github.com/drupol/fizzbuzz) -  (3 days ago)
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (3 days ago)
