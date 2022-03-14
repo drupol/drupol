@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.4.0](https://github.com/doctrine/persistence/releases/tag/2.4.0), today) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [phpspec/phpspec](https://github.com/phpspec/phpspec) ([7.2.0](https://github.com/phpspec/phpspec/releases/tag/7.2.0), today) - SpecBDD Framework for PHP
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.0](https://github.com/loophp/iterators/releases/tag/1.6.0), 1 day ago) - The missing PHP iterators.
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.9.0](https://github.com/phpro/grumphp/releases/tag/v1.9.0), 4 days ago) - A PHP code-quality tool
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.1.8](https://github.com/ecphp/cas-lib/releases/tag/1.1.8), 3 weeks ago) - CAS Lib, a standard library for CAS authentication.
 - [chrisnharvey/flysystem-openstack-swift](https://github.com/chrisnharvey/flysystem-openstack-swift) ([1.1.0](https://github.com/chrisnharvey/flysystem-openstack-swift/releases/tag/1.1.0), 3 weeks ago) - OpenStack Swift adapter for Flysystem
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.2](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.2), 1 month ago) - Monadic Doctrine repositories helper classes and services.
-- [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.0.0](https://github.com/marcosh/lamphpda/releases/tag/v1.0.0), 1 month ago) - A collection of type-safe functional data structures
 
 I'm currently **available for remote work**, feel free to contact me.
 
