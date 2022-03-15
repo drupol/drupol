@@ -11,23 +11,23 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (today)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 day ago)
-- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (4 days ago)
-- [Champs-Libres/wopi-bundle](https://github.com/Champs-Libres/wopi-bundle) - A bundle providing routes and glue code between Symfony and a WOPI connector. (4 days ago)
-- [Champs-Libres/wopi-lib](https://github.com/Champs-Libres/wopi-lib) - A standard and framework agnostic PHP library to facilitate the implementation of the WOPI protocol. (4 days ago)
-- [drupol/fizzbuzz](https://github.com/drupol/fizzbuzz) -  (5 days ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (1 day ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 day ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 day ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (2 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (2 days ago)
+- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (5 days ago)
+- [Champs-Libres/wopi-bundle](https://github.com/Champs-Libres/wopi-bundle) - A bundle providing routes and glue code between Symfony and a WOPI connector. (5 days ago)
+- [Champs-Libres/wopi-lib](https://github.com/Champs-Libres/wopi-lib) - A standard and framework agnostic PHP library to facilitate the implementation of the WOPI protocol. (5 days ago)
+- [drupol/fizzbuzz](https://github.com/drupol/fizzbuzz) -  (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.4.0](https://github.com/doctrine/persistence/releases/tag/2.4.0), today) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
-- [phpspec/phpspec](https://github.com/phpspec/phpspec) ([7.2.0](https://github.com/phpspec/phpspec/releases/tag/7.2.0), today) - SpecBDD Framework for PHP
-- [loophp/iterators](https://github.com/loophp/iterators) ([1.6.0](https://github.com/loophp/iterators/releases/tag/1.6.0), 1 day ago) - The missing PHP iterators.
-- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.9.0](https://github.com/phpro/grumphp/releases/tag/v1.9.0), 4 days ago) - A PHP code-quality tool
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.4.0](https://github.com/doctrine/persistence/releases/tag/2.4.0), 1 day ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
+- [phpspec/phpspec](https://github.com/phpspec/phpspec) ([7.2.0](https://github.com/phpspec/phpspec/releases/tag/7.2.0), 1 day ago) - SpecBDD Framework for PHP
+- [loophp/iterators](https://github.com/loophp/iterators) ([1.6.0](https://github.com/loophp/iterators/releases/tag/1.6.0), 2 days ago) - The missing PHP iterators.
+- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.9.0](https://github.com/phpro/grumphp/releases/tag/v1.9.0), 5 days ago) - A PHP code-quality tool
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.7.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.7.0), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.5](https://github.com/phpbench/phpbench/releases/tag/1.2.5), 1 week ago) - PHP Benchmarking framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.22.0](https://github.com/vimeo/psalm/releases/tag/4.22.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
