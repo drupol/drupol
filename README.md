@@ -11,12 +11,12 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (3 days ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (3 days ago)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (4 days ago)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (4 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (4 days ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (1 day ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (4 days ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (4 days ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (5 days ago)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (5 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (5 days ago)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 week ago)
 - [Champs-Libres/wopi-bundle](https://github.com/Champs-Libres/wopi-bundle) - A bundle providing routes and glue code between Symfony and a WOPI connector. (1 week ago)
 - [Champs-Libres/wopi-lib](https://github.com/Champs-Libres/wopi-lib) - A standard and framework agnostic PHP library to facilitate the implementation of the WOPI protocol. (1 week ago)
@@ -24,14 +24,14 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.4.0](https://github.com/doctrine/persistence/releases/tag/2.4.0), 3 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
-- [phpspec/phpspec](https://github.com/phpspec/phpspec) ([7.2.0](https://github.com/phpspec/phpspec/releases/tag/7.2.0), 3 days ago) - SpecBDD Framework for PHP
-- [loophp/iterators](https://github.com/loophp/iterators) ([1.6.0](https://github.com/loophp/iterators/releases/tag/1.6.0), 4 days ago) - The missing PHP iterators.
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.4.0](https://github.com/doctrine/persistence/releases/tag/2.4.0), 4 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
+- [phpspec/phpspec](https://github.com/phpspec/phpspec) ([7.2.0](https://github.com/phpspec/phpspec/releases/tag/7.2.0), 4 days ago) - SpecBDD Framework for PHP
+- [loophp/iterators](https://github.com/loophp/iterators) ([1.6.0](https://github.com/loophp/iterators/releases/tag/1.6.0), 5 days ago) - The missing PHP iterators.
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.9.0](https://github.com/phpro/grumphp/releases/tag/v1.9.0), 1 week ago) - A PHP code-quality tool
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.7.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.7.0), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.5](https://github.com/phpbench/phpbench/releases/tag/1.2.5), 1 week ago) - PHP Benchmarking framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.22.0](https://github.com/vimeo/psalm/releases/tag/4.22.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.1.8](https://github.com/ecphp/cas-lib/releases/tag/1.1.8), 3 weeks ago) - CAS Lib, a standard library for CAS authentication.
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.1.8](https://github.com/ecphp/cas-lib/releases/tag/1.1.8), 4 weeks ago) - CAS Lib, a standard library for CAS authentication.
 - [chrisnharvey/flysystem-openstack-swift](https://github.com/chrisnharvey/flysystem-openstack-swift) ([1.1.0](https://github.com/chrisnharvey/flysystem-openstack-swift/releases/tag/1.1.0), 4 weeks ago) - OpenStack Swift adapter for Flysystem
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.2](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.2), 1 month ago) - Monadic Doctrine repositories helper classes and services.
 
