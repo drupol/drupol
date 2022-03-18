@@ -24,11 +24,11 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.8.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.8.0), today) - A tool to automatically fix PHP Coding Standards issues
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([2.4.0](https://github.com/doctrine/persistence/releases/tag/2.4.0), 4 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [phpspec/phpspec](https://github.com/phpspec/phpspec) ([7.2.0](https://github.com/phpspec/phpspec/releases/tag/7.2.0), 4 days ago) - SpecBDD Framework for PHP
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.0](https://github.com/loophp/iterators/releases/tag/1.6.0), 5 days ago) - The missing PHP iterators.
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.9.0](https://github.com/phpro/grumphp/releases/tag/v1.9.0), 1 week ago) - A PHP code-quality tool
-- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.7.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.7.0), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.5](https://github.com/phpbench/phpbench/releases/tag/1.2.5), 1 week ago) - PHP Benchmarking framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.22.0](https://github.com/vimeo/psalm/releases/tag/4.22.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.1.8](https://github.com/ecphp/cas-lib/releases/tag/1.1.8), 4 weeks ago) - CAS Lib, a standard library for CAS authentication.
