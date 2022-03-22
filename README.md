@@ -16,11 +16,11 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (today)
 - [ecphp/php-library-template](https://github.com/ecphp/php-library-template) - The ECPHP PHP project template. (today)
 - [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (today)
+- [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (today)
 - [drupol/doctrine-dbal-postgres-bundle](https://github.com/drupol/doctrine-dbal-postgres-bundle) - Doctrine DBAL Postgres Bundle (today)
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (today)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
 - [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) - Let users customize the PHP configuration through a custom ini file. (today)
-- [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) - Auto register services aliases in the Symfony container. (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
