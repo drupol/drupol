@@ -11,16 +11,16 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
+- [drupol/primes-bench](https://github.com/drupol/primes-bench) - A playground for benchmarking Prime numbers iterators. (today)
+- [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) - Let users customize the PHP configuration through a custom ini file. (today)
+- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (today)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
-- [ecphp/api-gw-authentication-bundle](https://github.com/ecphp/api-gw-authentication-bundle) - API Gateway Authentication Bundle, authenticate requests from European Commission corporate service &#39;API Gateway&#39;. (1 day ago)
-- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (1 day ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 day ago)
+- [drupol/doctrine-dbal-postgres-bundle](https://github.com/drupol/doctrine-dbal-postgres-bundle) - Doctrine DBAL Postgres Bundle (today)
+- [ecphp/php-library-template](https://github.com/ecphp/php-library-template) - The ECPHP PHP project template. (today)
 - [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (1 day ago)
-- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (1 day ago)
-- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (1 day ago)
-- [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) - Auto register services aliases in the Symfony container. (1 day ago)
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (1 day ago)
+- [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
