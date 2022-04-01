@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [chrisnharvey/flysystem-openstack-swift](https://github.com/chrisnharvey/flysystem-openstack-swift) ([1.2.0](https://github.com/chrisnharvey/flysystem-openstack-swift/releases/tag/1.2.0), today) - OpenStack Swift adapter for Flysystem
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.2](https://github.com/loophp/iterators/releases/tag/1.6.2), 5 days ago) - The missing PHP iterators.
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([2.4.1](https://github.com/doctrine/persistence/releases/tag/2.4.1), 5 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.10.0](https://github.com/phpro/grumphp/releases/tag/v1.10.0), 1 week ago) - A PHP code-quality tool
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.5](https://github.com/phpbench/phpbench/releases/tag/1.2.5), 3 weeks ago) - PHP Benchmarking framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.22.0](https://github.com/vimeo/psalm/releases/tag/4.22.0), 1 month ago) - A static analysis tool for finding errors in PHP applications
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.1.8](https://github.com/ecphp/cas-lib/releases/tag/1.1.8), 1 month ago) - CAS Lib, a standard library for CAS authentication.
-- [chrisnharvey/flysystem-openstack-swift](https://github.com/chrisnharvey/flysystem-openstack-swift) ([1.1.0](https://github.com/chrisnharvey/flysystem-openstack-swift/releases/tag/1.1.0), 1 month ago) - OpenStack Swift adapter for Flysystem
 
 I'm currently **available for remote work**, feel free to contact me.
 
