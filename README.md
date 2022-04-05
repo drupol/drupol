@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [chrisnharvey/flysystem-openstack-swift](https://github.com/chrisnharvey/flysystem-openstack-swift) ([1.2.0](https://github.com/chrisnharvey/flysystem-openstack-swift/releases/tag/1.2.0), 4 days ago) - OpenStack Swift adapter for Flysystem
+- [chrisnharvey/flysystem-openstack-swift](https://github.com/chrisnharvey/flysystem-openstack-swift) ([1.3.0](https://github.com/chrisnharvey/flysystem-openstack-swift/releases/tag/1.3.0), today) - OpenStack Swift adapter for Flysystem
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.2](https://github.com/loophp/iterators/releases/tag/1.6.2), 1 week ago) - The missing PHP iterators.
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([2.4.1](https://github.com/doctrine/persistence/releases/tag/2.4.1), 1 week ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.10.0](https://github.com/phpro/grumphp/releases/tag/v1.10.0), 1 week ago) - A PHP code-quality tool
