@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) ([2.0.4](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle/releases/tag/2.0.4), today) - Provide a PSR HTTP message bridge without altering query parameters.
 - [chrisnharvey/flysystem-openstack-swift](https://github.com/chrisnharvey/flysystem-openstack-swift) ([1.3.1](https://github.com/chrisnharvey/flysystem-openstack-swift/releases/tag/1.3.1), 1 day ago) - OpenStack Swift adapter for Flysystem
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.2](https://github.com/loophp/iterators/releases/tag/1.6.2), 1 week ago) - The missing PHP iterators.
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([2.4.1](https://github.com/doctrine/persistence/releases/tag/2.4.1), 1 week ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [phpspec/phpspec](https://github.com/phpspec/phpspec) ([7.2.0](https://github.com/phpspec/phpspec/releases/tag/7.2.0), 3 weeks ago) - SpecBDD Framework for PHP
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.5](https://github.com/phpbench/phpbench/releases/tag/1.2.5), 1 month ago) - PHP Benchmarking framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.22.0](https://github.com/vimeo/psalm/releases/tag/4.22.0), 1 month ago) - A static analysis tool for finding errors in PHP applications
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.1.8](https://github.com/ecphp/cas-lib/releases/tag/1.1.8), 1 month ago) - CAS Lib, a standard library for CAS authentication.
 
 I'm currently **available for remote work**, feel free to contact me.
 
