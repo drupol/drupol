@@ -11,27 +11,27 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (today)
-- [drupol/yaroc](https://github.com/drupol/yaroc) - YAROC: Yet Another Random.Org Client. (today)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (today)
-- [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (today)
-- [drupol/cv](https://github.com/drupol/cv) - My public CV (1 day ago)
-- [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) - Auto register services aliases in the Symfony container. (1 day ago)
-- [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (1 day ago)
-- [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (1 day ago)
+- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (1 day ago)
+- [drupol/yaroc](https://github.com/drupol/yaroc) - YAROC: Yet Another Random.Org Client. (1 day ago)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (1 day ago)
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (1 day ago)
+- [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (1 day ago)
+- [drupol/cv](https://github.com/drupol/cv) - My public CV (2 days ago)
+- [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) - Auto register services aliases in the Symfony container. (2 days ago)
+- [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (2 days ago)
+- [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.0](https://github.com/doctrine/persistence/releases/tag/2.5.0), 2 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
-- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) ([2.0.4](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle/releases/tag/2.0.4), 6 days ago) - Provide a PSR HTTP message bridge without altering query parameters.
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.0](https://github.com/doctrine/persistence/releases/tag/2.5.0), 3 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
+- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) ([2.0.4](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle/releases/tag/2.0.4), 1 week ago) - Provide a PSR HTTP message bridge without altering query parameters.
 - [chrisnharvey/flysystem-openstack-swift](https://github.com/chrisnharvey/flysystem-openstack-swift) ([1.3.1](https://github.com/chrisnharvey/flysystem-openstack-swift/releases/tag/1.3.1), 1 week ago) - OpenStack Swift adapter for Flysystem
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.2](https://github.com/loophp/iterators/releases/tag/1.6.2), 2 weeks ago) - The missing PHP iterators.
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.10.0](https://github.com/phpro/grumphp/releases/tag/v1.10.0), 2 weeks ago) - A PHP code-quality tool
 - [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.6.0](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.6.0), 3 weeks ago) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.8.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.8.0), 3 weeks ago) - A tool to automatically fix PHP Coding Standards issues
-- [phpspec/phpspec](https://github.com/phpspec/phpspec) ([7.2.0](https://github.com/phpspec/phpspec/releases/tag/7.2.0), 4 weeks ago) - SpecBDD Framework for PHP
+- [phpspec/phpspec](https://github.com/phpspec/phpspec) ([7.2.0](https://github.com/phpspec/phpspec/releases/tag/7.2.0), 1 month ago) - SpecBDD Framework for PHP
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.5](https://github.com/phpbench/phpbench/releases/tag/1.2.5), 1 month ago) - PHP Benchmarking framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.22.0](https://github.com/vimeo/psalm/releases/tag/4.22.0), 1 month ago) - A static analysis tool for finding errors in PHP applications
 
