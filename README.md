@@ -11,20 +11,20 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
-- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (1 day ago)
-- [drupol/yaroc](https://github.com/drupol/yaroc) - YAROC: Yet Another Random.Org Client. (1 day ago)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (1 day ago)
-- [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (1 day ago)
-- [drupol/cv](https://github.com/drupol/cv) - My public CV (2 days ago)
-- [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) - Auto register services aliases in the Symfony container. (2 days ago)
-- [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (2 days ago)
-- [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (2 days ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (1 day ago)
+- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (2 days ago)
+- [drupol/yaroc](https://github.com/drupol/yaroc) - YAROC: Yet Another Random.Org Client. (2 days ago)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (2 days ago)
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (2 days ago)
+- [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (2 days ago)
+- [drupol/cv](https://github.com/drupol/cv) - My public CV (3 days ago)
+- [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) - Auto register services aliases in the Symfony container. (3 days ago)
+- [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (3 days ago)
+- [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.0](https://github.com/doctrine/persistence/releases/tag/2.5.0), 3 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.0](https://github.com/doctrine/persistence/releases/tag/2.5.0), 4 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) ([2.0.4](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle/releases/tag/2.0.4), 1 week ago) - Provide a PSR HTTP message bridge without altering query parameters.
 - [chrisnharvey/flysystem-openstack-swift](https://github.com/chrisnharvey/flysystem-openstack-swift) ([1.3.1](https://github.com/chrisnharvey/flysystem-openstack-swift/releases/tag/1.3.1), 1 week ago) - OpenStack Swift adapter for Flysystem
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.2](https://github.com/loophp/iterators/releases/tag/1.6.2), 2 weeks ago) - The missing PHP iterators.
