@@ -13,8 +13,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
 - [loophp/psr17](https://github.com/loophp/psr17) - Provides a PSR17 synthetic implementation. (1 day ago)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (1 day ago)
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (1 day ago)
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (1 day ago)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (3 days ago)
