@@ -24,9 +24,9 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([3.0.0](https://github.com/doctrine/persistence/releases/tag/3.0.0), today) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.2](https://github.com/loophp/psr17/releases/tag/1.0.2), 1 day ago) - Provides a PSR17 synthetic implementation.
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.3.2](https://github.com/ecphp/cas-bundle/releases/tag/2.3.2), 1 day ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
-- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.0](https://github.com/doctrine/persistence/releases/tag/2.5.0), 5 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) ([2.0.4](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle/releases/tag/2.0.4), 1 week ago) - Provide a PSR HTTP message bridge without altering query parameters.
 - [chrisnharvey/flysystem-openstack-swift](https://github.com/chrisnharvey/flysystem-openstack-swift) ([1.3.1](https://github.com/chrisnharvey/flysystem-openstack-swift/releases/tag/1.3.1), 1 week ago) - OpenStack Swift adapter for Flysystem
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.2](https://github.com/loophp/iterators/releases/tag/1.6.2), 2 weeks ago) - The missing PHP iterators.
