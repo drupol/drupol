@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [Innmind/Doctrine](https://github.com/Innmind/Doctrine) ([2.0.0](https://github.com/Innmind/Doctrine/releases/tag/2.0.0), today) - Declarative approach to eliminate state where not necessary
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.11.0](https://github.com/phpro/grumphp/releases/tag/v1.11.0), 1 day ago) - A PHP code-quality tool
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([3.0.0](https://github.com/doctrine/persistence/releases/tag/3.0.0), 1 day ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.2](https://github.com/loophp/psr17/releases/tag/1.0.2), 2 days ago) - Provides a PSR17 synthetic implementation.
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.2](https://github.com/loophp/iterators/releases/tag/1.6.2), 2 weeks ago) - The missing PHP iterators.
 - [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.6.0](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.6.0), 4 weeks ago) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.8.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.8.0), 4 weeks ago) - A tool to automatically fix PHP Coding Standards issues
-- [phpspec/phpspec](https://github.com/phpspec/phpspec) ([7.2.0](https://github.com/phpspec/phpspec/releases/tag/7.2.0), 1 month ago) - SpecBDD Framework for PHP
 
 I'm currently **available for remote work**, feel free to contact me.
 
