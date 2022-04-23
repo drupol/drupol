@@ -11,7 +11,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (1 day ago)
 - [ecphp/reverse-proxy-helper-bundle](https://github.com/ecphp/reverse-proxy-helper-bundle) - Helper bundle, configure the request headers from a given base URL. (3 days ago)
 - [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) - Let users customize the PHP configuration through a custom ini file. (3 days ago)
