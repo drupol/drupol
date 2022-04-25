@@ -11,9 +11,9 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 day ago)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (1 day ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (2 days ago)
 - [ecphp/doctrine-oci8](https://github.com/ecphp/doctrine-oci8) - Doctrine&#39;s OCI8 (Oracle) driver with cursor support. (5 days ago)
 - [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (5 days ago)
