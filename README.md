@@ -26,7 +26,6 @@ More about me on my blog: https://not-a-number.io/about/
 
 - [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) ([1.2.2](https://github.com/loophp/mock-soapclient/releases/tag/1.2.2), 1 week ago) - A fake and predictable SOAP client, useful for your unit tests.
 - [Innmind/Doctrine](https://github.com/Innmind/Doctrine) ([2.0.0](https://github.com/Innmind/Doctrine/releases/tag/2.0.0), 1 week ago) - Declarative approach to eliminate state where not necessary
-- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.11.0](https://github.com/phpro/grumphp/releases/tag/v1.11.0), 1 week ago) - A PHP code-quality tool
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([3.0.0](https://github.com/doctrine/persistence/releases/tag/3.0.0), 1 week ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.2](https://github.com/loophp/psr17/releases/tag/1.0.2), 2 weeks ago) - Provides a PSR17 synthetic implementation.
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.3.2](https://github.com/ecphp/cas-bundle/releases/tag/2.3.2), 2 weeks ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
@@ -34,6 +33,7 @@ More about me on my blog: https://not-a-number.io/about/
 - [chrisnharvey/flysystem-openstack-swift](https://github.com/chrisnharvey/flysystem-openstack-swift) ([1.3.1](https://github.com/chrisnharvey/flysystem-openstack-swift/releases/tag/1.3.1), 3 weeks ago) - OpenStack Swift adapter for Flysystem
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.2](https://github.com/loophp/iterators/releases/tag/1.6.2), 1 month ago) - The missing PHP iterators.
 - [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.6.0](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.6.0), 1 month ago) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
+- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.8.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.8.0), 1 month ago) - A tool to automatically fix PHP Coding Standards issues
 
 I'm currently **available for remote work**, feel free to contact me.
 
