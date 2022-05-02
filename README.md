@@ -24,11 +24,11 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([3.0.1](https://github.com/doctrine/persistence/releases/tag/3.0.1), today) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.1.9](https://github.com/ecphp/cas-lib/releases/tag/1.1.9), today) - CAS Lib, a standard library for CAS authentication.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.23.0](https://github.com/vimeo/psalm/releases/tag/4.23.0), today) - A static analysis tool for finding errors in PHP applications
 - [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) ([1.2.2](https://github.com/loophp/mock-soapclient/releases/tag/1.2.2), 1 week ago) - A fake and predictable SOAP client, useful for your unit tests.
 - [Innmind/Doctrine](https://github.com/Innmind/Doctrine) ([2.0.0](https://github.com/Innmind/Doctrine/releases/tag/2.0.0), 2 weeks ago) - Declarative approach to eliminate state where not necessary
-- [doctrine/persistence](https://github.com/doctrine/persistence) ([3.0.0](https://github.com/doctrine/persistence/releases/tag/3.0.0), 2 weeks ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.2](https://github.com/loophp/psr17/releases/tag/1.0.2), 2 weeks ago) - Provides a PSR17 synthetic implementation.
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.3.2](https://github.com/ecphp/cas-bundle/releases/tag/2.3.2), 2 weeks ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 - [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) ([2.0.4](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle/releases/tag/2.0.4), 3 weeks ago) - Provide a PSR HTTP message bridge without altering query parameters.
