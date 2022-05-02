@@ -11,19 +11,20 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (today)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (today)
 - [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (3 days ago)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (5 days ago)
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (6 days ago)
 - [loophp/.github](https://github.com/loophp/.github) -  (1 week ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 week ago)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 week ago)
-- [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) - CNS Client - Corporate Notification Service Client (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.1.9](https://github.com/ecphp/cas-lib/releases/tag/1.1.9), today) - CAS Lib, a standard library for CAS authentication.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.23.0](https://github.com/vimeo/psalm/releases/tag/4.23.0), today) - A static analysis tool for finding errors in PHP applications
 - [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) ([1.2.2](https://github.com/loophp/mock-soapclient/releases/tag/1.2.2), 1 week ago) - A fake and predictable SOAP client, useful for your unit tests.
 - [Innmind/Doctrine](https://github.com/Innmind/Doctrine) ([2.0.0](https://github.com/Innmind/Doctrine/releases/tag/2.0.0), 2 weeks ago) - Declarative approach to eliminate state where not necessary
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) ([2.0.4](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle/releases/tag/2.0.4), 3 weeks ago) - Provide a PSR HTTP message bridge without altering query parameters.
 - [chrisnharvey/flysystem-openstack-swift](https://github.com/chrisnharvey/flysystem-openstack-swift) ([1.3.1](https://github.com/chrisnharvey/flysystem-openstack-swift/releases/tag/1.3.1), 3 weeks ago) - OpenStack Swift adapter for Flysystem
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.2](https://github.com/loophp/iterators/releases/tag/1.6.2), 1 month ago) - The missing PHP iterators.
-- [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.6.0](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.6.0), 1 month ago) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
 
 I'm currently **available for remote work**, feel free to contact me.
 
