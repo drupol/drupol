@@ -11,7 +11,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (3 days ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (4 days ago)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (4 days ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (4 days ago)
@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/persistence](https://github.com/doctrine/persistence) ([3.0.1](https://github.com/doctrine/persistence/releases/tag/3.0.1), 4 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([3.0.2](https://github.com/doctrine/persistence/releases/tag/3.0.2), today) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.1.9](https://github.com/ecphp/cas-lib/releases/tag/1.1.9), 4 days ago) - CAS Lib, a standard library for CAS authentication.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.23.0](https://github.com/vimeo/psalm/releases/tag/4.23.0), 4 days ago) - A static analysis tool for finding errors in PHP applications
 - [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) ([1.2.2](https://github.com/loophp/mock-soapclient/releases/tag/1.2.2), 2 weeks ago) - A fake and predictable SOAP client, useful for your unit tests.
