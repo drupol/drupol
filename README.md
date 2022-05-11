@@ -11,6 +11,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (1 day ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (2 days ago)
@@ -20,7 +21,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (1 week ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (2 weeks ago)
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (2 weeks ago)
-- [loophp/.github](https://github.com/loophp/.github) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
