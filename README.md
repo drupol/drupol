@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.7.0](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.7.0), today) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
 - [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) ([2.0.5](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle/releases/tag/2.0.5), 6 days ago) - Provide a PSR HTTP message bridge without altering query parameters.
 - [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) ([1.0.0](https://github.com/ecphp/cns-client-bundle/releases/tag/1.0.0), 6 days ago) - CNS Client - Corporate Notification Service Client
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([3.0.2](https://github.com/doctrine/persistence/releases/tag/3.0.2), 1 week ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [Innmind/Doctrine](https://github.com/Innmind/Doctrine) ([2.0.0](https://github.com/Innmind/Doctrine/releases/tag/2.0.0), 1 month ago) - Declarative approach to eliminate state where not necessary
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.2](https://github.com/loophp/psr17/releases/tag/1.0.2), 1 month ago) - Provides a PSR17 synthetic implementation.
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.3.2](https://github.com/ecphp/cas-bundle/releases/tag/2.3.2), 1 month ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
-- [chrisnharvey/flysystem-openstack-swift](https://github.com/chrisnharvey/flysystem-openstack-swift) ([1.3.1](https://github.com/chrisnharvey/flysystem-openstack-swift/releases/tag/1.3.1), 1 month ago) - OpenStack Swift adapter for Flysystem
 
 I'm currently **available for remote work**, feel free to contact me.
 
