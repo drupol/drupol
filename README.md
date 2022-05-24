@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.3](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.3), today) - Monadic Doctrine repositories helper classes and services.
 - [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.7.0](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.7.0), 1 week ago) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
 - [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) ([2.0.5](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle/releases/tag/2.0.5), 1 week ago) - Provide a PSR HTTP message bridge without altering query parameters.
 - [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) ([1.0.0](https://github.com/ecphp/cns-client-bundle/releases/tag/1.0.0), 1 week ago) - CNS Client - Corporate Notification Service Client
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) ([1.2.2](https://github.com/loophp/mock-soapclient/releases/tag/1.2.2), 1 month ago) - A fake and predictable SOAP client, useful for your unit tests.
 - [Innmind/Doctrine](https://github.com/Innmind/Doctrine) ([2.0.0](https://github.com/Innmind/Doctrine/releases/tag/2.0.0), 1 month ago) - Declarative approach to eliminate state where not necessary
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.2](https://github.com/loophp/psr17/releases/tag/1.0.2), 1 month ago) - Provides a PSR17 synthetic implementation.
-- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.3.2](https://github.com/ecphp/cas-bundle/releases/tag/2.3.2), 1 month ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 
 I'm currently **available for remote work**, feel free to contact me.
 
