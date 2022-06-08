@@ -13,14 +13,14 @@ More about me on my blog: https://not-a-number.io/about/
 
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
 - [loophp/typed-generators](https://github.com/loophp/typed-generators) - Generate random typed values and in any shape. (today)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (5 days ago)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (5 days ago)
+- [ecphp/session--complexity-and-monads](https://github.com/ecphp/session--complexity-and-monads) - Session &#39;Complexity and monads&#39; (1 day ago)
 - [drupol/umask-bundle](https://github.com/drupol/umask-bundle) -  (5 days ago)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (5 days ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (5 days ago)
 - [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (6 days ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 week ago)
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (1 week ago)
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) - A collection of type-safe functional data structures (1 week ago)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
