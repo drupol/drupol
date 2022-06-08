@@ -12,8 +12,8 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
+- [ecphp/session--complexity-and-monads](https://github.com/ecphp/session--complexity-and-monads) - Session &#39;Complexity and monads&#39; (today)
 - [loophp/typed-generators](https://github.com/loophp/typed-generators) - Generate random typed values and in any shape. (today)
-- [ecphp/session--complexity-and-monads](https://github.com/ecphp/session--complexity-and-monads) - Session &#39;Complexity and monads&#39; (1 day ago)
 - [drupol/umask-bundle](https://github.com/drupol/umask-bundle) -  (5 days ago)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (5 days ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (5 days ago)
