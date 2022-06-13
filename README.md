@@ -11,16 +11,16 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
-- [loophp/typed-generators](https://github.com/loophp/typed-generators) - Generate random typed values and in any shape. (3 days ago)
+- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (today)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (3 days ago)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (4 days ago)
+- [loophp/typed-generators](https://github.com/loophp/typed-generators) - Generate random typed values and in any shape. (3 days ago)
 - [ecphp/session--complexity-and-monads](https://github.com/ecphp/session--complexity-and-monads) - Session &#39;Complexity and monads&#39; (5 days ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 week ago)
 - [drupol/umask-bundle](https://github.com/drupol/umask-bundle) -  (1 week ago)
 - [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (1 week ago)
-- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
