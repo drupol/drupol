@@ -20,7 +20,7 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/typed-generators](https://github.com/loophp/typed-generators) - Generate random typed values and in any shape. (1 week ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 week ago)
 - [ecphp/session--complexity-and-monads](https://github.com/ecphp/session--complexity-and-monads) - Session &#39;Complexity and monads&#39; (1 week ago)
-- [drupol/umask-bundle](https://github.com/drupol/umask-bundle) -  (2 weeks ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
