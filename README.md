@@ -11,6 +11,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
 - [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (3 days ago)
@@ -20,14 +21,13 @@ More about me on my blog: https://not-a-number.io/about/
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 week ago)
 - [loophp/typed-generators](https://github.com/loophp/typed-generators) - Generate random typed values and in any shape. (1 week ago)
 - [ecphp/session--complexity-and-monads](https://github.com/ecphp/session--complexity-and-monads) - Session &#39;Complexity and monads&#39; (1 week ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.6](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.6), today) - Monadic Doctrine repositories helper classes and services.
 - [bdhave/vault4summon](https://github.com/bdhave/vault4summon) ([v0.9.1](https://github.com/bdhave/vault4summon/releases/tag/v0.9.1), 1 week ago) - this project implement a CyberArk Summon provider using Hashicorp Vault as secrets provider
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.4](https://github.com/loophp/iterators/releases/tag/1.6.4), 1 week ago) - The missing PHP iterators.
 - [cycle/orm](https://github.com/cycle/orm) ([v2.1.1](https://github.com/cycle/orm/releases/tag/v2.1.1), 2 weeks ago) - PHP DataMapper, ORM
-- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.5](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.5), 3 weeks ago) - Monadic Doctrine repositories helper classes and services.
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.1.1](https://github.com/marcosh/lamphpda/releases/tag/v1.1.1), 3 weeks ago) - A collection of type-safe functional data structures
 - [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.7.0](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.7.0), 1 month ago) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
 - [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) ([2.0.5](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle/releases/tag/2.0.5), 1 month ago) - Provide a PSR HTTP message bridge without altering query parameters.
