@@ -11,20 +11,20 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
-- [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (3 days ago)
-- [cycle/orm](https://github.com/cycle/orm) - PHP DataMapper, ORM (4 days ago)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (5 days ago)
+- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (1 day ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (1 day ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (3 days ago)
+- [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (4 days ago)
+- [cycle/orm](https://github.com/cycle/orm) - PHP DataMapper, ORM (5 days ago)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (6 days ago)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 week ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 week ago)
 - [loophp/typed-generators](https://github.com/loophp/typed-generators) - Generate random typed values and in any shape. (1 week ago)
-- [ecphp/session--complexity-and-monads](https://github.com/ecphp/session--complexity-and-monads) - Session &#39;Complexity and monads&#39; (1 week ago)
+- [ecphp/session--complexity-and-monads](https://github.com/ecphp/session--complexity-and-monads) - Session &#39;Complexity and monads&#39; (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.6](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.6), today) - Monadic Doctrine repositories helper classes and services.
+- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.6](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.6), 1 day ago) - Monadic Doctrine repositories helper classes and services.
 - [bdhave/vault4summon](https://github.com/bdhave/vault4summon) ([v0.9.1](https://github.com/bdhave/vault4summon/releases/tag/v0.9.1), 1 week ago) - this project implement a CyberArk Summon provider using Hashicorp Vault as secrets provider
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.4](https://github.com/loophp/iterators/releases/tag/1.6.4), 1 week ago) - The missing PHP iterators.
 - [cycle/orm](https://github.com/cycle/orm) ([v2.1.1](https://github.com/cycle/orm/releases/tag/v2.1.1), 2 weeks ago) - PHP DataMapper, ORM
