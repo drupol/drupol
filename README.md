@@ -11,21 +11,21 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (today)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
-- [loophp/nix-auto-changelog](https://github.com/loophp/nix-auto-changelog) - A Nix flake to generating changelog files based on your git tags and commit history. (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
-- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues (1 day ago)
+- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (today)
+- [loophp/nix-auto-changelog](https://github.com/loophp/nix-auto-changelog) - A Nix flake to generating changelog files based on your git tags and commit history. (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (1 day ago)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
+- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues (1 day ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
 - [ecphp/session--complexity-and-monads](https://github.com/ecphp/session--complexity-and-monads) - Session &#39;Complexity and monads&#39; (2 days ago)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (2 days ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [loophp/nix-auto-changelog](https://github.com/loophp/nix-auto-changelog) ([1.0.3](https://github.com/loophp/nix-auto-changelog/releases/tag/1.0.3), today) - A Nix flake to generating changelog files based on your git tags and commit history.
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.13](https://github.com/loophp/iterators/releases/tag/1.6.13), today) - The missing PHP iterators.
-- [loophp/nix-auto-changelog](https://github.com/loophp/nix-auto-changelog) ([1.0.0](https://github.com/loophp/nix-auto-changelog/releases/tag/1.0.0), today) - A Nix flake to generating changelog files based on your git tags and commit history.
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.6](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.6), 4 days ago) - Monadic Doctrine repositories helper classes and services.
 - [bdhave/vault4summon](https://github.com/bdhave/vault4summon) ([v0.9.1](https://github.com/bdhave/vault4summon/releases/tag/v0.9.1), 1 week ago) - this project implement a CyberArk Summon provider using Hashicorp Vault as secrets provider
 - [cycle/orm](https://github.com/cycle/orm) ([v2.1.1](https://github.com/cycle/orm/releases/tag/v2.1.1), 2 weeks ago) - PHP DataMapper, ORM
