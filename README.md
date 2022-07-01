@@ -13,9 +13,9 @@ More about me on my blog: https://not-a-number.io/about/
 
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
 - [loophp/nix-phpstan](https://github.com/loophp/nix-phpstan) - A Nix flake for PHPStan (today)
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (today)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (2 days ago)
 - [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol. (3 days ago)
 - [loophp/nix-auto-changelog](https://github.com/loophp/nix-auto-changelog) - A Nix flake to generating changelog files based on your git tags and commit history. (4 days ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (4 days ago)
