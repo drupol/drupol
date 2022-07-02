@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [Innmind/Immutable](https://github.com/Innmind/Immutable) ([4.3.0](https://github.com/Innmind/Immutable/releases/tag/4.3.0), today) - Wrappers for PHP primitives allowing immutable structures
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.24.0](https://github.com/vimeo/psalm/releases/tag/4.24.0), 5 days ago) - A static analysis tool for finding errors in PHP applications
 - [loophp/nix-auto-changelog](https://github.com/loophp/nix-auto-changelog) ([1.0.3](https://github.com/loophp/nix-auto-changelog/releases/tag/1.0.3), 1 week ago) - A Nix flake to generating changelog files based on your git tags and commit history.
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.13](https://github.com/loophp/iterators/releases/tag/1.6.13), 1 week ago) - The missing PHP iterators.
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.1.1](https://github.com/marcosh/lamphpda/releases/tag/v1.1.1), 1 month ago) - A collection of type-safe functional data structures
 - [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.7.0](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.7.0), 1 month ago) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
 - [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) ([2.0.5](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle/releases/tag/2.0.5), 1 month ago) - Provide a PSR HTTP message bridge without altering query parameters.
-- [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) ([1.0.0](https://github.com/ecphp/cns-client-bundle/releases/tag/1.0.0), 1 month ago) - CNS Client - Corporate Notification Service Client
 
 I'm currently **available for remote work**, feel free to contact me.
 
