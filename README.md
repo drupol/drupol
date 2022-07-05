@@ -33,7 +33,7 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.13](https://github.com/loophp/iterators/releases/tag/1.6.13), 1 week ago) - The missing PHP iterators.
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.6](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.6), 2 weeks ago) - Monadic Doctrine repositories helper classes and services.
 - [bdhave/vault4summon](https://github.com/bdhave/vault4summon) ([v0.9.1](https://github.com/bdhave/vault4summon/releases/tag/v0.9.1), 3 weeks ago) - this project implement a CyberArk Summon provider using Hashicorp Vault as secrets provider
-- [doctrine-extensions/DoctrineExtensions](https://github.com/doctrine-extensions/DoctrineExtensions) ([v3.7.0](https://github.com/doctrine-extensions/DoctrineExtensions/releases/tag/v3.7.0), 1 month ago) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
+- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) ([2.0.5](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle/releases/tag/2.0.5), 1 month ago) - Provide a PSR HTTP message bridge without altering query parameters.
 
 I'm currently **available for remote work**, feel free to contact me.
 
