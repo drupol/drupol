@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.9.1](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.9.1), today) - A tool to automatically fix PHP Coding Standards issues
 - [cycle/orm](https://github.com/cycle/orm) ([v2.2.0](https://github.com/cycle/orm/releases/tag/v2.2.0), 6 days ago) - PHP DataMapper, ORM
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.2.0](https://github.com/marcosh/lamphpda/releases/tag/v1.2.0), 6 days ago) - A collection of type-safe functional data structures
 - [loophp/nix-auto-changelog](https://github.com/loophp/nix-auto-changelog) ([1.0.5](https://github.com/loophp/nix-auto-changelog/releases/tag/1.0.5), 1 week ago) - A Nix flake to generating changelog files based on your git tags and commit history.
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.13](https://github.com/loophp/iterators/releases/tag/1.6.13), 2 weeks ago) - The missing PHP iterators.
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.6](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.6), 2 weeks ago) - Monadic Doctrine repositories helper classes and services.
 - [bdhave/vault4summon](https://github.com/bdhave/vault4summon) ([v0.9.1](https://github.com/bdhave/vault4summon/releases/tag/v0.9.1), 4 weeks ago) - this project implement a CyberArk Summon provider using Hashicorp Vault as secrets provider
-- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) ([2.0.5](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle/releases/tag/2.0.5), 2 months ago) - Provide a PSR HTTP message bridge without altering query parameters.
 
 I'm currently **available for remote work**, feel free to contact me.
 
