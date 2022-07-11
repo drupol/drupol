@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.9.1](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.9.1), today) - A tool to automatically fix PHP Coding Standards issues
+- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.9.2](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.9.2), today) - A tool to automatically fix PHP Coding Standards issues
 - [cycle/orm](https://github.com/cycle/orm) ([v2.2.0](https://github.com/cycle/orm/releases/tag/v2.2.0), 6 days ago) - PHP DataMapper, ORM
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.2.0](https://github.com/marcosh/lamphpda/releases/tag/v1.2.0), 6 days ago) - A collection of type-safe functional data structures
 - [loophp/nix-auto-changelog](https://github.com/loophp/nix-auto-changelog) ([1.0.5](https://github.com/loophp/nix-auto-changelog/releases/tag/1.0.5), 1 week ago) - A Nix flake to generating changelog files based on your git tags and commit history.
