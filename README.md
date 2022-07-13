@@ -11,6 +11,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) - CNS Client - Corporate Notification Service Client (today)
 - [loophp/nix-phpstan](https://github.com/loophp/nix-phpstan) - A Nix flake for PHPStan (1 day ago)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
@@ -20,7 +21,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (1 week ago)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (1 week ago)
 - [loophp/nix-auto-changelog](https://github.com/loophp/nix-auto-changelog) - A Nix flake to generating changelog files based on your git tags and commit history. (1 week ago)
-- [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) - CNS Client - Corporate Notification Service Client (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
