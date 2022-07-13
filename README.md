@@ -11,20 +11,20 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) - Let users customize the PHP configuration through a custom ini file. (today)
+- [ecphp/doctrine-oci8](https://github.com/ecphp/doctrine-oci8) - Doctrine&#39;s OCI8 (Oracle) driver with cursor support. (today)
 - [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) - CNS Client - Corporate Notification Service Client (today)
-- [loophp/nix-phpstan](https://github.com/loophp/nix-phpstan) - A Nix flake for PHPStan (1 day ago)
+- [ecphp/reverse-proxy-helper-bundle](https://github.com/ecphp/reverse-proxy-helper-bundle) - Helper bundle, configure the request headers from a given base URL. (today)
+- [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (today)
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (today)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (2 days ago)
+- [loophp/nix-phpstan](https://github.com/loophp/nix-phpstan) - A Nix flake for PHPStan (1 day ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (2 days ago)
-- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (5 days ago)
-- [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (1 week ago)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (1 week ago)
-- [loophp/nix-auto-changelog](https://github.com/loophp/nix-auto-changelog) - A Nix flake to generating changelog files based on your git tags and commit history. (1 week ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.9.2](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.9.2), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.9.3](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.9.3), today) - A tool to automatically fix PHP Coding Standards issues
 - [cycle/orm](https://github.com/cycle/orm) ([v2.2.0](https://github.com/cycle/orm/releases/tag/v2.2.0), 1 week ago) - PHP DataMapper, ORM
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.2.0](https://github.com/marcosh/lamphpda/releases/tag/v1.2.0), 1 week ago) - A collection of type-safe functional data structures
 - [loophp/nix-auto-changelog](https://github.com/loophp/nix-auto-changelog) ([1.0.5](https://github.com/loophp/nix-auto-changelog/releases/tag/1.0.5), 1 week ago) - A Nix flake to generating changelog files based on your git tags and commit history.
