@@ -24,12 +24,12 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [Innmind/Immutable](https://github.com/Innmind/Immutable) ([4.4.0](https://github.com/Innmind/Immutable/releases/tag/4.4.0), today) - Wrappers for PHP primitives allowing immutable structures
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.9.3](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.9.3), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [cycle/orm](https://github.com/cycle/orm) ([v2.2.0](https://github.com/cycle/orm/releases/tag/v2.2.0), 1 week ago) - PHP DataMapper, ORM
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.2.0](https://github.com/marcosh/lamphpda/releases/tag/v1.2.0), 1 week ago) - A collection of type-safe functional data structures
 - [loophp/nix-auto-changelog](https://github.com/loophp/nix-auto-changelog) ([1.0.5](https://github.com/loophp/nix-auto-changelog/releases/tag/1.0.5), 1 week ago) - A Nix flake to generating changelog files based on your git tags and commit history.
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) ([1.0.3](https://github.com/loophp/flake-lock-update-workflow/releases/tag/1.0.3), 1 week ago) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically.
-- [Innmind/Immutable](https://github.com/Innmind/Immutable) ([4.3.0](https://github.com/Innmind/Immutable/releases/tag/4.3.0), 1 week ago) - Wrappers for PHP primitives allowing immutable structures
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.24.0](https://github.com/vimeo/psalm/releases/tag/4.24.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.13](https://github.com/loophp/iterators/releases/tag/1.6.13), 2 weeks ago) - The missing PHP iterators.
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.6](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.6), 3 weeks ago) - Monadic Doctrine repositories helper classes and services.
