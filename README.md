@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.6](https://github.com/phpbench/phpbench/releases/tag/1.2.6), today) - PHP Benchmarking framework
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.9.4](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.9.4), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [Innmind/Immutable](https://github.com/Innmind/Immutable) ([4.4.0](https://github.com/Innmind/Immutable/releases/tag/4.4.0), 5 days ago) - Wrappers for PHP primitives allowing immutable structures
 - [cycle/orm](https://github.com/cycle/orm) ([v2.2.0](https://github.com/cycle/orm/releases/tag/v2.2.0), 2 weeks ago) - PHP DataMapper, ORM
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.24.0](https://github.com/vimeo/psalm/releases/tag/4.24.0), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.13](https://github.com/loophp/iterators/releases/tag/1.6.13), 3 weeks ago) - The missing PHP iterators.
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.6](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.6), 4 weeks ago) - Monadic Doctrine repositories helper classes and services.
-- [bdhave/vault4summon](https://github.com/bdhave/vault4summon) ([v0.9.1](https://github.com/bdhave/vault4summon/releases/tag/v0.9.1), 1 month ago) - this project implement a CyberArk Summon provider using Hashicorp Vault as secrets provider
 
 I'm currently **available for remote work**, feel free to contact me.
 
