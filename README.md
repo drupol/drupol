@@ -11,8 +11,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
 - [drupol/oss-labs.eu](https://github.com/drupol/oss-labs.eu) -  (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (3 days ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (4 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (4 days ago)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (5 days ago)
