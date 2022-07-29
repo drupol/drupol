@@ -11,7 +11,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) -  (today)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contais the configuration of every home computers (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 day ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (6 days ago)
