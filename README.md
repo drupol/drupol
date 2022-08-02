@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([v4.25.0](https://github.com/vimeo/psalm/releases/tag/v4.25.0), 5 days ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.26.0](https://github.com/vimeo/psalm/releases/tag/4.26.0), today) - A static analysis tool for finding errors in PHP applications
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.9.5](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.9.5), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [Innmind/Immutable](https://github.com/Innmind/Immutable) ([4.4.0](https://github.com/Innmind/Immutable/releases/tag/4.4.0), 2 weeks ago) - Wrappers for PHP primitives allowing immutable structures
 - [cycle/orm](https://github.com/cycle/orm) ([v2.2.0](https://github.com/cycle/orm/releases/tag/v2.2.0), 4 weeks ago) - PHP DataMapper, ORM
