@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/persistence](https://github.com/doctrine/persistence) ([3.0.3](https://github.com/doctrine/persistence/releases/tag/3.0.3), 2 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.4](https://github.com/doctrine/persistence/releases/tag/2.5.4), today) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.26.0](https://github.com/vimeo/psalm/releases/tag/4.26.0), 4 days ago) - A static analysis tool for finding errors in PHP applications
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.9.5](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.9.5), 2 weeks ago) - A tool to automatically fix PHP Coding Standards issues
 - [Innmind/Immutable](https://github.com/Innmind/Immutable) ([4.4.0](https://github.com/Innmind/Immutable/releases/tag/4.4.0), 3 weeks ago) - Wrappers for PHP primitives allowing immutable structures
