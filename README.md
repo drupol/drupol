@@ -11,9 +11,9 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [drupol/cv](https://github.com/drupol/cv) - My public CV (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
-- [drupol/cv](https://github.com/drupol/cv) - My public CV (today)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (today)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (3 days ago)
 - [loophp/nix-phpstan](https://github.com/loophp/nix-phpstan) - A Nix flake for PHPStan (3 days ago)
@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [drupol/cv](https://github.com/drupol/cv) ([v34-ad1bba8](https://github.com/drupol/cv/releases/tag/v34-ad1bba8), today) - My public CV
+- [drupol/cv](https://github.com/drupol/cv) ([v35-b0fb88d](https://github.com/drupol/cv/releases/tag/v35-b0fb88d), today) - My public CV
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.10.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.10.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.4](https://github.com/doctrine/persistence/releases/tag/2.5.4), 1 week ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.26.0](https://github.com/vimeo/psalm/releases/tag/4.26.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
