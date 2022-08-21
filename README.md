@@ -11,21 +11,21 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [drupol/cv](https://github.com/drupol/cv) - My public CV (today)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
-- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 day ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (4 days ago)
-- [loophp/nix-phpstan](https://github.com/loophp/nix-phpstan) - A Nix flake for PHPStan (4 days ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (5 days ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (6 days ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [drupol/cv](https://github.com/drupol/cv) - My public CV (1 day ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
+- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (2 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (5 days ago)
+- [loophp/nix-phpstan](https://github.com/loophp/nix-phpstan) - A Nix flake for PHPStan (5 days ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (6 days ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 week ago)
 - [drupol/wopi-app](https://github.com/drupol/wopi-app) -  (2 weeks ago)
 - [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [drupol/cv](https://github.com/drupol/cv) ([v35-b0fb88d](https://github.com/drupol/cv/releases/tag/v35-b0fb88d), 1 day ago) - My public CV
-- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.10.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.10.0), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [drupol/cv](https://github.com/drupol/cv) ([v35-b0fb88d](https://github.com/drupol/cv/releases/tag/v35-b0fb88d), 2 days ago) - My public CV
+- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.10.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.10.0), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.4](https://github.com/doctrine/persistence/releases/tag/2.5.4), 2 weeks ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.26.0](https://github.com/vimeo/psalm/releases/tag/4.26.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [Innmind/Immutable](https://github.com/Innmind/Immutable) ([4.4.0](https://github.com/Innmind/Immutable/releases/tag/4.4.0), 1 month ago) - Wrappers for PHP primitives allowing immutable structures
