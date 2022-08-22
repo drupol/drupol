@@ -11,8 +11,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
 - [drupol/cv](https://github.com/drupol/cv) - My public CV (2 days ago)
@@ -24,6 +24,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.0](https://github.com/ecphp/cas-lib/releases/tag/2.0.0), today) - CAS Lib, a standard library for CAS authentication.
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2022.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.2), today) - PHP runtime &amp; extensions header files for PhpStorm
 - [drupol/cv](https://github.com/drupol/cv) ([v35-b0fb88d](https://github.com/drupol/cv/releases/tag/v35-b0fb88d), 3 days ago) - My public CV
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.10.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.10.0), 5 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.4](https://github.com/doctrine/persistence/releases/tag/2.5.4), 2 weeks ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
@@ -32,8 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [cycle/orm](https://github.com/cycle/orm) ([v2.2.0](https://github.com/cycle/orm/releases/tag/v2.2.0), 1 month ago) - PHP DataMapper, ORM
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.2.0](https://github.com/marcosh/lamphpda/releases/tag/v1.2.0), 1 month ago) - A collection of type-safe functional data structures
 - [loophp/nix-auto-changelog](https://github.com/loophp/nix-auto-changelog) ([1.0.5](https://github.com/loophp/nix-auto-changelog/releases/tag/1.0.5), 1 month ago) - A Nix flake to generating changelog files based on your git tags and commit history.
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) ([1.0.3](https://github.com/loophp/flake-lock-update-workflow/releases/tag/1.0.3), 1 month ago) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically.
-- [loophp/iterators](https://github.com/loophp/iterators) ([1.6.13](https://github.com/loophp/iterators/releases/tag/1.6.13), 1 month ago) - The missing PHP iterators.
 
 I'm currently **available for remote work**, feel free to contact me.
 
