@@ -29,11 +29,11 @@ More about me on my blog: https://not-a-number.io/about/
 - [drupol/cv](https://github.com/drupol/cv) ([v35-b0fb88d](https://github.com/drupol/cv/releases/tag/v35-b0fb88d), 5 days ago) - My public CV
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.10.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.10.0), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.4](https://github.com/doctrine/persistence/releases/tag/2.5.4), 2 weeks ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.26.0](https://github.com/vimeo/psalm/releases/tag/4.26.0), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [Innmind/Immutable](https://github.com/Innmind/Immutable) ([4.4.0](https://github.com/Innmind/Immutable/releases/tag/4.4.0), 1 month ago) - Wrappers for PHP primitives allowing immutable structures
 - [cycle/orm](https://github.com/cycle/orm) ([v2.2.0](https://github.com/cycle/orm/releases/tag/v2.2.0), 1 month ago) - PHP DataMapper, ORM
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.2.0](https://github.com/marcosh/lamphpda/releases/tag/v1.2.0), 1 month ago) - A collection of type-safe functional data structures
 - [loophp/nix-auto-changelog](https://github.com/loophp/nix-auto-changelog) ([1.0.5](https://github.com/loophp/nix-auto-changelog/releases/tag/1.0.5), 1 month ago) - A Nix flake to generating changelog files based on your git tags and commit history.
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) ([1.0.3](https://github.com/loophp/flake-lock-update-workflow/releases/tag/1.0.3), 1 month ago) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically.
 
 I'm currently **available for remote work**, feel free to contact me.
 
