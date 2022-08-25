@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.4.0](https://github.com/ecphp/eu-login-bundle/releases/tag/2.4.0), today) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([3.0.0](https://github.com/ecphp/ecas/releases/tag/3.0.0), today) - CAS library to communicate with eCAS/EULogin
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.4.1](https://github.com/ecphp/cas-bundle/releases/tag/2.4.1), today) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.0](https://github.com/ecphp/cas-lib/releases/tag/2.0.0), 3 days ago) - CAS Lib, a standard library for CAS authentication.
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.4](https://github.com/doctrine/persistence/releases/tag/2.5.4), 2 weeks ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [Innmind/Immutable](https://github.com/Innmind/Immutable) ([4.4.0](https://github.com/Innmind/Immutable/releases/tag/4.4.0), 1 month ago) - Wrappers for PHP primitives allowing immutable structures
 - [cycle/orm](https://github.com/cycle/orm) ([v2.2.0](https://github.com/cycle/orm/releases/tag/v2.2.0), 1 month ago) - PHP DataMapper, ORM
-- [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.2.0](https://github.com/marcosh/lamphpda/releases/tag/v1.2.0), 1 month ago) - A collection of type-safe functional data structures
 
 I'm currently **available for remote work**, feel free to contact me.
 
