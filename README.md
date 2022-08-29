@@ -24,11 +24,11 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.5.0](https://github.com/ecphp/eu-login-bundle/releases/tag/2.5.0), today) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
+- [ecphp/ecas](https://github.com/ecphp/ecas) ([2.3.0](https://github.com/ecphp/ecas/releases/tag/2.3.0), today) - CAS library to communicate with eCAS/EULogin
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.4](https://github.com/loophp/psr17/releases/tag/1.0.4), 1 day ago) - Provides a PSR17 synthetic implementation.
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.8](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.8), 2 days ago) - Monadic Doctrine repositories helper classes and services.
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.12](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.12), 4 days ago) - Base PHP CS Fixer configurations.
-- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.4.0](https://github.com/ecphp/eu-login-bundle/releases/tag/2.4.0), 4 days ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
-- [ecphp/ecas](https://github.com/ecphp/ecas) ([3.0.0](https://github.com/ecphp/ecas/releases/tag/3.0.0), 4 days ago) - CAS library to communicate with eCAS/EULogin
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.4.1](https://github.com/ecphp/cas-bundle/releases/tag/2.4.1), 4 days ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.0](https://github.com/ecphp/cas-lib/releases/tag/2.0.0), 1 week ago) - CAS Lib, a standard library for CAS authentication.
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2022.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.2), 1 week ago) - PHP runtime &amp; extensions header files for PhpStorm
