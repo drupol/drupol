@@ -11,12 +11,12 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (2 days ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (3 days ago)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (4 days ago)
-- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (4 days ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (3 days ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (4 days ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (5 days ago)
+- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (5 days ago)
 - [drupol/primes-bench](https://github.com/drupol/primes-bench) - A playground for benchmarking Prime numbers iterators. (1 week ago)
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (1 week ago)
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (1 week ago)
@@ -33,7 +33,7 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.4.1](https://github.com/ecphp/cas-bundle/releases/tag/2.4.1), 2 weeks ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.0](https://github.com/ecphp/cas-lib/releases/tag/2.0.0), 2 weeks ago) - CAS Lib, a standard library for CAS authentication.
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2022.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.2), 2 weeks ago) - PHP runtime &amp; extensions header files for PhpStorm
-- [drupol/cv](https://github.com/drupol/cv) ([v35-b0fb88d](https://github.com/drupol/cv/releases/tag/v35-b0fb88d), 2 weeks ago) - My public CV
+- [drupol/cv](https://github.com/drupol/cv) ([v35-b0fb88d](https://github.com/drupol/cv/releases/tag/v35-b0fb88d), 3 weeks ago) - My public CV
 
 I'm currently **available for remote work**, feel free to contact me.
 
