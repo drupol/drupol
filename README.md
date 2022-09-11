@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.2](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.2), today) - Iterable assertions for PHPUnit
+- [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.3](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.3), today) - Iterable assertions for PHPUnit
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.0.0](https://github.com/loophp/iterators/releases/tag/2.0.0), today) - The missing PHP iterators.
 - [loophp/grumphp-license-task](https://github.com/loophp/grumphp-license-task) ([1.0.7](https://github.com/loophp/grumphp-license-task/releases/tag/1.0.7), 1 day ago) - Provide the license task for GrumPHP.
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.11.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.11.0), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
