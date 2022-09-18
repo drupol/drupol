@@ -13,8 +13,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
 - [drupol/devshell](https://github.com/drupol/devshell) -  (today)
+- [drupol/nixos-processes](https://github.com/drupol/nixos-processes) -  (today)
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (2 days ago)
-- [drupol/nixos-processes](https://github.com/drupol/nixos-processes) -  (2 days ago)
 - [loophp/combinator](https://github.com/loophp/combinator) - A curated list of combinators (2 days ago)
 - [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (2 days ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (3 days ago)
