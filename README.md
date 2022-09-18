@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [Innmind/Immutable](https://github.com/Innmind/Immutable) ([4.5.0](https://github.com/Innmind/Immutable/releases/tag/4.5.0), today) - Wrappers for PHP primitives allowing immutable structures
 - [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.3](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.3), 1 week ago) - Iterable assertions for PHPUnit
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.0.0](https://github.com/loophp/iterators/releases/tag/2.0.0), 1 week ago) - The missing PHP iterators.
 - [loophp/grumphp-license-task](https://github.com/loophp/grumphp-license-task) ([1.0.7](https://github.com/loophp/grumphp-license-task/releases/tag/1.0.7), 1 week ago) - Provide the license task for GrumPHP.
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.4](https://github.com/loophp/psr17/releases/tag/1.0.4), 3 weeks ago) - Provides a PSR17 synthetic implementation.
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.8](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.8), 3 weeks ago) - Monadic Doctrine repositories helper classes and services.
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.12](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.12), 3 weeks ago) - Base PHP CS Fixer configurations.
-- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.4.1](https://github.com/ecphp/cas-bundle/releases/tag/2.4.1), 3 weeks ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 
 I'm currently **available for remote work**, feel free to contact me.
 
