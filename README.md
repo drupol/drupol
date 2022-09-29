@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.1](https://github.com/ecphp/cas-lib/releases/tag/2.0.1), today) - CAS Lib, a standard library for CAS authentication.
 - [Innmind/Immutable](https://github.com/Innmind/Immutable) ([4.5.0](https://github.com/Innmind/Immutable/releases/tag/4.5.0), 1 week ago) - Wrappers for PHP primitives allowing immutable structures
 - [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.3](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.3), 2 weeks ago) - Iterable assertions for PHPUnit
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.0.0](https://github.com/loophp/iterators/releases/tag/2.0.0), 2 weeks ago) - The missing PHP iterators.
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([2.3.0](https://github.com/ecphp/ecas/releases/tag/2.3.0), 1 month ago) - CAS library to communicate with eCAS/EULogin
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.4](https://github.com/loophp/psr17/releases/tag/1.0.4), 1 month ago) - Provides a PSR17 synthetic implementation.
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.8](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.8), 1 month ago) - Monadic Doctrine repositories helper classes and services.
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.12](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.12), 1 month ago) - Base PHP CS Fixer configurations.
 
 I'm currently **available for remote work**, feel free to contact me.
 
