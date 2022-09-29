@@ -11,13 +11,13 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (today)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (today)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (2 days ago)
-- [loophp/combinator](https://github.com/loophp/combinator) - A curated list of combinators (5 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 day ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (1 day ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (3 days ago)
+- [loophp/combinator](https://github.com/loophp/combinator) - A curated list of combinators (6 days ago)
 - [drupol/nixos-processes](https://github.com/drupol/nixos-processes) -  (1 week ago)
 - [drupol/devshell](https://github.com/drupol/devshell) -  (1 week ago)
 - [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (1 week ago)
@@ -28,7 +28,7 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.3](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.3), 2 weeks ago) - Iterable assertions for PHPUnit
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.0.0](https://github.com/loophp/iterators/releases/tag/2.0.0), 2 weeks ago) - The missing PHP iterators.
 - [loophp/grumphp-license-task](https://github.com/loophp/grumphp-license-task) ([1.0.7](https://github.com/loophp/grumphp-license-task/releases/tag/1.0.7), 2 weeks ago) - Provide the license task for GrumPHP.
-- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.11.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.11.0), 3 weeks ago) - A tool to automatically fix PHP Coding Standards issues
+- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.11.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.11.0), 4 weeks ago) - A tool to automatically fix PHP Coding Standards issues
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.5.0](https://github.com/ecphp/eu-login-bundle/releases/tag/2.5.0), 1 month ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([2.3.0](https://github.com/ecphp/ecas/releases/tag/2.3.0), 1 month ago) - CAS library to communicate with eCAS/EULogin
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.4](https://github.com/loophp/psr17/releases/tag/1.0.4), 1 month ago) - Provides a PSR17 synthetic implementation.
