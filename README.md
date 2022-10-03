@@ -18,8 +18,8 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
 - [loophp/nix-prettier](https://github.com/loophp/nix-prettier) - A Nix flake to run Prettier in a project without worries. (1 day ago)
 - [loophp/nix-sphinx](https://github.com/loophp/nix-sphinx) - A Nix flake to generate a project&#39;s documentation using Sphinx, without worries. (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (2 days ago)
 - [flow-php/flow](https://github.com/flow-php/flow) - Monorepo for Flow PHP - Unified data processing library (2 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (3 days ago)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
