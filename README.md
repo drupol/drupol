@@ -11,20 +11,20 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
-- [loophp/nix-auto-changelog](https://github.com/loophp/nix-auto-changelog) - A Nix flake to generating changelog files based on your git tags and commit history. (today)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
-- [loophp/nix-sphinx](https://github.com/loophp/nix-sphinx) - A Nix flake to generate a project&#39;s documentation using Sphinx, without worries. (today)
-- [loophp/nix-prettier](https://github.com/loophp/nix-prettier) - A Nix flake to run Prettier in a project without worries. (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
-- [flow-php/flow](https://github.com/flow-php/flow) - Monorepo for Flow PHP - Unified data processing library (1 day ago)
-- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (2 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (2 days ago)
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (3 days ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
+- [loophp/nix-auto-changelog](https://github.com/loophp/nix-auto-changelog) - A Nix flake to generating changelog files based on your git tags and commit history. (1 day ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
+- [loophp/nix-sphinx](https://github.com/loophp/nix-sphinx) - A Nix flake to generate a project&#39;s documentation using Sphinx, without worries. (1 day ago)
+- [loophp/nix-prettier](https://github.com/loophp/nix-prettier) - A Nix flake to run Prettier in a project without worries. (1 day ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (2 days ago)
+- [flow-php/flow](https://github.com/flow-php/flow) - Monorepo for Flow PHP - Unified data processing library (2 days ago)
+- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (3 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (3 days ago)
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.1](https://github.com/ecphp/cas-lib/releases/tag/2.0.1), 3 days ago) - CAS Lib, a standard library for CAS authentication.
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.1](https://github.com/ecphp/cas-lib/releases/tag/2.0.1), 4 days ago) - CAS Lib, a standard library for CAS authentication.
 - [Innmind/Immutable](https://github.com/Innmind/Immutable) ([4.5.0](https://github.com/Innmind/Immutable/releases/tag/4.5.0), 2 weeks ago) - Wrappers for PHP primitives allowing immutable structures
 - [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.3](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.3), 3 weeks ago) - Iterable assertions for PHPUnit
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.0.0](https://github.com/loophp/iterators/releases/tag/2.0.0), 3 weeks ago) - The missing PHP iterators.
