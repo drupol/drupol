@@ -24,8 +24,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [Innmind/Immutable](https://github.com/Innmind/Immutable) ([4.6.0](https://github.com/Innmind/Immutable/releases/tag/4.6.0), today) - Wrappers for PHP primitives allowing immutable structures
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.1](https://github.com/ecphp/cas-lib/releases/tag/2.0.1), 1 week ago) - CAS Lib, a standard library for CAS authentication.
-- [Innmind/Immutable](https://github.com/Innmind/Immutable) ([4.5.0](https://github.com/Innmind/Immutable/releases/tag/4.5.0), 2 weeks ago) - Wrappers for PHP primitives allowing immutable structures
 - [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.3](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.3), 3 weeks ago) - Iterable assertions for PHPUnit
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.0.0](https://github.com/loophp/iterators/releases/tag/2.0.0), 3 weeks ago) - The missing PHP iterators.
 - [loophp/grumphp-license-task](https://github.com/loophp/grumphp-license-task) ([1.0.7](https://github.com/loophp/grumphp-license-task/releases/tag/1.0.7), 4 weeks ago) - Provide the license task for GrumPHP.
