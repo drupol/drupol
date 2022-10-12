@@ -11,19 +11,20 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (today)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (today)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (2 days ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (2 days ago)
 - [loophp/nix-auto-changelog](https://github.com/loophp/nix-auto-changelog) - A Nix flake to generating changelog files based on your git tags and commit history. (3 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (5 days ago)
 - [loophp/nix-prettier](https://github.com/loophp/nix-prettier) - A Nix flake to run Prettier in a project without worries. (5 days ago)
 - [loophp/nix-sphinx](https://github.com/loophp/nix-sphinx) - A Nix flake to generate a project&#39;s documentation using Sphinx, without worries. (5 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (5 days ago)
-- [drupol/zeta](https://github.com/drupol/zeta) -  (1 week ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.13](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.13), today) - Base PHP CS Fixer configurations.
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.12.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.12.0), today) - A tool to automatically fix PHP Coding Standards issues
 - [Innmind/Immutable](https://github.com/Innmind/Immutable) ([4.6.0](https://github.com/Innmind/Immutable/releases/tag/4.6.0), 4 days ago) - Wrappers for PHP primitives allowing immutable structures
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.1](https://github.com/ecphp/cas-lib/releases/tag/2.0.1), 1 week ago) - CAS Lib, a standard library for CAS authentication.
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.5.0](https://github.com/ecphp/eu-login-bundle/releases/tag/2.5.0), 1 month ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([2.3.0](https://github.com/ecphp/ecas/releases/tag/2.3.0), 1 month ago) - CAS library to communicate with eCAS/EULogin
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.4](https://github.com/loophp/psr17/releases/tag/1.0.4), 1 month ago) - Provides a PSR17 synthetic implementation.
-- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.8](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.8), 1 month ago) - Monadic Doctrine repositories helper classes and services.
 
 I'm currently **available for remote work**, feel free to contact me.
 
