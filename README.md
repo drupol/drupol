@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([3.0.4](https://github.com/doctrine/persistence/releases/tag/3.0.4), today) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.13](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.13), 1 day ago) - Base PHP CS Fixer configurations.
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ([v3.12.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.12.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [Innmind/Immutable](https://github.com/Innmind/Immutable) ([4.6.0](https://github.com/Innmind/Immutable/releases/tag/4.6.0), 5 days ago) - Wrappers for PHP primitives allowing immutable structures
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/grumphp-license-task](https://github.com/loophp/grumphp-license-task) ([1.0.7](https://github.com/loophp/grumphp-license-task/releases/tag/1.0.7), 1 month ago) - Provide the license task for GrumPHP.
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.5.0](https://github.com/ecphp/eu-login-bundle/releases/tag/2.5.0), 1 month ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([2.3.0](https://github.com/ecphp/ecas/releases/tag/2.3.0), 1 month ago) - CAS library to communicate with eCAS/EULogin
-- [loophp/psr17](https://github.com/loophp/psr17) ([1.0.4](https://github.com/loophp/psr17/releases/tag/1.0.4), 1 month ago) - Provides a PSR17 synthetic implementation.
 
 I'm currently **available for remote work**, feel free to contact me.
 
