@@ -12,20 +12,20 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) - Session &#39;Composition and inheritance&#39; (today)
-- [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (today)
-- [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) - Let users customize the PHP configuration through a custom ini file. (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (today)
-- [ecphp/session--complexity-and-monads](https://github.com/ecphp/session--complexity-and-monads) - Session &#39;Complexity and monads&#39; (today)
-- [loophp/nix-phpstan](https://github.com/loophp/nix-phpstan) - A Nix flake for PHPStan (today)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (today)
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (today)
-- [loophp/typed-generators](https://github.com/loophp/typed-generators) - Generate random typed values and in any shape. (1 day ago)
+- [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (1 day ago)
+- [ecphp/php-directive-bundle](https://github.com/ecphp/php-directive-bundle) - Let users customize the PHP configuration through a custom ini file. (1 day ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (1 day ago)
+- [ecphp/session--complexity-and-monads](https://github.com/ecphp/session--complexity-and-monads) - Session &#39;Complexity and monads&#39; (1 day ago)
+- [loophp/nix-phpstan](https://github.com/loophp/nix-phpstan) - A Nix flake for PHPStan (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 day ago)
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (1 day ago)
+- [loophp/typed-generators](https://github.com/loophp/typed-generators) - Generate random typed values and in any shape. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v34-da39d42](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v34-da39d42), today) - Session &#39;Composition and inheritance&#39;
-- [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) ([v7-1fb0ec4](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix/releases/tag/v7-1fb0ec4), 5 days ago) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022
+- [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v34-da39d42](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v34-da39d42), 1 day ago) - Session &#39;Composition and inheritance&#39;
+- [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) ([v7-1fb0ec4](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix/releases/tag/v7-1fb0ec4), 6 days ago) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022
 - [drupol/cv](https://github.com/drupol/cv) ([v37-dbbc31c](https://github.com/drupol/cv/releases/tag/v37-dbbc31c), 2 weeks ago) - My public CV
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([3.0.4](https://github.com/doctrine/persistence/releases/tag/3.0.4), 2 weeks ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.13](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.13), 2 weeks ago) - Base PHP CS Fixer configurations.
