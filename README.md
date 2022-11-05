@@ -11,26 +11,26 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
-- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (today)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (2 days ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (4 days ago)
-- [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol. (4 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (4 days ago)
-- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (4 days ago)
-- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (4 days ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
+- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 day ago)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (3 days ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (5 days ago)
+- [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol. (5 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (5 days ago)
+- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (5 days ago)
+- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.13.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.0), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v36-bbd4912](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v36-bbd4912), 5 days ago) - Session &#39;Composition and inheritance&#39;
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.13.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.0), 5 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v36-bbd4912](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v36-bbd4912), 6 days ago) - Session &#39;Composition and inheritance&#39;
 - [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) ([v7-1fb0ec4](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix/releases/tag/v7-1fb0ec4), 1 week ago) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022
 - [drupol/cv](https://github.com/drupol/cv) ([v37-dbbc31c](https://github.com/drupol/cv/releases/tag/v37-dbbc31c), 3 weeks ago) - My public CV
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([3.0.4](https://github.com/doctrine/persistence/releases/tag/3.0.4), 3 weeks ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.13](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.13), 3 weeks ago) - Base PHP CS Fixer configurations.
-- [Innmind/Immutable](https://github.com/Innmind/Immutable) ([4.6.0](https://github.com/Innmind/Immutable/releases/tag/4.6.0), 3 weeks ago) - Wrappers for PHP primitives allowing immutable structures
+- [Innmind/Immutable](https://github.com/Innmind/Immutable) ([4.6.0](https://github.com/Innmind/Immutable/releases/tag/4.6.0), 4 weeks ago) - Wrappers for PHP primitives allowing immutable structures
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.1](https://github.com/ecphp/cas-lib/releases/tag/2.0.1), 1 month ago) - CAS Lib, a standard library for CAS authentication.
 - [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.3](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.3), 1 month ago) - Iterable assertions for PHPUnit
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.0.0](https://github.com/loophp/iterators/releases/tag/2.0.0), 1 month ago) - The missing PHP iterators.
