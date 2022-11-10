@@ -12,8 +12,8 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
 - [ecphp/session--complexity-and-monads](https://github.com/ecphp/session--complexity-and-monads) - Session &#39;Complexity and monads&#39; (today)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (1 day ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (2 days ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (3 days ago)
@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [loophp/iterators](https://github.com/loophp/iterators) ([2.0.1](https://github.com/loophp/iterators/releases/tag/2.0.1), today) - The missing PHP iterators.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.30.0](https://github.com/vimeo/psalm/releases/tag/4.30.0), 4 days ago) - A static analysis tool for finding errors in PHP applications
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.13.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.0), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v36-bbd4912](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v36-bbd4912), 1 week ago) - Session &#39;Composition and inheritance&#39;
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.13](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.13), 4 weeks ago) - Base PHP CS Fixer configurations.
 - [Innmind/Immutable](https://github.com/Innmind/Immutable) ([4.6.0](https://github.com/Innmind/Immutable/releases/tag/4.6.0), 1 month ago) - Wrappers for PHP primitives allowing immutable structures
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.1](https://github.com/ecphp/cas-lib/releases/tag/2.0.1), 1 month ago) - CAS Lib, a standard library for CAS authentication.
-- [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.3](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.3), 2 months ago) - Iterable assertions for PHPUnit
 
 I'm currently **available for remote work**, feel free to contact me.
 
