@@ -11,9 +11,9 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
 - [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (1 day ago)
 - [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (1 day ago)
 - [loophp/tin](https://github.com/loophp/tin) - Taxpayer Identification Number (TIN) Validator (1 day ago)
