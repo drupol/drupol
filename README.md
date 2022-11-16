@@ -11,6 +11,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
 - [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure (1 day ago)
 - [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (1 day ago)
@@ -18,9 +19,8 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/tin](https://github.com/loophp/tin) - Taxpayer Identification Number (TIN) Validator (1 day ago)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 day ago)
 - [loophp/phptree-ast-generator](https://github.com/loophp/phptree-ast-generator) - Generates Abstrax Syntax Tree (AST) of a PHP script in DOT (Graphviz) or Image (PNG, JPG, SVG) formats. (1 day ago)
-- [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (1 day ago)
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (1 day ago)
-- [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (1 day ago)
+- [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
