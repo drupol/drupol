@@ -19,7 +19,7 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (today)
 - [drupol/drupol.github.io](https://github.com/drupol/drupol.github.io) -  (today)
 - [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (today)
-- [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (today)
+- [loophp/tin](https://github.com/loophp/tin) - Taxpayer Identification Number (TIN) Validator (today)
 - [loophp/phposinfo](https://github.com/loophp/phposinfo) - Try to guess the host operating system. (today)
 
 #### 🔭 Latest releases I've contributed to
