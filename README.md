@@ -11,16 +11,16 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/drupol.github.io](https://github.com/drupol/drupol.github.io) -  (today)
+- [loophp/loophp.github.io](https://github.com/loophp/loophp.github.io) -  (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
 - [loophp/nix-prettier](https://github.com/loophp/nix-prettier) - A Nix flake to run Prettier in a project without worries. (today)
+- [loophp/phptree-ast-generator](https://github.com/loophp/phptree-ast-generator) - Generates Abstrax Syntax Tree (AST) of a PHP script in DOT (Graphviz) or Image (PNG, JPG, SVG) formats. (today)
 - [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (today)
-- [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (today)
-- [loophp/nix-phpstan](https://github.com/loophp/nix-phpstan) - A Nix flake for PHPStan (today)
-- [loophp/tin](https://github.com/loophp/tin) - Taxpayer Identification Number (TIN) Validator (today)
-- [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (today)
+- [drupol/drupol.github.io](https://github.com/drupol/drupol.github.io) -  (today)
 - [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (today)
+- [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP (today)
+- [loophp/phposinfo](https://github.com/loophp/phposinfo) - Try to guess the host operating system. (today)
 
 #### 🔭 Latest releases I've contributed to
 
