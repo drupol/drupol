@@ -20,7 +20,7 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/typed-generators](https://github.com/loophp/typed-generators) - Generate random typed values and in any shape. (today)
 - [loophp/loophp.github.io](https://github.com/loophp/loophp.github.io) -  (today)
 - [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (today)
-- [loophp/nix-phpstan](https://github.com/loophp/nix-phpstan) - A Nix flake for PHPStan (today)
+- [loophp/phposinfo](https://github.com/loophp/phposinfo) - Try to guess the host operating system. (today)
 
 #### 🔭 Latest releases I've contributed to
 
