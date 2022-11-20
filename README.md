@@ -11,15 +11,15 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
+- [loophp/loophp.github.io](https://github.com/loophp/loophp.github.io) -  (today)
+- [drupol/drupol.github.io](https://github.com/drupol/drupol.github.io) -  (today)
+- [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) - CNS Client - Corporate Notification Service Client (2 days ago)
 - [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022 (2 days ago)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (2 days ago)
-- [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) - CNS Client - Corporate Notification Service Client (2 days ago)
 - [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (3 days ago)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (4 days ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (4 days ago)
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (4 days ago)
-- [loophp/launcher](https://github.com/loophp/launcher) - Open a file or a resource with the default OS application. (5 days ago)
-- [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (5 days ago)
 - [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
