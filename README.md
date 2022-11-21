@@ -11,15 +11,15 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (today)
 - [drupol/drupol.github.io](https://github.com/drupol/drupol.github.io) -  (1 day ago)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
 - [loophp/nix-prettier](https://github.com/loophp/nix-prettier) - A Nix flake to run Prettier in a project without worries. (1 day ago)
 - [loophp/phptree-ast-generator](https://github.com/loophp/phptree-ast-generator) - Generates Abstrax Syntax Tree (AST) of a PHP script in DOT (Graphviz) or Image (PNG, JPG, SVG) formats. (1 day ago)
 - [loophp/unaltered-psr-http-message-bridge-bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle) - Provide a PSR HTTP message bridge without altering query parameters. (1 day ago)
 - [loophp/typed-generators](https://github.com/loophp/typed-generators) - Generate random typed values and in any shape. (1 day ago)
 - [loophp/loophp.github.io](https://github.com/loophp/loophp.github.io) -  (1 day ago)
-- [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (1 day ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
 - [loophp/phposinfo](https://github.com/loophp/phposinfo) - Try to guess the host operating system. (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
