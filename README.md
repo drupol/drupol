@@ -11,21 +11,21 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) - Auto register services aliases in the Symfony container. (today)
-- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (1 day ago)
-- [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022 (1 day ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (2 days ago)
-- [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) - CNS Client - Corporate Notification Service Client (2 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (2 days ago)
-- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (4 days ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (4 days ago)
-- [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (4 days ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) - Auto register services aliases in the Symfony container. (1 day ago)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (2 days ago)
+- [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022 (2 days ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (3 days ago)
+- [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) - CNS Client - Corporate Notification Service Client (3 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (3 days ago)
+- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (5 days ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (5 days ago)
+- [loophp/psr-http-message-bridge-bundle](https://github.com/loophp/psr-http-message-bridge-bundle) - Register symfony/psr-http-message-bridge classes in your Symfony application. (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) ([v17-a89f9b3](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix/releases/tag/v17-a89f9b3), 1 day ago) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.0.0-rc1](https://github.com/vimeo/psalm/releases/tag/5.0.0-rc1), 2 days ago) - A static analysis tool for finding errors in PHP applications
+- [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) ([v17-a89f9b3](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix/releases/tag/v17-a89f9b3), 2 days ago) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.0.0-rc1](https://github.com/vimeo/psalm/releases/tag/5.0.0-rc1), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([3.1.0](https://github.com/doctrine/persistence/releases/tag/3.1.0), 1 week ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.9](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.9), 1 week ago) - Monadic Doctrine repositories helper classes and services.
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.0.1](https://github.com/loophp/iterators/releases/tag/2.0.1), 2 weeks ago) - The missing PHP iterators.
