@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v9-96ffaf9](https://github.com/drupol/latex-letter/releases/tag/v9-96ffaf9), today) - 
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v11-05aea0f](https://github.com/drupol/latex-letter/releases/tag/v11-05aea0f), today) - 
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.0.0](https://github.com/vimeo/psalm/releases/tag/5.0.0), today) - A static analysis tool for finding errors in PHP applications
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.1.0](https://github.com/loophp/iterators/releases/tag/2.1.0), 2 days ago) - The missing PHP iterators.
 - [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) ([v18-ef1cb18](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix/releases/tag/v18-ef1cb18), 4 days ago) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022
