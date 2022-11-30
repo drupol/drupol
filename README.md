@@ -24,10 +24,10 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.0.0](https://github.com/vimeo/psalm/releases/tag/5.0.0), today) - A static analysis tool for finding errors in PHP applications
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v8-ec87452](https://github.com/drupol/latex-letter/releases/tag/v8-ec87452), today) - 
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.1.0](https://github.com/loophp/iterators/releases/tag/2.1.0), 2 days ago) - The missing PHP iterators.
 - [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) ([v18-ef1cb18](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix/releases/tag/v18-ef1cb18), 4 days ago) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.0.0-rc1](https://github.com/vimeo/psalm/releases/tag/5.0.0-rc1), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([3.1.0](https://github.com/doctrine/persistence/releases/tag/3.1.0), 1 week ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.9](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.9), 2 weeks ago) - Monadic Doctrine repositories helper classes and services.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.13.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.0), 1 month ago) - A tool to automatically fix PHP Coding Standards issues
