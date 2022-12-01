@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [cycle/orm](https://github.com/cycle/orm) ([v2.2.1](https://github.com/cycle/orm/releases/tag/v2.2.1), today) - PHP DataMapper, ORM
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v13-a0644e9](https://github.com/drupol/latex-letter/releases/tag/v13-a0644e9), today) - 
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.0.0](https://github.com/vimeo/psalm/releases/tag/5.0.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.1.0](https://github.com/loophp/iterators/releases/tag/2.1.0), 3 days ago) - The missing PHP iterators.
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.13.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.0), 1 month ago) - A tool to automatically fix PHP Coding Standards issues
 - [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v36-bbd4912](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v36-bbd4912), 1 month ago) - Session &#39;Composition and inheritance&#39;
 - [drupol/cv](https://github.com/drupol/cv) ([v37-dbbc31c](https://github.com/drupol/cv/releases/tag/v37-dbbc31c), 1 month ago) - My public CV
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.13](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.13), 1 month ago) - Base PHP CS Fixer configurations.
 
 I'm currently **available for remote work**, feel free to contact me.
 
