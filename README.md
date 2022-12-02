@@ -29,11 +29,11 @@ More about me on my blog: https://not-a-number.io/about/
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v13-a0644e9](https://github.com/drupol/latex-letter/releases/tag/v13-a0644e9), 1 day ago) - 
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.1.0](https://github.com/loophp/iterators/releases/tag/2.1.0), 4 days ago) - The missing PHP iterators.
 - [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) ([v18-ef1cb18](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix/releases/tag/v18-ef1cb18), 6 days ago) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022
-- [doctrine/persistence](https://github.com/doctrine/persistence) ([3.1.0](https://github.com/doctrine/persistence/releases/tag/3.1.0), 2 weeks ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.9](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.9), 2 weeks ago) - Monadic Doctrine repositories helper classes and services.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.13.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.0), 1 month ago) - A tool to automatically fix PHP Coding Standards issues
 - [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v36-bbd4912](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v36-bbd4912), 1 month ago) - Session &#39;Composition and inheritance&#39;
 - [drupol/cv](https://github.com/drupol/cv) ([v37-dbbc31c](https://github.com/drupol/cv/releases/tag/v37-dbbc31c), 1 month ago) - My public CV
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.13](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.13), 1 month ago) - Base PHP CS Fixer configurations.
 
 I'm currently **available for remote work**, feel free to contact me.
 
