@@ -11,23 +11,23 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/aoc2022](https://github.com/drupol/aoc2022) - Solutions of Advent Of Code 2022 (today)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (3 days ago)
-- [drupol/php-conventions](https://github.com/drupol/php-conventions) -  (4 days ago)
-- [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022 (4 days ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (5 days ago)
-- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (6 days ago)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (6 days ago)
+- [drupol/aoc2022](https://github.com/drupol/aoc2022) - Solutions of Advent Of Code 2022 (1 day ago)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (2 days ago)
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (4 days ago)
+- [drupol/php-conventions](https://github.com/drupol/php-conventions) -  (5 days ago)
+- [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022 (5 days ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (6 days ago)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (1 week ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.1.0](https://github.com/vimeo/psalm/releases/tag/5.1.0), 2 days ago) - A static analysis tool for finding errors in PHP applications
-- [cycle/orm](https://github.com/cycle/orm) ([v2.2.1](https://github.com/cycle/orm/releases/tag/v2.2.1), 3 days ago) - PHP DataMapper, ORM
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v13-a0644e9](https://github.com/drupol/latex-letter/releases/tag/v13-a0644e9), 3 days ago) - 
-- [loophp/iterators](https://github.com/loophp/iterators) ([2.1.0](https://github.com/loophp/iterators/releases/tag/2.1.0), 6 days ago) - The missing PHP iterators.
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.1.0](https://github.com/vimeo/psalm/releases/tag/5.1.0), 3 days ago) - A static analysis tool for finding errors in PHP applications
+- [cycle/orm](https://github.com/cycle/orm) ([v2.2.1](https://github.com/cycle/orm/releases/tag/v2.2.1), 4 days ago) - PHP DataMapper, ORM
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v13-a0644e9](https://github.com/drupol/latex-letter/releases/tag/v13-a0644e9), 4 days ago) - 
+- [loophp/iterators](https://github.com/loophp/iterators) ([2.1.0](https://github.com/loophp/iterators/releases/tag/2.1.0), 1 week ago) - The missing PHP iterators.
 - [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) ([v18-ef1cb18](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix/releases/tag/v18-ef1cb18), 1 week ago) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.9](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.9), 2 weeks ago) - Monadic Doctrine repositories helper classes and services.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.13.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.0), 1 month ago) - A tool to automatically fix PHP Coding Standards issues
