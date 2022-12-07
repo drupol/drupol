@@ -11,23 +11,23 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (today)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (today)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
 - [drupol/aoc2022](https://github.com/drupol/aoc2022) - Solutions of Advent Of Code 2022 (today)
+- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (today)
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (today)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (2 days ago)
-- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (2 days ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (3 days ago)
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (6 days ago)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v14-be8767d](https://github.com/drupol/latex-letter/releases/tag/v14-be8767d), today) - 
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.5.3](https://github.com/ecphp/cas-bundle/releases/tag/2.5.3), today) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.1.0](https://github.com/vimeo/psalm/releases/tag/5.1.0), 5 days ago) - A static analysis tool for finding errors in PHP applications
 - [cycle/orm](https://github.com/cycle/orm) ([v2.2.1](https://github.com/cycle/orm/releases/tag/v2.2.1), 6 days ago) - PHP DataMapper, ORM
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v13-a0644e9](https://github.com/drupol/latex-letter/releases/tag/v13-a0644e9), 6 days ago) - 
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.1.0](https://github.com/loophp/iterators/releases/tag/2.1.0), 1 week ago) - The missing PHP iterators.
 - [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) ([v18-ef1cb18](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix/releases/tag/v18-ef1cb18), 1 week ago) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.9](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.9), 3 weeks ago) - Monadic Doctrine repositories helper classes and services.
