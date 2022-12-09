@@ -11,7 +11,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/aoc2022](https://github.com/drupol/aoc2022) - Solutions of Advent Of Code 2022 (1 day ago)
+- [drupol/aoc2022](https://github.com/drupol/aoc2022) - Solutions of Advent Of Code 2022 (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (2 days ago)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (2 days ago)
