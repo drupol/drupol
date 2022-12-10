@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2022.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.3), today) - PHP runtime &amp; extensions header files for PhpStorm
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v14-be8767d](https://github.com/drupol/latex-letter/releases/tag/v14-be8767d), 3 days ago) - 
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.5.3](https://github.com/ecphp/cas-bundle/releases/tag/2.5.3), 3 days ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.1.0](https://github.com/vimeo/psalm/releases/tag/5.1.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.0.9](https://github.com/loophp/repository-monadic-helper/releases/tag/1.0.9), 3 weeks ago) - Monadic Doctrine repositories helper classes and services.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.13.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.0), 1 month ago) - A tool to automatically fix PHP Coding Standards issues
 - [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v36-bbd4912](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v36-bbd4912), 1 month ago) - Session &#39;Composition and inheritance&#39;
-- [drupol/cv](https://github.com/drupol/cv) ([v37-dbbc31c](https://github.com/drupol/cv/releases/tag/v37-dbbc31c), 1 month ago) - My public CV
 
 I'm currently **available for remote work**, feel free to contact me.
 
