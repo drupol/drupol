@@ -11,21 +11,21 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
 - [drupol/aoc2022](https://github.com/drupol/aoc2022) - Solutions of Advent Of Code 2022 (1 day ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (3 days ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (4 days ago)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (4 days ago)
-- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (4 days ago)
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (4 days ago)
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (4 days ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (6 days ago)
+- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (4 days ago)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (4 days ago)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (6 days ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v15-29cb77e](https://github.com/drupol/latex-letter/releases/tag/v15-29cb77e), today) - 
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2022.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.3), 1 day ago) - PHP runtime &amp; extensions header files for PhpStorm
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v14-be8767d](https://github.com/drupol/latex-letter/releases/tag/v14-be8767d), 4 days ago) - 
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.5.3](https://github.com/ecphp/cas-bundle/releases/tag/2.5.3), 4 days ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.1.0](https://github.com/vimeo/psalm/releases/tag/5.1.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [cycle/orm](https://github.com/cycle/orm) ([v2.2.1](https://github.com/cycle/orm/releases/tag/v2.2.1), 1 week ago) - PHP DataMapper, ORM
