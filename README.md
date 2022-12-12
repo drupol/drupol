@@ -11,11 +11,11 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (today)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (today)
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (1 day ago)
-- [drupol/aoc2022](https://github.com/drupol/aoc2022) - Solutions of Advent Of Code 2022 (2 days ago)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (2 days ago)
+- [drupol/aoc2022](https://github.com/drupol/aoc2022) - Solutions of Advent Of Code 2022 (2 days ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (4 days ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (5 days ago)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (5 days ago)
@@ -24,10 +24,10 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v15-29cb77e](https://github.com/drupol/latex-letter/releases/tag/v15-29cb77e), 1 day ago) - 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.2.0](https://github.com/vimeo/psalm/releases/tag/5.2.0), today) - A static analysis tool for finding errors in PHP applications
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v16-483da0c](https://github.com/drupol/latex-letter/releases/tag/v16-483da0c), today) - 
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2022.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.3), 2 days ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.5.3](https://github.com/ecphp/cas-bundle/releases/tag/2.5.3), 5 days ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.1.0](https://github.com/vimeo/psalm/releases/tag/5.1.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [cycle/orm](https://github.com/cycle/orm) ([v2.2.1](https://github.com/cycle/orm/releases/tag/v2.2.1), 1 week ago) - PHP DataMapper, ORM
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.1.0](https://github.com/loophp/iterators/releases/tag/2.1.0), 2 weeks ago) - The missing PHP iterators.
 - [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) ([v18-ef1cb18](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix/releases/tag/v18-ef1cb18), 2 weeks ago) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022
