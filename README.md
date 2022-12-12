@@ -12,15 +12,15 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [ecphp/session--authentication-at-ec](https://github.com/ecphp/session--authentication-at-ec) - Mirror repository - Session &#39;Authentication at European Commission&#39; (today)
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (today)
 - [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022 (today)
 - [ecphp/sessions](https://github.com/ecphp/sessions) - This repository contains links to presentations given at the European Commission by the ECPHP team. (today)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (today)
+- [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure (today)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (today)
+- [ecphp/session--authentication-at-ec](https://github.com/ecphp/session--authentication-at-ec) - Mirror repository - Session &#39;Authentication at European Commission&#39; (today)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 day ago)
 - [drupol/aoc2022](https://github.com/drupol/aoc2022) - Solutions of Advent Of Code 2022 (2 days ago)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
