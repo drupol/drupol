@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v18-4ba2aed](https://github.com/drupol/latex-letter/releases/tag/v18-4ba2aed), today) - 
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v21-b3cfc41](https://github.com/drupol/latex-letter/releases/tag/v21-b3cfc41), today) - 
 - [loophp/collection](https://github.com/loophp/collection) ([7.0.0](https://github.com/loophp/collection/releases/tag/7.0.0), 1 day ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [ecphp/session--authentication-at-ec](https://github.com/ecphp/session--authentication-at-ec) ([v4-b426db0](https://github.com/ecphp/session--authentication-at-ec/releases/tag/v4-b426db0), 1 day ago) - Mirror repository - Session &#39;Authentication at European Commission&#39;
 - [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) ([v21-4e1ad4d](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix/releases/tag/v21-4e1ad4d), 1 day ago) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022
