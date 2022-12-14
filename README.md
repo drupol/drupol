@@ -14,7 +14,7 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/sessions](https://github.com/ecphp/sessions) - This repository contains links to presentations given at the European Commission by the ECPHP team. (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [ecphp/session--authentication-at-ec](https://github.com/ecphp/session--authentication-at-ec) - Mirror repository - Session &#39;Authentication at European Commission&#39; (today)
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (1 day ago)
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (today)
 - [loophp/nix-sphinx](https://github.com/loophp/nix-sphinx) - A Nix flake to generate a project&#39;s documentation using Sphinx, without worries. (1 day ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
 - [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022 (2 days ago)
