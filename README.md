@@ -24,8 +24,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v23-eca50b7](https://github.com/drupol/latex-letter/releases/tag/v23-eca50b7), today) - 
 - [ecphp/session--authentication-at-ec](https://github.com/ecphp/session--authentication-at-ec) ([v6-c3f6069](https://github.com/ecphp/session--authentication-at-ec/releases/tag/v6-c3f6069), today) - Mirror repository - Session &#39;Authentication at European Commission&#39;
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v21-b3cfc41](https://github.com/drupol/latex-letter/releases/tag/v21-b3cfc41), 1 day ago) - 
 - [loophp/collection](https://github.com/loophp/collection) ([7.0.0](https://github.com/loophp/collection/releases/tag/7.0.0), 2 days ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) ([v21-4e1ad4d](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix/releases/tag/v21-4e1ad4d), 2 days ago) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.2.0](https://github.com/vimeo/psalm/releases/tag/5.2.0), 2 days ago) - A static analysis tool for finding errors in PHP applications
