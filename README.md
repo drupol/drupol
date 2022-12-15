@@ -24,7 +24,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.5.1](https://github.com/ecphp/eu-login-bundle/releases/tag/2.5.1), today) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
+- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.5.2](https://github.com/ecphp/eu-login-bundle/releases/tag/2.5.2), today) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
+- [ecphp/ecas](https://github.com/ecphp/ecas) ([2.4.0](https://github.com/ecphp/ecas/releases/tag/2.4.0), today) - CAS library to communicate with eCAS/EULogin
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.5.4](https://github.com/ecphp/cas-bundle/releases/tag/2.5.4), today) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v23-eca50b7](https://github.com/drupol/latex-letter/releases/tag/v23-eca50b7), 1 day ago) - 
 - [ecphp/session--authentication-at-ec](https://github.com/ecphp/session--authentication-at-ec) ([v6-c3f6069](https://github.com/ecphp/session--authentication-at-ec/releases/tag/v6-c3f6069), 1 day ago) - Mirror repository - Session &#39;Authentication at European Commission&#39;
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.2.0](https://github.com/vimeo/psalm/releases/tag/5.2.0), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2022.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.3), 5 days ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [cycle/orm](https://github.com/cycle/orm) ([v2.2.1](https://github.com/cycle/orm/releases/tag/v2.2.1), 2 weeks ago) - PHP DataMapper, ORM
-- [loophp/iterators](https://github.com/loophp/iterators) ([2.1.0](https://github.com/loophp/iterators/releases/tag/2.1.0), 2 weeks ago) - The missing PHP iterators.
 
 I'm currently **available for remote work**, feel free to contact me.
 
