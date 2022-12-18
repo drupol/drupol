@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.3.0](https://github.com/vimeo/psalm/releases/tag/5.3.0), today) - A static analysis tool for finding errors in PHP applications
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.13.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.1), today) - A tool to automatically fix PHP Coding Standards issues
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.5.2](https://github.com/ecphp/eu-login-bundle/releases/tag/2.5.2), 3 days ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([2.4.0](https://github.com/ecphp/ecas/releases/tag/2.4.0), 3 days ago) - CAS library to communicate with eCAS/EULogin
@@ -32,7 +33,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/session--authentication-at-ec](https://github.com/ecphp/session--authentication-at-ec) ([v6-c3f6069](https://github.com/ecphp/session--authentication-at-ec/releases/tag/v6-c3f6069), 4 days ago) - Mirror repository - Session &#39;Authentication at European Commission&#39;
 - [loophp/collection](https://github.com/loophp/collection) ([7.0.0](https://github.com/loophp/collection/releases/tag/7.0.0), 6 days ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [ecphp/session--nix-at-european-commission--summer-of-nix](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix) ([v21-4e1ad4d](https://github.com/ecphp/session--nix-at-european-commission--summer-of-nix/releases/tag/v21-4e1ad4d), 6 days ago) - Mirror repository - Session &#39;State of Nix at European Commission&#39; for the Summer of Nix 2022
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.2.0](https://github.com/vimeo/psalm/releases/tag/5.2.0), 6 days ago) - A static analysis tool for finding errors in PHP applications
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2022.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.3), 1 week ago) - PHP runtime &amp; extensions header files for PhpStorm
 
 I'm currently **available for remote work**, feel free to contact me.
