@@ -14,13 +14,13 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/typed-generators](https://github.com/loophp/typed-generators) - Generate random typed values and in any shape. (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
+- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (3 days ago)
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (3 days ago)
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (3 days ago)
-- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (3 days ago)
-- [ecphp/sessions](https://github.com/ecphp/sessions) - This repository contains links to presentations given at the European Commission by the ECPHP team. (4 days ago)
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (4 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (4 days ago)
 - [ecphp/session--authentication-at-ec](https://github.com/ecphp/session--authentication-at-ec) - Mirror repository - Session &#39;Authentication at European Commission&#39; (4 days ago)
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (4 days ago)
+- [ecphp/sessions](https://github.com/ecphp/sessions) - This repository contains links to presentations given at the European Commission by the ECPHP team. (4 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
