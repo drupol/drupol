@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.3.0](https://github.com/vimeo/psalm/releases/tag/5.3.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.4.0](https://github.com/vimeo/psalm/releases/tag/5.4.0), today) - A static analysis tool for finding errors in PHP applications
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.13.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.1), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.5.2](https://github.com/ecphp/eu-login-bundle/releases/tag/2.5.2), 4 days ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([2.4.0](https://github.com/ecphp/ecas/releases/tag/2.4.0), 4 days ago) - CAS library to communicate with eCAS/EULogin
