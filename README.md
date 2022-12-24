@@ -11,8 +11,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
 - [benedictdudel/pandoc-letter-din5008](https://github.com/benedictdudel/pandoc-letter-din5008) - Pandoc template for writing Markdown letters (DIN 5008) (1 day ago)
 - [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure (3 days ago)
 - [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests. (3 days ago)
