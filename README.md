@@ -13,12 +13,12 @@ More about me on my blog: https://not-a-number.io/about/
 
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (today)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 day ago)
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust. (1 day ago)
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (1 day ago)
 - [benedictdudel/pandoc-letter-din5008](https://github.com/benedictdudel/pandoc-letter-din5008) - Pandoc template for writing Markdown letters (DIN 5008) (2 days ago)
 - [loophp/nanobench](https://github.com/loophp/nanobench) - A simple and lightweight benchmarking tool for PHP. (4 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (4 days ago)
 - [loophp/fpt](https://github.com/loophp/fpt) - Functional programming toolbox for PHP. (4 days ago)
 - [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) - Session &#39;Composition and inheritance&#39; (4 days ago)
 
