@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [bdhave/vault4summon](https://github.com/bdhave/vault4summon) ([v0.9.2](https://github.com/bdhave/vault4summon/releases/tag/v0.9.2), today) - this project implement a CyberArk Summon provider using Hashicorp Vault as secrets provider
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v31-1adda2f](https://github.com/drupol/latex-letter/releases/tag/v31-1adda2f), 2 days ago) - 
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.1](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.1), 2 days ago) - Digitally sign PDF files from your commandline
 - [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v40-5bf2618](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v40-5bf2618), 5 days ago) - Session &#39;Composition and inheritance&#39;
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.5.2](https://github.com/ecphp/eu-login-bundle/releases/tag/2.5.2), 1 week ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([2.4.0](https://github.com/ecphp/ecas/releases/tag/2.4.0), 1 week ago) - CAS library to communicate with eCAS/EULogin
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.5.4](https://github.com/ecphp/cas-bundle/releases/tag/2.5.4), 1 week ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
-- [ecphp/session--authentication-at-ec](https://github.com/ecphp/session--authentication-at-ec) ([v6-c3f6069](https://github.com/ecphp/session--authentication-at-ec/releases/tag/v6-c3f6069), 1 week ago) - Mirror repository - Session &#39;Authentication at European Commission&#39;
 
 I'm currently **available for remote work**, feel free to contact me.
 
