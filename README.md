@@ -11,13 +11,13 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (today)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 day ago)
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust. (2 days ago)
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (2 days ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (2 days ago)
 - [benedictdudel/pandoc-letter-din5008](https://github.com/benedictdudel/pandoc-letter-din5008) - Pandoc template for writing Markdown letters (DIN 5008) (3 days ago)
 - [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure (5 days ago)
 - [loophp/fpt](https://github.com/loophp/fpt) - Functional programming toolbox for PHP. (5 days ago)
