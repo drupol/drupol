@@ -11,19 +11,20 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (today)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 day ago)
-- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (2 days ago)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (2 days ago)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (2 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (3 days ago)
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust. (4 days ago)
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.14](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.14), today) - Base PHP CS Fixer configurations.
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.3.1](https://github.com/loophp/iterators/releases/tag/2.3.1), today) - The missing PHP iterators.
 - [bdhave/vault4summon](https://github.com/bdhave/vault4summon) ([v0.9.2](https://github.com/bdhave/vault4summon/releases/tag/v0.9.2), 2 days ago) - this project implement a CyberArk Summon provider using Hashicorp Vault as secrets provider
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v31-1adda2f](https://github.com/drupol/latex-letter/releases/tag/v31-1adda2f), 4 days ago) - 
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.4.0](https://github.com/vimeo/psalm/releases/tag/5.4.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.13.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.1), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.5.2](https://github.com/ecphp/eu-login-bundle/releases/tag/2.5.2), 1 week ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
-- [ecphp/ecas](https://github.com/ecphp/ecas) ([2.4.0](https://github.com/ecphp/ecas/releases/tag/2.4.0), 1 week ago) - CAS library to communicate with eCAS/EULogin
 
 I'm currently **available for remote work**, feel free to contact me.
 
