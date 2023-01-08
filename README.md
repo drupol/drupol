@@ -11,8 +11,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (2 days ago)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (6 days ago)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (6 days ago)
@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.13.0](https://github.com/Mic92/nix-update/releases/tag/0.13.0), today) - Swiss-knife for updating nix packages.
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v32-a19cf00](https://github.com/drupol/latex-letter/releases/tag/v32-a19cf00), 2 days ago) - 
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) ([v0.1.0](https://github.com/php-rust-tools/parser/releases/tag/v0.1.0), 2 days ago) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.13.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.2), 6 days ago) - A tool to automatically fix PHP Coding Standards issues
@@ -31,7 +32,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.3.2](https://github.com/loophp/iterators/releases/tag/2.3.2), 1 week ago) - The missing PHP iterators.
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.14](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.14), 1 week ago) - Base PHP CS Fixer configurations.
 - [bdhave/vault4summon](https://github.com/bdhave/vault4summon) ([v0.9.2](https://github.com/bdhave/vault4summon/releases/tag/v0.9.2), 1 week ago) - this project implement a CyberArk Summon provider using Hashicorp Vault as secrets provider
-- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.12.0](https://github.com/Mic92/nix-update/releases/tag/0.12.0), 2 weeks ago) - Swiss-knife for updating nix packages.
 - [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v40-5bf2618](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v40-5bf2618), 2 weeks ago) - Session &#39;Composition and inheritance&#39;
 - [loophp/phposinfo](https://github.com/loophp/phposinfo) ([1.8.0](https://github.com/loophp/phposinfo/releases/tag/1.8.0), 2 weeks ago) - Try to guess the host operating system.
 
