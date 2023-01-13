@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v33-821cf60](https://github.com/drupol/latex-letter/releases/tag/v33-821cf60), today) - 
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v35-3771ca1](https://github.com/drupol/latex-letter/releases/tag/v35-3771ca1), today) - 
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.15](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.15), 2 days ago) - Base PHP CS Fixer configurations.
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.13.0](https://github.com/Mic92/nix-update/releases/tag/0.13.0), 5 days ago) - Swiss-knife for updating nix packages.
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) ([v0.1.0](https://github.com/php-rust-tools/parser/releases/tag/v0.1.0), 1 week ago) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
