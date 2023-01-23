@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.5.0](https://github.com/vimeo/psalm/releases/tag/5.5.0), today) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.6.0](https://github.com/vimeo/psalm/releases/tag/5.6.0), today) - A static analysis tool for finding errors in PHP applications
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.3](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.3), 5 days ago) - Digitally sign PDF files from your commandline
 - [loophp/grumphp-license-task](https://github.com/loophp/grumphp-license-task) ([1.0.8](https://github.com/loophp/grumphp-license-task/releases/tag/1.0.8), 1 week ago) - Provide the license task for GrumPHP.
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.3.3](https://github.com/loophp/iterators/releases/tag/2.3.3), 1 week ago) - The missing PHP iterators.
