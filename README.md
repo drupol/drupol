@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.2), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.3), today) - A tool to automatically fix PHP Coding Standards issues
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.15.0](https://github.com/Mic92/nix-update/releases/tag/0.15.0), 2 days ago) - Swiss-knife for updating nix packages.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.6.0](https://github.com/vimeo/psalm/releases/tag/5.6.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.3](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.3), 1 week ago) - Digitally sign PDF files from your commandline
