@@ -11,22 +11,22 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (today)
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (today)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 day ago)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
-- [netz98/n98-magerun](https://github.com/netz98/n98-magerun) - The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work time. All commands are extendable by a module API. (6 days ago)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (1 day ago)
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (1 day ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 day ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (2 days ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
+- [netz98/n98-magerun](https://github.com/netz98/n98-magerun) - The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work time. All commands are extendable by a module API. (1 week ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 week ago)
 - [Xe/xn--ts9h](https://github.com/Xe/xn--ts9h) - 🥺 is sudo at home (1 week ago)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.3](https://github.com/ecphp/cas-lib/releases/tag/2.0.3), today) - CAS Lib, a standard library for CAS authentication.
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.3), today) - A tool to automatically fix PHP Coding Standards issues
-- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.15.0](https://github.com/Mic92/nix-update/releases/tag/0.15.0), 2 days ago) - Swiss-knife for updating nix packages.
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.3](https://github.com/ecphp/cas-lib/releases/tag/2.0.3), 1 day ago) - CAS Lib, a standard library for CAS authentication.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.3), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.15.0](https://github.com/Mic92/nix-update/releases/tag/0.15.0), 3 days ago) - Swiss-knife for updating nix packages.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.6.0](https://github.com/vimeo/psalm/releases/tag/5.6.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.3](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.3), 1 week ago) - Digitally sign PDF files from your commandline
 - [loophp/grumphp-license-task](https://github.com/loophp/grumphp-license-task) ([1.0.8](https://github.com/loophp/grumphp-license-task/releases/tag/1.0.8), 2 weeks ago) - Provide the license task for GrumPHP.
