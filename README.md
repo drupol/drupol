@@ -11,16 +11,16 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [ecphp/laravel-cas](https://github.com/ecphp/laravel-cas) - A bundle for Laravel, providing authentication against a Central Authentication Service (CAS) server. (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (2 days ago)
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (2 days ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (2 days ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (3 days ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (3 days ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (3 days ago)
 - [netz98/n98-magerun](https://github.com/netz98/n98-magerun) - The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work time. All commands are extendable by a module API. (1 week ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 week ago)
 - [Xe/xn--ts9h](https://github.com/Xe/xn--ts9h) - 🥺 is sudo at home (1 week ago)
-- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
