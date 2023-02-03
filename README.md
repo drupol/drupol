@@ -12,7 +12,7 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (1 day ago)
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (today)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 day ago)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski&#39;s &#39;Category Theory for Programmers&#39; unofficial PDF and LaTeX source (1 day ago)
@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.3](https://github.com/ecphp/cas-lib/releases/tag/2.0.3), 4 days ago) - CAS Lib, a standard library for CAS authentication.
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.2.0](https://github.com/ecphp/cas-lib/releases/tag/1.2.0), today) - CAS Lib, a standard library for CAS authentication.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.3), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.15.0](https://github.com/Mic92/nix-update/releases/tag/0.15.0), 6 days ago) - Swiss-knife for updating nix packages.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.6.0](https://github.com/vimeo/psalm/releases/tag/5.6.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
