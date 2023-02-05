@@ -19,8 +19,8 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/laravel-cas](https://github.com/ecphp/laravel-cas) - A bundle for Laravel, providing authentication against a Central Authentication Service (CAS) server. (4 days ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (6 days ago)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (6 days ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 week ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 week ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
