@@ -12,18 +12,19 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [loophp/combinator](https://github.com/loophp/combinator) - A curated list of combinators (1 day ago)
+- [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (today)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 day ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 day ago)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (1 day ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 day ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 day ago)
+- [loophp/combinator](https://github.com/loophp/combinator) - A curated list of combinators (1 day ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (2 days ago)
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (4 days ago)
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski&#39;s &#39;Category Theory for Programmers&#39; unofficial PDF and LaTeX source (4 days ago)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (5 days ago)
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [ecphp/ecas](https://github.com/ecphp/ecas) ([3.0.1](https://github.com/ecphp/ecas/releases/tag/3.0.1), today) - CAS library to communicate with eCAS/EULogin
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.2.0](https://github.com/ecphp/cas-lib/releases/tag/1.2.0), 4 days ago) - CAS Lib, a standard library for CAS authentication.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.3), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.15.0](https://github.com/Mic92/nix-update/releases/tag/0.15.0), 1 week ago) - Swiss-knife for updating nix packages.
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.3.3](https://github.com/loophp/iterators/releases/tag/2.3.3), 3 weeks ago) - The missing PHP iterators.
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v35-3771ca1](https://github.com/drupol/latex-letter/releases/tag/v35-3771ca1), 3 weeks ago) - 
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.15](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.15), 3 weeks ago) - Base PHP CS Fixer configurations.
-- [php-rust-tools/parser](https://github.com/php-rust-tools/parser) ([v0.1.0](https://github.com/php-rust-tools/parser/releases/tag/v0.1.0), 1 month ago) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
 
 I'm currently **available for remote work**, feel free to contact me.
 
