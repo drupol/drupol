@@ -24,6 +24,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.4.2](https://github.com/ecphp/cas-bundle/releases/tag/2.4.2), today) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
+- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.4.1](https://github.com/ecphp/eu-login-bundle/releases/tag/2.4.1), today) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [cycle/orm](https://github.com/cycle/orm) ([v2.2.2](https://github.com/cycle/orm/releases/tag/v2.2.2), today) - PHP DataMapper, ORM
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([3.0.1](https://github.com/ecphp/ecas/releases/tag/3.0.1), 1 day ago) - CAS library to communicate with eCAS/EULogin
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([1.2.0](https://github.com/ecphp/cas-lib/releases/tag/1.2.0), 5 days ago) - CAS Lib, a standard library for CAS authentication.
@@ -32,8 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.6.0](https://github.com/vimeo/psalm/releases/tag/5.6.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.3](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.3), 3 weeks ago) - Digitally sign PDF files from your commandline
 - [loophp/grumphp-license-task](https://github.com/loophp/grumphp-license-task) ([1.0.8](https://github.com/loophp/grumphp-license-task/releases/tag/1.0.8), 3 weeks ago) - Provide the license task for GrumPHP.
-- [loophp/iterators](https://github.com/loophp/iterators) ([2.3.3](https://github.com/loophp/iterators/releases/tag/2.3.3), 3 weeks ago) - The missing PHP iterators.
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v35-3771ca1](https://github.com/drupol/latex-letter/releases/tag/v35-3771ca1), 3 weeks ago) - 
 
 I'm currently **available for remote work**, feel free to contact me.
 
