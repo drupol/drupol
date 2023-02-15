@@ -24,8 +24,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [loophp/collection](https://github.com/loophp/collection) ([7.1.1](https://github.com/loophp/collection/releases/tag/7.1.1), today) - A (memory) friendly, easy, lazy and modular collection class.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4), 6 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [loophp/collection](https://github.com/loophp/collection) ([7.1.0](https://github.com/loophp/collection/releases/tag/7.1.0), 6 days ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.4.2](https://github.com/ecphp/cas-bundle/releases/tag/2.4.2), 1 week ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.4.1](https://github.com/ecphp/eu-login-bundle/releases/tag/2.4.1), 1 week ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [cycle/orm](https://github.com/cycle/orm) ([v2.2.2](https://github.com/cycle/orm/releases/tag/v2.2.2), 1 week ago) - PHP DataMapper, ORM
