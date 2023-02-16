@@ -12,8 +12,8 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [drupol/phingbehattask](https://github.com/drupol/phingbehattask) -  (today)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
 - [openeuropa/epoetry-client](https://github.com/openeuropa/epoetry-client) - PHP client for the ePoetry service. (today)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (2 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (2 days ago)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (3 days ago)
@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [loophp/collection](https://github.com/loophp/collection) ([7.1.1](https://github.com/loophp/collection/releases/tag/7.1.1), 1 day ago) - A (memory) friendly, easy, lazy and modular collection class.
+- [loophp/collection](https://github.com/loophp/collection) ([v7-4e60bd1](https://github.com/loophp/collection/releases/tag/v7-4e60bd1), today) - A (memory) friendly, easy, lazy and modular collection class.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.4.2](https://github.com/ecphp/cas-bundle/releases/tag/2.4.2), 1 week ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.4.1](https://github.com/ecphp/eu-login-bundle/releases/tag/2.4.1), 1 week ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
