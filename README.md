@@ -11,9 +11,9 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [drupol/phingbehattask](https://github.com/drupol/phingbehattask) -  (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
 - [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (1 day ago)
 - [openeuropa/epoetry-client](https://github.com/openeuropa/epoetry-client) - PHP client for the ePoetry service. (1 day ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
