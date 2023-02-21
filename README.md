@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.7.3](https://github.com/vimeo/psalm/releases/tag/5.7.3), 1 day ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.7.4](https://github.com/vimeo/psalm/releases/tag/5.7.4), today) - A static analysis tool for finding errors in PHP applications
 - [loophp/collection](https://github.com/loophp/collection) ([v7-4e60bd1](https://github.com/loophp/collection/releases/tag/v7-4e60bd1), 5 days ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.4.2](https://github.com/ecphp/cas-bundle/releases/tag/2.4.2), 1 week ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
