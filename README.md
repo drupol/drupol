@@ -14,13 +14,13 @@ More about me on my blog: https://not-a-number.io/about/
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - An opinionated guide for developers wanting to get things done with the Nix ecosystem. (1 day ago)
 - [ecphp/laravel-ecas](https://github.com/ecphp/laravel-ecas) - A bundle for Laravel, providing authentication against eCas, the Central Authentication Service server of European Commission. (3 days ago)
-- [ecphp/laravel-cas](https://github.com/ecphp/laravel-cas) - A bundle for Laravel, providing authentication against a Central Authentication Service (CAS) server. (3 days ago)
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (3 days ago)
+- [ecphp/laravel-cas](https://github.com/ecphp/laravel-cas) - A bundle for Laravel, providing authentication against a Central Authentication Service (CAS) server. (3 days ago)
 - [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol. (5 days ago)
-- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (6 days ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (6 days ago)
-- [drupol/phingbehattask](https://github.com/drupol/phingbehattask) -  (1 week ago)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (6 days ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 week ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
