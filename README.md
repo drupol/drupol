@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.15.1](https://github.com/Mic92/nix-update/releases/tag/0.15.1), today) - Swiss-knife for updating nix packages.
 - [drupol/cv](https://github.com/drupol/cv) ([v41-3ce68e9](https://github.com/drupol/cv/releases/tag/v41-3ce68e9), today) - My public CV
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.5.5](https://github.com/ecphp/cas-bundle/releases/tag/2.5.5), 3 days ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.7.7](https://github.com/vimeo/psalm/releases/tag/5.7.7), 1 week ago) - A static analysis tool for finding errors in PHP applications
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.4.1](https://github.com/ecphp/eu-login-bundle/releases/tag/2.4.1), 3 weeks ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [cycle/orm](https://github.com/cycle/orm) ([v2.2.2](https://github.com/cycle/orm/releases/tag/v2.2.2), 3 weeks ago) - PHP DataMapper, ORM
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([3.0.1](https://github.com/ecphp/ecas/releases/tag/3.0.1), 3 weeks ago) - CAS library to communicate with eCAS/EULogin
-- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.15.0](https://github.com/Mic92/nix-update/releases/tag/0.15.0), 1 month ago) - Swiss-knife for updating nix packages.
 
 I'm currently **available for remote work**, feel free to contact me.
 
