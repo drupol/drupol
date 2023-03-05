@@ -11,6 +11,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [loophp/combinator](https://github.com/loophp/combinator) - A curated list of combinators (1 day ago)
 - [drupol/cv](https://github.com/drupol/cv) - My public CV (1 day ago)
@@ -18,8 +19,7 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/laravel-cas](https://github.com/ecphp/laravel-cas) - A bundle for Laravel, providing authentication against a Central Authentication Service (CAS) server. (2 days ago)
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (3 days ago)
 - [drupol/primes-bench](https://github.com/drupol/primes-bench) - A playground for benchmarking Prime numbers iterators. (3 days ago)
-- [ecphp/laravel-ecas](https://github.com/ecphp/laravel-ecas) - A bundle for Laravel, providing authentication against eCas, the Central Authentication Service server of European Commission. (4 days ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (4 days ago)
+- [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (4 days ago)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
