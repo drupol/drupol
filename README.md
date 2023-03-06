@@ -11,24 +11,24 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (today)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [loophp/combinator](https://github.com/loophp/combinator) - A curated list of combinators (1 day ago)
-- [drupol/cv](https://github.com/drupol/cv) - My public CV (1 day ago)
-- [ecphp/laravel-cas](https://github.com/ecphp/laravel-cas) - A bundle for Laravel, providing authentication against a Central Authentication Service (CAS) server. (2 days ago)
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (2 days ago)
-- [drupol/primes-bench](https://github.com/drupol/primes-bench) - A playground for benchmarking Prime numbers iterators. (3 days ago)
-- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (3 days ago)
-- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (4 days ago)
+- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 day ago)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [loophp/combinator](https://github.com/loophp/combinator) - A curated list of combinators (2 days ago)
+- [drupol/cv](https://github.com/drupol/cv) - My public CV (2 days ago)
+- [ecphp/laravel-cas](https://github.com/ecphp/laravel-cas) - A bundle for Laravel, providing authentication against a Central Authentication Service (CAS) server. (3 days ago)
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (3 days ago)
+- [drupol/primes-bench](https://github.com/drupol/primes-bench) - A playground for benchmarking Prime numbers iterators. (4 days ago)
+- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (4 days ago)
+- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [loophp/iterators](https://github.com/loophp/iterators) ([2.3.4](https://github.com/loophp/iterators/releases/tag/2.3.4), today) - The missing PHP iterators.
-- [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.4](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.4), today) - Digitally sign PDF files from your commandline
-- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.15.1](https://github.com/Mic92/nix-update/releases/tag/0.15.1), 1 day ago) - Swiss-knife for updating nix packages.
-- [drupol/cv](https://github.com/drupol/cv) ([v41-3ce68e9](https://github.com/drupol/cv/releases/tag/v41-3ce68e9), 1 day ago) - My public CV
-- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.5.5](https://github.com/ecphp/cas-bundle/releases/tag/2.5.5), 4 days ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
+- [loophp/iterators](https://github.com/loophp/iterators) ([2.3.4](https://github.com/loophp/iterators/releases/tag/2.3.4), 1 day ago) - The missing PHP iterators.
+- [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.4](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.4), 1 day ago) - Digitally sign PDF files from your commandline
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.15.1](https://github.com/Mic92/nix-update/releases/tag/0.15.1), 2 days ago) - Swiss-knife for updating nix packages.
+- [drupol/cv](https://github.com/drupol/cv) ([v41-3ce68e9](https://github.com/drupol/cv/releases/tag/v41-3ce68e9), 2 days ago) - My public CV
+- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.5.5](https://github.com/ecphp/cas-bundle/releases/tag/2.5.5), 5 days ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.7.7](https://github.com/vimeo/psalm/releases/tag/5.7.7), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.5](https://github.com/ecphp/cas-lib/releases/tag/2.0.5), 1 week ago) - CAS Lib, a standard library for CAS authentication.
 - [loophp/collection](https://github.com/loophp/collection) ([v7-4e60bd1](https://github.com/loophp/collection/releases/tag/v7-4e60bd1), 2 weeks ago) - A (memory) friendly, easy, lazy and modular collection class.
