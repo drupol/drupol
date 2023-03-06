@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v37-207e5e3](https://github.com/drupol/latex-letter/releases/tag/v37-207e5e3), today) - 
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v39-d63fdde](https://github.com/drupol/latex-letter/releases/tag/v39-d63fdde), today) - 
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.3.4](https://github.com/loophp/iterators/releases/tag/2.3.4), 1 day ago) - The missing PHP iterators.
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.4](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.4), 1 day ago) - Digitally sign PDF files from your commandline
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.15.1](https://github.com/Mic92/nix-update/releases/tag/0.15.1), 2 days ago) - Swiss-knife for updating nix packages.
