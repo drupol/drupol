@@ -11,8 +11,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (today)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 day ago)
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (1 day ago)
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (1 day ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 day ago)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (1 day ago)
@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v39-d63fdde](https://github.com/drupol/latex-letter/releases/tag/v39-d63fdde), 1 day ago) - 
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v40-56df049](https://github.com/drupol/latex-letter/releases/tag/v40-56df049), today) - 
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.3.4](https://github.com/loophp/iterators/releases/tag/2.3.4), 2 days ago) - The missing PHP iterators.
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.4](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.4), 2 days ago) - Digitally sign PDF files from your commandline
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.15.1](https://github.com/Mic92/nix-update/releases/tag/0.15.1), 3 days ago) - Swiss-knife for updating nix packages.
