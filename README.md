@@ -12,12 +12,12 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (today)
 - [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) - Session &#39;Composition and inheritance&#39; (today)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 day ago)
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (1 day ago)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (2 days ago)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (2 days ago)
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (2 days ago)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (3 days ago)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (3 days ago)
 - [drupol/cv](https://github.com/drupol/cv) - My public CV (4 days ago)
