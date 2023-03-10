@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.8.0](https://github.com/vimeo/psalm/releases/tag/5.8.0), today) - A static analysis tool for finding errors in PHP applications
 - [ecphp/session-clean-architecture](https://github.com/ecphp/session-clean-architecture) ([v1-8283fda](https://github.com/ecphp/session-clean-architecture/releases/tag/v1-8283fda), 1 day ago) - Mirror repository - Session &#39;Clean Architecture&#39;
 - [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v41-0bcc59c](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v41-0bcc59c), 2 days ago) - Session &#39;Composition and inheritance&#39;
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v41-3a85f88](https://github.com/drupol/latex-letter/releases/tag/v41-3a85f88), 3 days ago) - 
@@ -32,7 +33,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.15.1](https://github.com/Mic92/nix-update/releases/tag/0.15.1), 6 days ago) - Swiss-knife for updating nix packages.
 - [drupol/cv](https://github.com/drupol/cv) ([v41-3ce68e9](https://github.com/drupol/cv/releases/tag/v41-3ce68e9), 6 days ago) - My public CV
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.5.5](https://github.com/ecphp/cas-bundle/releases/tag/2.5.5), 1 week ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.7.7](https://github.com/vimeo/psalm/releases/tag/5.7.7), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.5](https://github.com/ecphp/cas-lib/releases/tag/2.0.5), 2 weeks ago) - CAS Lib, a standard library for CAS authentication.
 
 I'm currently **available for remote work**, feel free to contact me.
