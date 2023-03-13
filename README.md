@@ -11,16 +11,16 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (today)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (today)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
 - [ecphp/sessions](https://github.com/ecphp/sessions) - This repository contains links to presentations given at the European Commission by the ECPHP team. (3 days ago)
 - [ecphp/session-clean-architecture](https://github.com/ecphp/session-clean-architecture) - Mirror repository - Session &#39;Clean Architecture&#39; (4 days ago)
 - [loophp/phposinfo](https://github.com/loophp/phposinfo) - Try to guess the host operating system. (4 days ago)
 - [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) - Session &#39;Composition and inheritance&#39; (5 days ago)
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (5 days ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (6 days ago)
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (6 days ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
