@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [flow-php/flow](https://github.com/flow-php/flow) ([0.1.0](https://github.com/flow-php/flow/releases/tag/0.1.0), today) - Monorepo for Flow PHP - Unified data processing library
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.15.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.8.0](https://github.com/vimeo/psalm/releases/tag/5.8.0), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [ecphp/session-clean-architecture](https://github.com/ecphp/session-clean-architecture) ([v1-8283fda](https://github.com/ecphp/session-clean-architecture/releases/tag/v1-8283fda), 4 days ago) - Mirror repository - Session &#39;Clean Architecture&#39;
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.4](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.4), 1 week ago) - Digitally sign PDF files from your commandline
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.15.1](https://github.com/Mic92/nix-update/releases/tag/0.15.1), 1 week ago) - Swiss-knife for updating nix packages.
 - [drupol/cv](https://github.com/drupol/cv) ([v41-3ce68e9](https://github.com/drupol/cv/releases/tag/v41-3ce68e9), 1 week ago) - My public CV
-- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([2.5.5](https://github.com/ecphp/cas-bundle/releases/tag/2.5.5), 1 week ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 
 I'm currently **available for remote work**, feel free to contact me.
 
