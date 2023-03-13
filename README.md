@@ -13,9 +13,9 @@ More about me on my blog: https://not-a-number.io/about/
 
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (today)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (today)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
 - [ecphp/sessions](https://github.com/ecphp/sessions) - This repository contains links to presentations given at the European Commission by the ECPHP team. (3 days ago)
 - [ecphp/session-clean-architecture](https://github.com/ecphp/session-clean-architecture) - Mirror repository - Session &#39;Clean Architecture&#39; (4 days ago)
@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [flow-php/flow](https://github.com/flow-php/flow) ([0.1.0](https://github.com/flow-php/flow/releases/tag/0.1.0), today) - Monorepo for Flow PHP - Unified data processing library
+- [flow-php/flow](https://github.com/flow-php/flow) ([0.1.1](https://github.com/flow-php/flow/releases/tag/0.1.1), today) - Monorepo for Flow PHP - Unified data processing library
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.15.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.8.0](https://github.com/vimeo/psalm/releases/tag/5.8.0), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [ecphp/session-clean-architecture](https://github.com/ecphp/session-clean-architecture) ([v1-8283fda](https://github.com/ecphp/session-clean-architecture/releases/tag/v1-8283fda), 4 days ago) - Mirror repository - Session &#39;Clean Architecture&#39;
