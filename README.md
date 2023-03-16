@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v42-14dc03d](https://github.com/drupol/latex-letter/releases/tag/v42-14dc03d), today) - 
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v43-7e6a397](https://github.com/drupol/latex-letter/releases/tag/v43-7e6a397), today) - 
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.15.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [flow-php/flow](https://github.com/flow-php/flow) ([0.1.1](https://github.com/flow-php/flow/releases/tag/0.1.1), 3 days ago) - Monorepo for Flow PHP - Unified data processing library
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.8.0](https://github.com/vimeo/psalm/releases/tag/5.8.0), 6 days ago) - A static analysis tool for finding errors in PHP applications
