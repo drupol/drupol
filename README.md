@@ -13,17 +13,18 @@ More about me on my blog: https://not-a-number.io/about/
 
 - [loophp/tin](https://github.com/loophp/tin) - Taxpayer Identification Number (TIN) Validator (today)
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (1 day ago)
-- [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol. (2 days ago)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (2 days ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
+- [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol. (2 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (3 days ago)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (5 days ago)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (5 days ago)
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (5 days ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (5 days ago)
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [loophp/tin](https://github.com/loophp/tin) ([1.1.0](https://github.com/loophp/tin/releases/tag/1.1.0), today) - Taxpayer Identification Number (TIN) Validator
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v44-bda5baf](https://github.com/drupol/latex-letter/releases/tag/v44-bda5baf), 1 day ago) - 
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.15.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1), 5 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [flow-php/flow](https://github.com/flow-php/flow) ([0.1.1](https://github.com/flow-php/flow/releases/tag/0.1.1), 5 days ago) - Monorepo for Flow PHP - Unified data processing library
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.3.4](https://github.com/loophp/iterators/releases/tag/2.3.4), 1 week ago) - The missing PHP iterators.
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.4](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.4), 1 week ago) - Digitally sign PDF files from your commandline
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.15.1](https://github.com/Mic92/nix-update/releases/tag/0.15.1), 2 weeks ago) - Swiss-knife for updating nix packages.
-- [drupol/cv](https://github.com/drupol/cv) ([v41-3ce68e9](https://github.com/drupol/cv/releases/tag/v41-3ce68e9), 2 weeks ago) - My public CV
 
 I'm currently **available for remote work**, feel free to contact me.
 
