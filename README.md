@@ -11,28 +11,28 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/tin](https://github.com/loophp/tin) - Taxpayer Identification Number (TIN) Validator (today)
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (1 day ago)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (2 days ago)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
-- [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol. (2 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (3 days ago)
-- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (5 days ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (5 days ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (5 days ago)
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (5 days ago)
+- [loophp/tin](https://github.com/loophp/tin) - Taxpayer Identification Number (TIN) Validator (1 day ago)
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) -  (2 days ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (3 days ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (3 days ago)
+- [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol. (3 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (4 days ago)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (6 days ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (6 days ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (6 days ago)
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [loophp/tin](https://github.com/loophp/tin) ([1.1.0](https://github.com/loophp/tin/releases/tag/1.1.0), today) - Taxpayer Identification Number (TIN) Validator
-- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v44-bda5baf](https://github.com/drupol/latex-letter/releases/tag/v44-bda5baf), 1 day ago) - 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.15.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1), 5 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [flow-php/flow](https://github.com/flow-php/flow) ([0.1.1](https://github.com/flow-php/flow/releases/tag/0.1.1), 5 days ago) - Monorepo for Flow PHP - Unified data processing library
+- [loophp/tin](https://github.com/loophp/tin) ([1.1.0](https://github.com/loophp/tin/releases/tag/1.1.0), 1 day ago) - Taxpayer Identification Number (TIN) Validator
+- [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v44-bda5baf](https://github.com/drupol/latex-letter/releases/tag/v44-bda5baf), 2 days ago) - 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.15.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1), 6 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [flow-php/flow](https://github.com/flow-php/flow) ([0.1.1](https://github.com/flow-php/flow/releases/tag/0.1.1), 6 days ago) - Monorepo for Flow PHP - Unified data processing library
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.8.0](https://github.com/vimeo/psalm/releases/tag/5.8.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [ecphp/session-clean-architecture](https://github.com/ecphp/session-clean-architecture) ([v1-8283fda](https://github.com/ecphp/session-clean-architecture/releases/tag/v1-8283fda), 1 week ago) - Mirror repository - Session &#39;Clean Architecture&#39;
 - [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v41-0bcc59c](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v41-0bcc59c), 1 week ago) - Session &#39;Composition and inheritance&#39;
-- [loophp/iterators](https://github.com/loophp/iterators) ([2.3.4](https://github.com/loophp/iterators/releases/tag/2.3.4), 1 week ago) - The missing PHP iterators.
-- [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.4](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.4), 1 week ago) - Digitally sign PDF files from your commandline
+- [loophp/iterators](https://github.com/loophp/iterators) ([2.3.4](https://github.com/loophp/iterators/releases/tag/2.3.4), 2 weeks ago) - The missing PHP iterators.
+- [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.4](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.4), 2 weeks ago) - Digitally sign PDF files from your commandline
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.15.1](https://github.com/Mic92/nix-update/releases/tag/0.15.1), 2 weeks ago) - Swiss-knife for updating nix packages.
 
 I'm currently **available for remote work**, feel free to contact me.
