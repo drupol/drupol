@@ -12,7 +12,7 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (1 day ago)
+- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (today)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 day ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 day ago)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (1 day ago)
@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.1.0](https://github.com/loophp/repository-monadic-helper/releases/tag/1.1.0), today) - Monadic Doctrine repositories helper classes and services.
 - [loophp/tin](https://github.com/loophp/tin) ([1.1.0](https://github.com/loophp/tin/releases/tag/1.1.0), 3 days ago) - Taxpayer Identification Number (TIN) Validator
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v44-bda5baf](https://github.com/drupol/latex-letter/releases/tag/v44-bda5baf), 4 days ago) - 
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.15.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v41-0bcc59c](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v41-0bcc59c), 1 week ago) - Session &#39;Composition and inheritance&#39;
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.3.4](https://github.com/loophp/iterators/releases/tag/2.3.4), 2 weeks ago) - The missing PHP iterators.
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.4](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.4), 2 weeks ago) - Digitally sign PDF files from your commandline
-- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.15.1](https://github.com/Mic92/nix-update/releases/tag/0.15.1), 2 weeks ago) - Swiss-knife for updating nix packages.
 
 I'm currently **available for remote work**, feel free to contact me.
 
