@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.16.0](https://github.com/Mic92/nix-update/releases/tag/0.16.0), today) - Swiss-knife for updating nix packages.
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v2.0.0](https://github.com/marcosh/lamphpda/releases/tag/v2.0.0), 1 day ago) - A collection of type-safe functional data structures
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.1.0](https://github.com/loophp/repository-monadic-helper/releases/tag/1.1.0), 1 day ago) - Monadic Doctrine repositories helper classes and services.
 - [loophp/tin](https://github.com/loophp/tin) ([1.1.0](https://github.com/loophp/tin/releases/tag/1.1.0), 4 days ago) - Taxpayer Identification Number (TIN) Validator
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.8.0](https://github.com/vimeo/psalm/releases/tag/5.8.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [ecphp/session-clean-architecture](https://github.com/ecphp/session-clean-architecture) ([v1-8283fda](https://github.com/ecphp/session-clean-architecture/releases/tag/v1-8283fda), 1 week ago) - Mirror repository - Session &#39;Clean Architecture&#39;
 - [ecphp/session--composition-and-inheritance](https://github.com/ecphp/session--composition-and-inheritance) ([v41-0bcc59c](https://github.com/ecphp/session--composition-and-inheritance/releases/tag/v41-0bcc59c), 2 weeks ago) - Session &#39;Composition and inheritance&#39;
-- [loophp/iterators](https://github.com/loophp/iterators) ([2.3.4](https://github.com/loophp/iterators/releases/tag/2.3.4), 2 weeks ago) - The missing PHP iterators.
 
 I'm currently **available for remote work**, feel free to contact me.
 
