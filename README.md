@@ -24,8 +24,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [drupol/typst-document](https://github.com/drupol/typst-document) ([v4-7926850](https://github.com/drupol/typst-document/releases/tag/v4-7926850), today) - A starter repository for writing documents with Typst using Nix
-- [flow-php/flow](https://github.com/flow-php/flow) ([0.2.1](https://github.com/flow-php/flow/releases/tag/0.2.1), 1 day ago) - Monorepo for Flow PHP - Unified data processing library
+- [flow-php/flow](https://github.com/flow-php/flow) ([0.2.2](https://github.com/flow-php/flow/releases/tag/0.2.2), today) - Monorepo for Flow PHP - Unified data processing library
+- [drupol/typst-document](https://github.com/drupol/typst-document) ([v7-41f25f8](https://github.com/drupol/typst-document/releases/tag/v7-41f25f8), today) - A starter repository for writing documents with Typst using Nix
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.16.0](https://github.com/Mic92/nix-update/releases/tag/0.16.0), 6 days ago) - Swiss-knife for updating nix packages.
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v2.0.0](https://github.com/marcosh/lamphpda/releases/tag/v2.0.0), 1 week ago) - A collection of type-safe functional data structures
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.1.0](https://github.com/loophp/repository-monadic-helper/releases/tag/1.1.0), 1 week ago) - Monadic Doctrine repositories helper classes and services.
