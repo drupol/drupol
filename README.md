@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [flow-php/flow](https://github.com/flow-php/flow) ([0.2.5](https://github.com/flow-php/flow/releases/tag/0.2.5), today) - Monorepo for Flow PHP - Unified data processing library
+- [flow-php/flow](https://github.com/flow-php/flow) ([0.2.6](https://github.com/flow-php/flow/releases/tag/0.2.6), today) - Monorepo for Flow PHP - Unified data processing library
 - [drupol/typst-document](https://github.com/drupol/typst-document) ([v17-ccb1435](https://github.com/drupol/typst-document/releases/tag/v17-ccb1435), today) - A starter repository for writing documents with Typst using Nix
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.16.0](https://github.com/Mic92/nix-update/releases/tag/0.16.0), 1 week ago) - Swiss-knife for updating nix packages.
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v2.0.0](https://github.com/marcosh/lamphpda/releases/tag/v2.0.0), 1 week ago) - A collection of type-safe functional data structures
