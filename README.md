@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.9.0](https://github.com/vimeo/psalm/releases/tag/5.9.0), today) - A static analysis tool for finding errors in PHP applications
 - [flow-php/flow](https://github.com/flow-php/flow) ([0.2.6](https://github.com/flow-php/flow/releases/tag/0.2.6), 1 day ago) - Monorepo for Flow PHP - Unified data processing library
 - [drupol/typst-document](https://github.com/drupol/typst-document) ([v17-ccb1435](https://github.com/drupol/typst-document/releases/tag/v17-ccb1435), 1 day ago) - A starter repository for writing documents with Typst using Nix
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.16.0](https://github.com/Mic92/nix-update/releases/tag/0.16.0), 1 week ago) - Swiss-knife for updating nix packages.
@@ -32,7 +33,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/tin](https://github.com/loophp/tin) ([1.1.0](https://github.com/loophp/tin/releases/tag/1.1.0), 1 week ago) - Taxpayer Identification Number (TIN) Validator
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v44-bda5baf](https://github.com/drupol/latex-letter/releases/tag/v44-bda5baf), 1 week ago) - 
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.15.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1), 2 weeks ago) - A tool to automatically fix PHP Coding Standards issues
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.8.0](https://github.com/vimeo/psalm/releases/tag/5.8.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [ecphp/session-clean-architecture](https://github.com/ecphp/session-clean-architecture) ([v1-8283fda](https://github.com/ecphp/session-clean-architecture/releases/tag/v1-8283fda), 3 weeks ago) - Mirror repository - Session &#39;Clean Architecture&#39;
 
 I'm currently **available for remote work**, feel free to contact me.
