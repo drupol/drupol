@@ -11,11 +11,11 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (today)
 - [drupol/psrcas-client-poc](https://github.com/drupol/psrcas-client-poc) - ecphp/cas-lib demo client for a bare PHP application. (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (2 days ago)
 - [drupol/typst-document](https://github.com/drupol/typst-document) - A starter repository for writing documents with Typst using Nix (2 days ago)
-- [drupol/yaroc](https://github.com/drupol/yaroc) - YAROC: Yet Another Random.Org Client. (3 days ago)
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) - Monadic Doctrine repositories helper classes and services. (3 days ago)
 - [loophp/typed-generators](https://github.com/loophp/typed-generators) - Generate random typed values and in any shape. (3 days ago)
 - [loophp/combinator](https://github.com/loophp/combinator) - A curated list of combinators (3 days ago)
@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.6](https://github.com/ecphp/cas-lib/releases/tag/2.0.6), today) - CAS Lib, a standard library for CAS authentication.
 - [drupol/typst-document](https://github.com/drupol/typst-document) ([v18-7da6c15](https://github.com/drupol/typst-document/releases/tag/v18-7da6c15), 2 days ago) - A starter repository for writing documents with Typst using Nix
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.9.0](https://github.com/vimeo/psalm/releases/tag/5.9.0), 2 days ago) - A static analysis tool for finding errors in PHP applications
 - [flow-php/flow](https://github.com/flow-php/flow) ([0.2.6](https://github.com/flow-php/flow/releases/tag/0.2.6), 3 days ago) - Monorepo for Flow PHP - Unified data processing library
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/tin](https://github.com/loophp/tin) ([1.1.0](https://github.com/loophp/tin/releases/tag/1.1.0), 2 weeks ago) - Taxpayer Identification Number (TIN) Validator
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v44-bda5baf](https://github.com/drupol/latex-letter/releases/tag/v44-bda5baf), 2 weeks ago) - 
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.15.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1), 2 weeks ago) - A tool to automatically fix PHP Coding Standards issues
-- [ecphp/session-clean-architecture](https://github.com/ecphp/session-clean-architecture) ([v1-8283fda](https://github.com/ecphp/session-clean-architecture/releases/tag/v1-8283fda), 3 weeks ago) - Mirror repository - Session &#39;Clean Architecture&#39;
 
 I'm currently **available for remote work**, feel free to contact me.
 
