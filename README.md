@@ -24,8 +24,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [drupol/typst-document](https://github.com/drupol/typst-document) ([v21-b3240f1](https://github.com/drupol/typst-document/releases/tag/v21-b3240f1), today) - A starter repository for writing documents with Typst using Nix
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.6](https://github.com/ecphp/cas-lib/releases/tag/2.0.6), 1 day ago) - CAS Lib, a standard library for CAS authentication.
-- [drupol/typst-document](https://github.com/drupol/typst-document) ([v18-7da6c15](https://github.com/drupol/typst-document/releases/tag/v18-7da6c15), 3 days ago) - A starter repository for writing documents with Typst using Nix
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.9.0](https://github.com/vimeo/psalm/releases/tag/5.9.0), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [flow-php/flow](https://github.com/flow-php/flow) ([0.2.6](https://github.com/flow-php/flow/releases/tag/0.2.6), 4 days ago) - Monorepo for Flow PHP - Unified data processing library
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.16.0](https://github.com/Mic92/nix-update/releases/tag/0.16.0), 1 week ago) - Swiss-knife for updating nix packages.
