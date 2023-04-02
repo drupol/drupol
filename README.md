@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.16.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.16.0), today) - A tool to automatically fix PHP Coding Standards issues
 - [drupol/typst-document](https://github.com/drupol/typst-document) ([v21-b3240f1](https://github.com/drupol/typst-document/releases/tag/v21-b3240f1), today) - A starter repository for writing documents with Typst using Nix
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.6](https://github.com/ecphp/cas-lib/releases/tag/2.0.6), 1 day ago) - CAS Lib, a standard library for CAS authentication.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.9.0](https://github.com/vimeo/psalm/releases/tag/5.9.0), 3 days ago) - A static analysis tool for finding errors in PHP applications
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.1.0](https://github.com/loophp/repository-monadic-helper/releases/tag/1.1.0), 1 week ago) - Monadic Doctrine repositories helper classes and services.
 - [loophp/tin](https://github.com/loophp/tin) ([1.1.0](https://github.com/loophp/tin/releases/tag/1.1.0), 2 weeks ago) - Taxpayer Identification Number (TIN) Validator
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) ([v44-bda5baf](https://github.com/drupol/latex-letter/releases/tag/v44-bda5baf), 2 weeks ago) - 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.15.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1), 2 weeks ago) - A tool to automatically fix PHP Coding Standards issues
 
 I'm currently **available for remote work**, feel free to contact me.
 
