@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [cycle/orm](https://github.com/cycle/orm) ([v2.3.0](https://github.com/cycle/orm/releases/tag/v2.3.0), today) - PHP DataMapper, ORM
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.16.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.16.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [drupol/typst-document](https://github.com/drupol/typst-document) ([v21-b3240f1](https://github.com/drupol/typst-document/releases/tag/v21-b3240f1), 1 day ago) - A starter repository for writing documents with Typst using Nix
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.6](https://github.com/ecphp/cas-lib/releases/tag/2.0.6), 2 days ago) - CAS Lib, a standard library for CAS authentication.
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.16.0](https://github.com/Mic92/nix-update/releases/tag/0.16.0), 1 week ago) - Swiss-knife for updating nix packages.
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v2.0.0](https://github.com/marcosh/lamphpda/releases/tag/v2.0.0), 1 week ago) - A collection of type-safe functional data structures
 - [loophp/repository-monadic-helper](https://github.com/loophp/repository-monadic-helper) ([1.1.0](https://github.com/loophp/repository-monadic-helper/releases/tag/1.1.0), 1 week ago) - Monadic Doctrine repositories helper classes and services.
-- [loophp/tin](https://github.com/loophp/tin) ([1.1.0](https://github.com/loophp/tin/releases/tag/1.1.0), 2 weeks ago) - Taxpayer Identification Number (TIN) Validator
 
 I'm currently **available for remote work**, feel free to contact me.
 
