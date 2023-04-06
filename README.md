@@ -24,10 +24,10 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [drupol/typst-document](https://github.com/drupol/typst-document) ([v26-178fbc3](https://github.com/drupol/typst-document/releases/tag/v26-178fbc3), today) - A starter repository for writing documents with Typst using Nix
 - [flow-php/flow](https://github.com/flow-php/flow) ([0.2.7](https://github.com/flow-php/flow/releases/tag/0.2.7), today) - Monorepo for Flow PHP - Unified data processing library
 - [cycle/orm](https://github.com/cycle/orm) ([v2.3.0](https://github.com/cycle/orm/releases/tag/v2.3.0), 3 days ago) - PHP DataMapper, ORM
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.16.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.16.0), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [drupol/typst-document](https://github.com/drupol/typst-document) ([v21-b3240f1](https://github.com/drupol/typst-document/releases/tag/v21-b3240f1), 4 days ago) - A starter repository for writing documents with Typst using Nix
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.6](https://github.com/ecphp/cas-lib/releases/tag/2.0.6), 5 days ago) - CAS Lib, a standard library for CAS authentication.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.9.0](https://github.com/vimeo/psalm/releases/tag/5.9.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [psr7-sessions/storageless](https://github.com/psr7-sessions/storageless) ([8.16.0](https://github.com/psr7-sessions/storageless/releases/tag/8.16.0), 1 week ago) - :mailbox_with_mail: storage-less PSR-7 session support
