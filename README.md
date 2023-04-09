@@ -11,12 +11,12 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/typst-document](https://github.com/drupol/typst-document) - A starter repository for writing documents with Typst using Nix (1 day ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski&#39;s &#39;Category Theory for Programmers&#39; unofficial PDF and LaTeX source (1 day ago)
+- [drupol/typst-document](https://github.com/drupol/typst-document) - A starter repository for writing documents with Typst using Nix (1 day ago)
 - [drupol/psrcas-client-poc](https://github.com/drupol/psrcas-client-poc) - ecphp/cas-lib demo client for a bare PHP application. (2 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (2 days ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (2 days ago)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (2 days ago)
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (5 days ago)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (6 days ago)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (6 days ago)
