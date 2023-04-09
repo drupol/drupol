@@ -18,8 +18,8 @@ More about me on my blog: https://not-a-number.io/about/
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (2 days ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (2 days ago)
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (5 days ago)
-- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (6 days ago)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (6 days ago)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (6 days ago)
 - [psr7-sessions/storageless](https://github.com/psr7-sessions/storageless) - :mailbox_with_mail: storage-less PSR-7 session support (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
