@@ -11,11 +11,11 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [drupol/typst-document](https://github.com/drupol/typst-document) - A starter repository for writing documents with Typst using Nix (today)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 day ago)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 day ago)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (1 day ago)
-- [drupol/typst-document](https://github.com/drupol/typst-document) - A starter repository for writing documents with Typst using Nix (1 day ago)
 - [loophp/nix-phpstan](https://github.com/loophp/nix-phpstan) - A Nix flake for PHPStan (1 day ago)
 - [andreasKroepelin/typst-slides](https://github.com/andreasKroepelin/typst-slides) - A template for creating slides in Typst (2 days ago)
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski&#39;s &#39;Category Theory for Programmers&#39; unofficial PDF and LaTeX source (3 days ago)
@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [drupol/typst-document](https://github.com/drupol/typst-document) ([v1-a3b3021](https://github.com/drupol/typst-document/releases/tag/v1-a3b3021), 1 day ago) - A starter repository for writing documents with Typst using Nix
+- [drupol/typst-document](https://github.com/drupol/typst-document) ([v2-c0f9d7d](https://github.com/drupol/typst-document/releases/tag/v2-c0f9d7d), today) - A starter repository for writing documents with Typst using Nix
 - [flow-php/flow](https://github.com/flow-php/flow) ([0.2.7](https://github.com/flow-php/flow/releases/tag/0.2.7), 5 days ago) - Monorepo for Flow PHP - Unified data processing library
 - [cycle/orm](https://github.com/cycle/orm) ([v2.3.0](https://github.com/cycle/orm/releases/tag/v2.3.0), 1 week ago) - PHP DataMapper, ORM
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.16.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.16.0), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
