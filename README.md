@@ -24,8 +24,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [drupol/typst-document](https://github.com/drupol/typst-document) ([v11-1df58fd](https://github.com/drupol/typst-document/releases/tag/v11-1df58fd), today) - A starter repository for writing documents with Typst using Nix
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.1.1](https://github.com/platformer/typst-algorithms/releases/tag/v0.1.1), today) - 
-- [drupol/typst-document](https://github.com/drupol/typst-document) ([v10-a87fa7c](https://github.com/drupol/typst-document/releases/tag/v10-a87fa7c), today) - A starter repository for writing documents with Typst using Nix
 - [flow-php/flow](https://github.com/flow-php/flow) ([0.2.7](https://github.com/flow-php/flow/releases/tag/0.2.7), 6 days ago) - Monorepo for Flow PHP - Unified data processing library
 - [cycle/orm](https://github.com/cycle/orm) ([v2.3.0](https://github.com/cycle/orm/releases/tag/v2.3.0), 1 week ago) - PHP DataMapper, ORM
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.16.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.16.0), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
