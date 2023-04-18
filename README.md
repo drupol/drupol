@@ -11,13 +11,13 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [drupol/typst-document](https://github.com/drupol/typst-document) - A starter repository for writing documents with Typst using Nix (today)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (1 day ago)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 day ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 day ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 day ago)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (2 days ago)
 - [andreasKroepelin/typst-slides](https://github.com/andreasKroepelin/typst-slides) - A template for creating slides in Typst (5 days ago)
-- [drupol/typst-document](https://github.com/drupol/typst-document) - A starter repository for writing documents with Typst using Nix (5 days ago)
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (6 days ago)
 - [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (6 days ago)
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) -  (1 week ago)
