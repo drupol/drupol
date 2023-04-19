@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.17.0](https://github.com/Mic92/nix-update/releases/tag/0.17.0), today) - Swiss-knife for updating nix packages.
 - [andreasKroepelin/typst-slides](https://github.com/andreasKroepelin/typst-slides) ([v0.1.0](https://github.com/andreasKroepelin/typst-slides/releases/tag/v0.1.0), 3 days ago) - A template for creating slides in Typst
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([3.0.4](https://github.com/ecphp/ecas/releases/tag/3.0.4), 1 week ago) - CAS library to communicate with eCAS/EULogin
 - [drupol/typst-document](https://github.com/drupol/typst-document) ([v11-1df58fd](https://github.com/drupol/typst-document/releases/tag/v11-1df58fd), 1 week ago) - A starter repository for writing documents with Typst using Nix
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.16.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.16.0), 2 weeks ago) - A tool to automatically fix PHP Coding Standards issues
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.6](https://github.com/ecphp/cas-lib/releases/tag/2.0.6), 2 weeks ago) - CAS Lib, a standard library for CAS authentication.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.9.0](https://github.com/vimeo/psalm/releases/tag/5.9.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
-- [psr7-sessions/storageless](https://github.com/psr7-sessions/storageless) ([8.16.0](https://github.com/psr7-sessions/storageless/releases/tag/8.16.0), 3 weeks ago) - :mailbox_with_mail: storage-less PSR-7 session support
 
 I'm currently **available for remote work**, feel free to contact me.
 
