@@ -11,23 +11,23 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/typst-document](https://github.com/drupol/typst-document) - A starter repository for writing documents with Typst using Nix (today)
-- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (1 day ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 day ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 day ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 day ago)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (2 days ago)
-- [andreasKroepelin/typst-slides](https://github.com/andreasKroepelin/typst-slides) - A template for creating slides in Typst (5 days ago)
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (6 days ago)
-- [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (6 days ago)
+- [drupol/typst-document](https://github.com/drupol/typst-document) - A starter repository for writing documents with Typst using Nix (1 day ago)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (2 days ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (2 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (2 days ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (2 days ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (3 days ago)
+- [andreasKroepelin/typst-slides](https://github.com/andreasKroepelin/typst-slides) - A template for creating slides in Typst (6 days ago)
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (1 week ago)
+- [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (1 week ago)
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [andreasKroepelin/typst-slides](https://github.com/andreasKroepelin/typst-slides) ([v0.1.0](https://github.com/andreasKroepelin/typst-slides/releases/tag/v0.1.0), 2 days ago) - A template for creating slides in Typst
-- [ecphp/ecas](https://github.com/ecphp/ecas) ([3.0.4](https://github.com/ecphp/ecas/releases/tag/3.0.4), 6 days ago) - CAS library to communicate with eCAS/EULogin
-- [drupol/typst-document](https://github.com/drupol/typst-document) ([v11-1df58fd](https://github.com/drupol/typst-document/releases/tag/v11-1df58fd), 6 days ago) - A starter repository for writing documents with Typst using Nix
-- [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.1.1](https://github.com/platformer/typst-algorithms/releases/tag/v0.1.1), 6 days ago) - 
+- [andreasKroepelin/typst-slides](https://github.com/andreasKroepelin/typst-slides) ([v0.1.0](https://github.com/andreasKroepelin/typst-slides/releases/tag/v0.1.0), 3 days ago) - A template for creating slides in Typst
+- [ecphp/ecas](https://github.com/ecphp/ecas) ([3.0.4](https://github.com/ecphp/ecas/releases/tag/3.0.4), 1 week ago) - CAS library to communicate with eCAS/EULogin
+- [drupol/typst-document](https://github.com/drupol/typst-document) ([v11-1df58fd](https://github.com/drupol/typst-document/releases/tag/v11-1df58fd), 1 week ago) - A starter repository for writing documents with Typst using Nix
+- [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.1.1](https://github.com/platformer/typst-algorithms/releases/tag/v0.1.1), 1 week ago) - 
 - [flow-php/flow](https://github.com/flow-php/flow) ([0.2.7](https://github.com/flow-php/flow/releases/tag/0.2.7), 1 week ago) - Monorepo for Flow PHP - Unified data processing library
 - [cycle/orm](https://github.com/cycle/orm) ([v2.3.0](https://github.com/cycle/orm/releases/tag/v2.3.0), 2 weeks ago) - PHP DataMapper, ORM
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.16.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.16.0), 2 weeks ago) - A tool to automatically fix PHP Coding Standards issues
