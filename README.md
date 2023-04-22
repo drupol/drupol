@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.17.0](https://github.com/Mic92/nix-update/releases/tag/0.17.0), 3 days ago) - Swiss-knife for updating nix packages.
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.17.1](https://github.com/Mic92/nix-update/releases/tag/0.17.1), today) - Swiss-knife for updating nix packages.
 - [andreasKroepelin/typst-slides](https://github.com/andreasKroepelin/typst-slides) ([v0.1.0](https://github.com/andreasKroepelin/typst-slides/releases/tag/v0.1.0), 6 days ago) - A template for creating slides in Typst
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([3.0.4](https://github.com/ecphp/ecas/releases/tag/3.0.4), 1 week ago) - CAS library to communicate with eCAS/EULogin
 - [drupol/typst-document](https://github.com/drupol/typst-document) ([v11-1df58fd](https://github.com/drupol/typst-document/releases/tag/v11-1df58fd), 1 week ago) - A starter repository for writing documents with Typst using Nix
