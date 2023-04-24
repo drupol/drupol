@@ -14,13 +14,13 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (today)
 - [typst/templates](https://github.com/typst/templates) - The templates that ship with the Typst web app. (today)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (today)
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (today)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [drupol/psrcas-client-poc](https://github.com/drupol/psrcas-client-poc) - ecphp/cas-lib demo client for a bare PHP application. (3 days ago)
 - [drupol/cas-bundle-demo](https://github.com/drupol/cas-bundle-demo) -  (3 days ago)
 - [drupol/typst-document](https://github.com/drupol/typst-document) - A starter repository for writing documents with Typst using Nix (6 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 week ago)
-- [andreasKroepelin/typst-slides](https://github.com/andreasKroepelin/typst-slides) - A template for creating slides in Typst (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
