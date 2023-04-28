@@ -24,9 +24,9 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.17.2](https://github.com/Mic92/nix-update/releases/tag/0.17.2), today) - Swiss-knife for updating nix packages.
 - [drupol/typst-document](https://github.com/drupol/typst-document) ([v23-aa36f2e](https://github.com/drupol/typst-document/releases/tag/v23-aa36f2e), today) - A starter repository for writing documents with Typst using Nix
 - [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) ([1.0.4](https://github.com/ecphp/eu-login-api-authentication-bundle/releases/tag/1.0.4), 3 days ago) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol.
-- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.17.1](https://github.com/Mic92/nix-update/releases/tag/0.17.1), 6 days ago) - Swiss-knife for updating nix packages.
 - [andreasKroepelin/typst-slides](https://github.com/andreasKroepelin/typst-slides) ([v0.1.0](https://github.com/andreasKroepelin/typst-slides/releases/tag/v0.1.0), 1 week ago) - A template for creating slides in Typst
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([3.0.4](https://github.com/ecphp/ecas/releases/tag/3.0.4), 2 weeks ago) - CAS library to communicate with eCAS/EULogin
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.1.1](https://github.com/platformer/typst-algorithms/releases/tag/v0.1.1), 2 weeks ago) - 
