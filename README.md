@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.10.0](https://github.com/vimeo/psalm/releases/tag/5.10.0), today) - A static analysis tool for finding errors in PHP applications
 - [drupol/typst-document](https://github.com/drupol/typst-document) ([v27-2e0bd5d](https://github.com/drupol/typst-document/releases/tag/v27-2e0bd5d), today) - A starter repository for writing documents with Typst using Nix
 - [cycle/orm](https://github.com/cycle/orm) ([v2.3.1](https://github.com/cycle/orm/releases/tag/v2.3.1), 1 day ago) - PHP DataMapper, ORM
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.17.2](https://github.com/Mic92/nix-update/releases/tag/0.17.2), 4 days ago) - Swiss-knife for updating nix packages.
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.1.1](https://github.com/platformer/typst-algorithms/releases/tag/v0.1.1), 2 weeks ago) - 
 - [flow-php/flow](https://github.com/flow-php/flow) ([0.2.7](https://github.com/flow-php/flow/releases/tag/0.2.7), 3 weeks ago) - Monorepo for Flow PHP - Unified data processing library
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.16.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.16.0), 1 month ago) - A tool to automatically fix PHP Coding Standards issues
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([2.0.6](https://github.com/ecphp/cas-lib/releases/tag/2.0.6), 1 month ago) - CAS Lib, a standard library for CAS authentication.
 
 I'm currently **available for remote work**, feel free to contact me.
 
