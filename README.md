@@ -24,10 +24,10 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.11.0](https://github.com/vimeo/psalm/releases/tag/5.11.0), today) - A static analysis tool for finding errors in PHP applications
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.5](https://github.com/loophp/psr17/releases/tag/1.0.5), today) - Provides a PSR17 synthetic implementation.
 - [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) ([1.0.5](https://github.com/ecphp/eu-login-api-authentication-bundle/releases/tag/1.0.5), today) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol.
 - [drupol/typst-document](https://github.com/drupol/typst-document) ([v28-8dd8e0a](https://github.com/drupol/typst-document/releases/tag/v28-8dd8e0a), today) - A starter repository for writing documents with Typst using Nix
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.10.0](https://github.com/vimeo/psalm/releases/tag/5.10.0), 2 days ago) - A static analysis tool for finding errors in PHP applications
 - [cycle/orm](https://github.com/cycle/orm) ([v2.3.1](https://github.com/cycle/orm/releases/tag/v2.3.1), 3 days ago) - PHP DataMapper, ORM
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.17.2](https://github.com/Mic92/nix-update/releases/tag/0.17.2), 6 days ago) - Swiss-knife for updating nix packages.
 - [andreasKroepelin/typst-slides](https://github.com/andreasKroepelin/typst-slides) ([v0.1.0](https://github.com/andreasKroepelin/typst-slides/releases/tag/v0.1.0), 2 weeks ago) - A template for creating slides in Typst
