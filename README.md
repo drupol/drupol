@@ -17,9 +17,9 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (2 days ago)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (2 days ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (2 days ago)
-- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (2 days ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (2 days ago)
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (2 days ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (2 days ago)
+- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (2 days ago)
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
