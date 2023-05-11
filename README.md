@@ -11,22 +11,22 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (2 days ago)
-- [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (2 days ago)
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (2 days ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (2 days ago)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (2 days ago)
-- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (2 days ago)
-- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (2 days ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (2 days ago)
-- [loophp/psr17](https://github.com/loophp/psr17) - Provides a PSR17 synthetic implementation. (3 days ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (3 days ago)
+- [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (3 days ago)
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (3 days ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (3 days ago)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (3 days ago)
+- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (3 days ago)
+- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (3 days ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (3 days ago)
+- [loophp/psr17](https://github.com/loophp/psr17) - Provides a PSR17 synthetic implementation. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [loophp/psr17](https://github.com/loophp/psr17) ([1.0.6](https://github.com/loophp/psr17/releases/tag/1.0.6), 5 days ago) - Provides a PSR17 synthetic implementation.
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.11.0](https://github.com/vimeo/psalm/releases/tag/5.11.0), 6 days ago) - A static analysis tool for finding errors in PHP applications
-- [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) ([1.0.5](https://github.com/ecphp/eu-login-api-authentication-bundle/releases/tag/1.0.5), 6 days ago) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol.
+- [loophp/psr17](https://github.com/loophp/psr17) ([1.0.6](https://github.com/loophp/psr17/releases/tag/1.0.6), 6 days ago) - Provides a PSR17 synthetic implementation.
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.11.0](https://github.com/vimeo/psalm/releases/tag/5.11.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
+- [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) ([1.0.5](https://github.com/ecphp/eu-login-api-authentication-bundle/releases/tag/1.0.5), 1 week ago) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol.
 - [cycle/orm](https://github.com/cycle/orm) ([v2.3.1](https://github.com/cycle/orm/releases/tag/v2.3.1), 1 week ago) - PHP DataMapper, ORM
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.17.2](https://github.com/Mic92/nix-update/releases/tag/0.17.2), 1 week ago) - Swiss-knife for updating nix packages.
 - [andreasKroepelin/typst-slides](https://github.com/andreasKroepelin/typst-slides) ([v0.1.0](https://github.com/andreasKroepelin/typst-slides/releases/tag/v0.1.0), 3 weeks ago) - A template for creating slides in Typst
