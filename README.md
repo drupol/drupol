@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) ([1.0.1](https://github.com/loophp/service-alias-autoregister-bundle/releases/tag/1.0.1), today) - Auto register services aliases in the Symfony container.
 - [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v2-f8716a5](https://github.com/drupol/typst-gallery/releases/tag/v2-f8716a5), 2 days ago) - 
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.6](https://github.com/loophp/psr17/releases/tag/1.0.6), 1 week ago) - Provides a PSR17 synthetic implementation.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.11.0](https://github.com/vimeo/psalm/releases/tag/5.11.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [andreasKroepelin/typst-slides](https://github.com/andreasKroepelin/typst-slides) ([v0.1.0](https://github.com/andreasKroepelin/typst-slides/releases/tag/v0.1.0), 3 weeks ago) - A template for creating slides in Typst
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([3.0.4](https://github.com/ecphp/ecas/releases/tag/3.0.4), 1 month ago) - CAS library to communicate with eCAS/EULogin
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.1.1](https://github.com/platformer/typst-algorithms/releases/tag/v0.1.1), 1 month ago) - 
-- [flow-php/flow](https://github.com/flow-php/flow) ([0.2.7](https://github.com/flow-php/flow/releases/tag/0.2.7), 1 month ago) - Monorepo for Flow PHP - Unified data processing library
 
 I'm currently **available for remote work**, feel free to contact me.
 
