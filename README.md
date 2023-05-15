@@ -11,25 +11,25 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) -  (today)
-- [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) - Auto register services aliases in the Symfony container. (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (2 days ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (6 days ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (6 days ago)
-- [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (6 days ago)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (6 days ago)
-- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (6 days ago)
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (6 days ago)
+- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) -  (1 day ago)
+- [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) - Auto register services aliases in the Symfony container. (1 day ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (3 days ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 week ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 week ago)
+- [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (1 week ago)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 week ago)
+- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (1 week ago)
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v3-b3902d5](https://github.com/drupol/typst-gallery/releases/tag/v3-b3902d5), today) - 
-- [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) ([1.0.1](https://github.com/loophp/service-alias-autoregister-bundle/releases/tag/1.0.1), 1 day ago) - Auto register services aliases in the Symfony container.
+- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v3-b3902d5](https://github.com/drupol/typst-gallery/releases/tag/v3-b3902d5), 1 day ago) - 
+- [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) ([1.0.1](https://github.com/loophp/service-alias-autoregister-bundle/releases/tag/1.0.1), 2 days ago) - Auto register services aliases in the Symfony container.
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.6](https://github.com/loophp/psr17/releases/tag/1.0.6), 1 week ago) - Provides a PSR17 synthetic implementation.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.11.0](https://github.com/vimeo/psalm/releases/tag/5.11.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) ([1.0.5](https://github.com/ecphp/eu-login-api-authentication-bundle/releases/tag/1.0.5), 1 week ago) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol.
-- [cycle/orm](https://github.com/cycle/orm) ([v2.3.1](https://github.com/cycle/orm/releases/tag/v2.3.1), 1 week ago) - PHP DataMapper, ORM
+- [cycle/orm](https://github.com/cycle/orm) ([v2.3.1](https://github.com/cycle/orm/releases/tag/v2.3.1), 2 weeks ago) - PHP DataMapper, ORM
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.17.2](https://github.com/Mic92/nix-update/releases/tag/0.17.2), 2 weeks ago) - Swiss-knife for updating nix packages.
 - [andreasKroepelin/typst-slides](https://github.com/andreasKroepelin/typst-slides) ([v0.1.0](https://github.com/andreasKroepelin/typst-slides/releases/tag/v0.1.0), 4 weeks ago) - A template for creating slides in Typst
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([3.0.4](https://github.com/ecphp/ecas/releases/tag/3.0.4), 1 month ago) - CAS library to communicate with eCAS/EULogin
