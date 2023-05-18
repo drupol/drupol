@@ -24,7 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v3-b3902d5](https://github.com/drupol/typst-gallery/releases/tag/v3-b3902d5), 4 days ago) - 
+- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v6-1d46635](https://github.com/drupol/typst-gallery/releases/tag/v6-1d46635), today) - 
 - [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) ([1.0.1](https://github.com/loophp/service-alias-autoregister-bundle/releases/tag/1.0.1), 5 days ago) - Auto register services aliases in the Symfony container.
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.6](https://github.com/loophp/psr17/releases/tag/1.0.6), 1 week ago) - Provides a PSR17 synthetic implementation.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.11.0](https://github.com/vimeo/psalm/releases/tag/5.11.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
