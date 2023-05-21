@@ -12,19 +12,19 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [drupol/composer-local-repo-plugin](https://github.com/drupol/composer-local-repo-plugin) -  (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [fossar/composition-c4](https://github.com/fossar/composition-c4) - Fetch Composer dependencies using Nix (1 day ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 day ago)
-- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) -  (2 days ago)
-- [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (4 days ago)
-- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (4 days ago)
-- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (4 days ago)
-- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (4 days ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (5 days ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [fossar/composition-c4](https://github.com/fossar/composition-c4) - Fetch Composer dependencies using Nix (2 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (2 days ago)
+- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) -  (3 days ago)
+- [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (5 days ago)
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (5 days ago)
+- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (5 days ago)
+- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (5 days ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v6-1d46635](https://github.com/drupol/typst-gallery/releases/tag/v6-1d46635), 2 days ago) - 
+- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v6-1d46635](https://github.com/drupol/typst-gallery/releases/tag/v6-1d46635), 3 days ago) - 
 - [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) ([1.0.1](https://github.com/loophp/service-alias-autoregister-bundle/releases/tag/1.0.1), 1 week ago) - Auto register services aliases in the Symfony container.
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.6](https://github.com/loophp/psr17/releases/tag/1.0.6), 2 weeks ago) - Provides a PSR17 synthetic implementation.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.11.0](https://github.com/vimeo/psalm/releases/tag/5.11.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
