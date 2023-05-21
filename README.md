@@ -17,8 +17,8 @@ More about me on my blog: https://not-a-number.io/about/
 - [fossar/composition-c4](https://github.com/fossar/composition-c4) - Fetch Composer dependencies using Nix (2 days ago)
 - [drupol/typst-gallery](https://github.com/drupol/typst-gallery) -  (3 days ago)
 - [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (5 days ago)
-- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (5 days ago)
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (5 days ago)
+- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (5 days ago)
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (5 days ago)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (6 days ago)
 
