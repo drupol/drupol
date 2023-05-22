@@ -24,11 +24,11 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.12.0](https://github.com/vimeo/psalm/releases/tag/5.12.0), today) - A static analysis tool for finding errors in PHP applications
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.17.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0), today) - A tool to automatically fix PHP Coding Standards issues
 - [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v6-1d46635](https://github.com/drupol/typst-gallery/releases/tag/v6-1d46635), 4 days ago) - 
 - [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) ([1.0.1](https://github.com/loophp/service-alias-autoregister-bundle/releases/tag/1.0.1), 1 week ago) - Auto register services aliases in the Symfony container.
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.6](https://github.com/loophp/psr17/releases/tag/1.0.6), 2 weeks ago) - Provides a PSR17 synthetic implementation.
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.11.0](https://github.com/vimeo/psalm/releases/tag/5.11.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) ([1.0.5](https://github.com/ecphp/eu-login-api-authentication-bundle/releases/tag/1.0.5), 2 weeks ago) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol.
 - [cycle/orm](https://github.com/cycle/orm) ([v2.3.1](https://github.com/cycle/orm/releases/tag/v2.3.1), 3 weeks ago) - PHP DataMapper, ORM
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.17.2](https://github.com/Mic92/nix-update/releases/tag/0.17.2), 3 weeks ago) - Swiss-knife for updating nix packages.
