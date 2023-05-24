@@ -11,9 +11,9 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [drupol/composer-local-repo-plugin](https://github.com/drupol/composer-local-repo-plugin) -  (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (2 days ago)
-- [drupol/composer-local-repo-plugin](https://github.com/drupol/composer-local-repo-plugin) -  (2 days ago)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (2 days ago)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (2 days ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (2 days ago)
