@@ -11,7 +11,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (4 days ago)
 - [drupol/composer-local-repo-plugin](https://github.com/drupol/composer-local-repo-plugin) -  (4 days ago)
 - [drupol/typst-gallery](https://github.com/drupol/typst-gallery) -  (4 days ago)
