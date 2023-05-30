@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2023.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2023.1), today) - PHP runtime &amp; extensions header files for PhpStorm
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([4.0.0](https://github.com/ecphp/ecas/releases/tag/4.0.0), today) - CAS library to communicate with eCAS/EULogin
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([3.0.0](https://github.com/ecphp/cas-lib/releases/tag/3.0.0), today) - CAS Lib, a standard library for CAS authentication.
 - [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v7-8cc79f0](https://github.com/drupol/typst-gallery/releases/tag/v7-8cc79f0), 5 days ago) - 
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.6](https://github.com/loophp/psr17/releases/tag/1.0.6), 3 weeks ago) - Provides a PSR17 synthetic implementation.
 - [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) ([1.0.5](https://github.com/ecphp/eu-login-api-authentication-bundle/releases/tag/1.0.5), 3 weeks ago) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol.
 - [cycle/orm](https://github.com/cycle/orm) ([v2.3.1](https://github.com/cycle/orm/releases/tag/v2.3.1), 4 weeks ago) - PHP DataMapper, ORM
-- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.17.2](https://github.com/Mic92/nix-update/releases/tag/0.17.2), 1 month ago) - Swiss-knife for updating nix packages.
 
 I'm currently **available for remote work**, feel free to contact me.
 
