@@ -24,6 +24,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.18.0](https://github.com/Mic92/nix-update/releases/tag/0.18.0), today) - Swiss-knife for updating nix packages.
 - [loophp/tin](https://github.com/loophp/tin) ([1.1.1](https://github.com/loophp/tin/releases/tag/1.1.1), 2 days ago) - Taxpayer Identification Number (TIN) Validator
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2023.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2023.1), 3 days ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([4.0.0](https://github.com/ecphp/ecas/releases/tag/4.0.0), 3 days ago) - CAS library to communicate with eCAS/EULogin
@@ -33,7 +34,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.17.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) ([1.0.1](https://github.com/loophp/service-alias-autoregister-bundle/releases/tag/1.0.1), 2 weeks ago) - Auto register services aliases in the Symfony container.
 - [loophp/psr17](https://github.com/loophp/psr17) ([1.0.6](https://github.com/loophp/psr17/releases/tag/1.0.6), 4 weeks ago) - Provides a PSR17 synthetic implementation.
-- [ecphp/eu-login-api-authentication-bundle](https://github.com/ecphp/eu-login-api-authentication-bundle) ([1.0.5](https://github.com/ecphp/eu-login-api-authentication-bundle/releases/tag/1.0.5), 4 weeks ago) - EU Login API Authentication Bundle, authenticate requests from European Commission corporate service &#39;EU Login&#39; using OpenID Connect protocol.
 
 I'm currently **available for remote work**, feel free to contact me.
 
