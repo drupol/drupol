@@ -11,21 +11,21 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) -  (today)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 day ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (2 days ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (2 days ago)
-- [jbuchermn/guacamole-nixos](https://github.com/jbuchermn/guacamole-nixos) - Nix flake for Apache guacamole (3 days ago)
-- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (3 days ago)
-- [drupol/composer-local-repo-plugin](https://github.com/drupol/composer-local-repo-plugin) - A plugin for Composer that creates local repository of type `composer`. (5 days ago)
+- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) -  (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (2 days ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (3 days ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (3 days ago)
+- [jbuchermn/guacamole-nixos](https://github.com/jbuchermn/guacamole-nixos) - Nix flake for Apache guacamole (4 days ago)
+- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (4 days ago)
+- [drupol/composer-local-repo-plugin](https://github.com/drupol/composer-local-repo-plugin) - A plugin for Composer that creates local repository of type `composer`. (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v8-611e145](https://github.com/drupol/typst-gallery/releases/tag/v8-611e145), today) - 
-- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.18.0](https://github.com/Mic92/nix-update/releases/tag/0.18.0), 5 days ago) - Swiss-knife for updating nix packages.
+- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v8-611e145](https://github.com/drupol/typst-gallery/releases/tag/v8-611e145), 1 day ago) - 
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.18.0](https://github.com/Mic92/nix-update/releases/tag/0.18.0), 6 days ago) - Swiss-knife for updating nix packages.
 - [loophp/tin](https://github.com/loophp/tin) ([1.1.1](https://github.com/loophp/tin/releases/tag/1.1.1), 1 week ago) - Taxpayer Identification Number (TIN) Validator
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2023.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2023.1), 1 week ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([4.0.0](https://github.com/ecphp/ecas/releases/tag/4.0.0), 1 week ago) - CAS library to communicate with eCAS/EULogin
