@@ -4,6 +4,7 @@ Hi, I'm Pol Dellaiera.
 
 - 🔍 **Keywords**: analysis, algorithm, functional programming, mathematics, data structure;
 - 🎯 Focusing on **reliability**, **sustainability**, **eco-programming**;
+- ❤️ NixOS/nixpkgs [committer](https://github.com/orgs/NixOS/teams/nixpkgs-committers?query=drupol);
 - 🔓 Most of my **work** is open-source;
 - ⛏️ Former Drupal 6, 7, 8 contributor.
 
