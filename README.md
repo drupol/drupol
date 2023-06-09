@@ -25,13 +25,13 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) ([2.5.8](https://github.com/composer/composer/releases/tag/2.5.8), today) - Dependency Manager for PHP
 - [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v8-611e145](https://github.com/drupol/typst-gallery/releases/tag/v8-611e145), 2 days ago) - 
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.18.0](https://github.com/Mic92/nix-update/releases/tag/0.18.0), 1 week ago) - Swiss-knife for updating nix packages.
 - [loophp/tin](https://github.com/loophp/tin) ([1.1.1](https://github.com/loophp/tin/releases/tag/1.1.1), 1 week ago) - Taxpayer Identification Number (TIN) Validator
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2023.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2023.1), 1 week ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([4.0.0](https://github.com/ecphp/ecas/releases/tag/4.0.0), 1 week ago) - CAS library to communicate with eCAS/EULogin
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([3.0.0](https://github.com/ecphp/cas-lib/releases/tag/3.0.0), 1 week ago) - CAS Lib, a standard library for CAS authentication.
-- [composer/composer](https://github.com/composer/composer) ([2.5.7](https://github.com/composer/composer/releases/tag/2.5.7), 2 weeks ago) - Dependency Manager for PHP
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.12.0](https://github.com/vimeo/psalm/releases/tag/5.12.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.17.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0), 2 weeks ago) - A tool to automatically fix PHP Coding Standards issues
 - [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) ([1.0.1](https://github.com/loophp/service-alias-autoregister-bundle/releases/tag/1.0.1), 3 weeks ago) - Auto register services aliases in the Symfony container.
