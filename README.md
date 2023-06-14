@@ -12,23 +12,23 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 day ago)
-- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (1 day ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 day ago)
-- [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (4 days ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (6 days ago)
-- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) -  (6 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (2 days ago)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (2 days ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (2 days ago)
+- [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (5 days ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 week ago)
+- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) -  (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 week ago)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.5.8](https://github.com/composer/composer/releases/tag/2.5.8), 4 days ago) - Dependency Manager for PHP
-- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v8-611e145](https://github.com/drupol/typst-gallery/releases/tag/v8-611e145), 6 days ago) - 
+- [composer/composer](https://github.com/composer/composer) ([2.5.8](https://github.com/composer/composer/releases/tag/2.5.8), 5 days ago) - Dependency Manager for PHP
+- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v8-611e145](https://github.com/drupol/typst-gallery/releases/tag/v8-611e145), 1 week ago) - 
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.18.0](https://github.com/Mic92/nix-update/releases/tag/0.18.0), 1 week ago) - Swiss-knife for updating nix packages.
-- [loophp/tin](https://github.com/loophp/tin) ([1.1.1](https://github.com/loophp/tin/releases/tag/1.1.1), 1 week ago) - Taxpayer Identification Number (TIN) Validator
+- [loophp/tin](https://github.com/loophp/tin) ([1.1.1](https://github.com/loophp/tin/releases/tag/1.1.1), 2 weeks ago) - Taxpayer Identification Number (TIN) Validator
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2023.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2023.1), 2 weeks ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([4.0.0](https://github.com/ecphp/ecas/releases/tag/4.0.0), 2 weeks ago) - CAS library to communicate with eCAS/EULogin
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([3.0.0](https://github.com/ecphp/cas-lib/releases/tag/3.0.0), 2 weeks ago) - CAS Lib, a standard library for CAS authentication.
