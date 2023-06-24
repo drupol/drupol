@@ -25,7 +25,6 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.19.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.19.1), today) - A tool to automatically fix PHP Coding Standards issues
 - [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v9-13e6384](https://github.com/drupol/typst-gallery/releases/tag/v9-13e6384), 3 days ago) - 
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.16](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.16), 4 days ago) - Base PHP CS Fixer configurations.
 - [composer/composer](https://github.com/composer/composer) ([2.5.8](https://github.com/composer/composer/releases/tag/2.5.8), 2 weeks ago) - Dependency Manager for PHP
@@ -35,6 +34,7 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([4.0.0](https://github.com/ecphp/ecas/releases/tag/4.0.0), 3 weeks ago) - CAS library to communicate with eCAS/EULogin
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([3.0.0](https://github.com/ecphp/cas-lib/releases/tag/3.0.0), 3 weeks ago) - CAS Lib, a standard library for CAS authentication.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.12.0](https://github.com/vimeo/psalm/releases/tag/5.12.0), 1 month ago) - A static analysis tool for finding errors in PHP applications
+- [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) ([1.0.1](https://github.com/loophp/service-alias-autoregister-bundle/releases/tag/1.0.1), 1 month ago) - Auto register services aliases in the Symfony container.
 
 I'm currently **available for remote work**, feel free to contact me.
 
