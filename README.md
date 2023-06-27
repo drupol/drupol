@@ -25,7 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.13.0](https://github.com/vimeo/psalm/releases/tag/5.13.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.13.1](https://github.com/vimeo/psalm/releases/tag/5.13.1), today) - A static analysis tool for finding errors in PHP applications
 - [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v9-13e6384](https://github.com/drupol/typst-gallery/releases/tag/v9-13e6384), 6 days ago) - 
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.16](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.16), 1 week ago) - Base PHP CS Fixer configurations.
 - [composer/composer](https://github.com/composer/composer) ([2.5.8](https://github.com/composer/composer/releases/tag/2.5.8), 2 weeks ago) - Dependency Manager for PHP
