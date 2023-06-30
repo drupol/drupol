@@ -25,6 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.5](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.5), today) - Digitally sign PDF files from your commandline
 - [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v10-3ea5621](https://github.com/drupol/typst-gallery/releases/tag/v10-3ea5621), 2 days ago) - 
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.13.1](https://github.com/vimeo/psalm/releases/tag/5.13.1), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.16](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.16), 1 week ago) - Base PHP CS Fixer configurations.
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2023.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2023.1), 1 month ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([4.0.0](https://github.com/ecphp/ecas/releases/tag/4.0.0), 1 month ago) - CAS library to communicate with eCAS/EULogin
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([3.0.0](https://github.com/ecphp/cas-lib/releases/tag/3.0.0), 1 month ago) - CAS Lib, a standard library for CAS authentication.
-- [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle) ([1.0.1](https://github.com/loophp/service-alias-autoregister-bundle/releases/tag/1.0.1), 1 month ago) - Auto register services aliases in the Symfony container.
 
 I'm currently **available for remote work**, feel free to contact me.
 
