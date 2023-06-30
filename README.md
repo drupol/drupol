@@ -15,7 +15,7 @@ More about me on my blog: https://not-a-number.io/about/
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (2 days ago)
+- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 day ago)
 - [drupol/typst-gallery](https://github.com/drupol/typst-gallery) -  (2 days ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
 - [drupol/phpcsfixer-configs-drupal](https://github.com/drupol/phpcsfixer-configs-drupal) - Base PHP CS Fixer configurations for Drupal 7 and 8. (2 days ago)
