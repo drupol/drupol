@@ -12,22 +12,22 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
-- [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 day ago)
-- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) -  (2 days ago)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
-- [drupol/phpcsfixer-configs-drupal](https://github.com/drupol/phpcsfixer-configs-drupal) - Base PHP CS Fixer configurations for Drupal 7 and 8. (2 days ago)
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (3 days ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (4 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
+- [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org (1 day ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (2 days ago)
+- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) -  (3 days ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (3 days ago)
+- [drupol/phpcsfixer-configs-drupal](https://github.com/drupol/phpcsfixer-configs-drupal) - Base PHP CS Fixer configurations for Drupal 7 and 8. (3 days ago)
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (4 days ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (5 days ago)
 - [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash` (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.5](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.5), today) - Digitally sign PDF files from your commandline
-- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v10-3ea5621](https://github.com/drupol/typst-gallery/releases/tag/v10-3ea5621), 2 days ago) - 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.13.1](https://github.com/vimeo/psalm/releases/tag/5.13.1), 3 days ago) - A static analysis tool for finding errors in PHP applications
+- [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.5](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.5), 1 day ago) - Digitally sign PDF files from your commandline
+- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v10-3ea5621](https://github.com/drupol/typst-gallery/releases/tag/v10-3ea5621), 3 days ago) - 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.13.1](https://github.com/vimeo/psalm/releases/tag/5.13.1), 4 days ago) - A static analysis tool for finding errors in PHP applications
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.16](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.16), 1 week ago) - Base PHP CS Fixer configurations.
 - [composer/composer](https://github.com/composer/composer) ([2.5.8](https://github.com/composer/composer/releases/tag/2.5.8), 3 weeks ago) - Dependency Manager for PHP
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.18.0](https://github.com/Mic92/nix-update/releases/tag/0.18.0), 4 weeks ago) - Swiss-knife for updating nix packages.
