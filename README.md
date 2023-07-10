@@ -12,21 +12,21 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (today)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
-- [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org (today)
-- [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) - Iterable assertions for PHPUnit (2 days ago)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (3 days ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (6 days ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (6 days ago)
-- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (6 days ago)
+- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
+- [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org (1 day ago)
+- [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) - Iterable assertions for PHPUnit (3 days ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (4 days ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 week ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 week ago)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 week ago)
 - [drupol/phpcsfixer-configs-drupal](https://github.com/drupol/phpcsfixer-configs-drupal) - Base PHP CS Fixer configurations for Drupal 7 and 8. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) ([v1.2.1](https://github.com/MercuryTechnologies/nix-your-shell/releases/tag/v1.2.1), 3 days ago) - A `nix` and `nix-shell` wrapper for shells other than `bash`
-- [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.2.0](https://github.com/platformer/typst-algorithms/releases/tag/v0.2.0), 5 days ago) - 
+- [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) ([v1.2.1](https://github.com/MercuryTechnologies/nix-your-shell/releases/tag/v1.2.1), 4 days ago) - A `nix` and `nix-shell` wrapper for shells other than `bash`
+- [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.2.0](https://github.com/platformer/typst-algorithms/releases/tag/v0.2.0), 6 days ago) - 
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.5](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.5), 1 week ago) - Digitally sign PDF files from your commandline
 - [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v10-3ea5621](https://github.com/drupol/typst-gallery/releases/tag/v10-3ea5621), 1 week ago) - 
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.13.1](https://github.com/vimeo/psalm/releases/tag/5.13.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
