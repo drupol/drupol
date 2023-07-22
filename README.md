@@ -31,10 +31,10 @@ More about me on my blog: https://not-a-number.io/about/
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.2.0](https://github.com/platformer/typst-algorithms/releases/tag/v0.2.0), 2 weeks ago) - 
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.5](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.5), 3 weeks ago) - Digitally sign PDF files from your commandline
 - [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v10-3ea5621](https://github.com/drupol/typst-gallery/releases/tag/v10-3ea5621), 3 weeks ago) - 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.13.1](https://github.com/vimeo/psalm/releases/tag/5.13.1), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [composer/composer](https://github.com/composer/composer) ([2.5.8](https://github.com/composer/composer/releases/tag/2.5.8), 1 month ago) - Dependency Manager for PHP
 - [loophp/tin](https://github.com/loophp/tin) ([1.1.1](https://github.com/loophp/tin/releases/tag/1.1.1), 1 month ago) - Taxpayer Identification Number (TIN) Validator
 - [ecphp/ecas](https://github.com/ecphp/ecas) ([4.0.0](https://github.com/ecphp/ecas/releases/tag/4.0.0), 1 month ago) - CAS library to communicate with eCAS/EULogin
+- [ecphp/cas-lib](https://github.com/ecphp/cas-lib) ([3.0.0](https://github.com/ecphp/cas-lib/releases/tag/3.0.0), 1 month ago) - CAS Lib, a standard library for CAS authentication.
 
 I'm currently **available for remote work**, feel free to contact me.
 
