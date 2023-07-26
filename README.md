@@ -25,6 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux) ([v0.2.0](https://github.com/andreasKroepelin/polylux/releases/tag/v0.2.0), today) - A package for creating slides in Typst
 - [psr7-sessions/storageless](https://github.com/psr7-sessions/storageless) ([9.0.1](https://github.com/psr7-sessions/storageless/releases/tag/9.0.1), today) - :mailbox_with_mail: storage-less PSR-7 session support
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.19](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.19), 5 days ago) - Base PHP CS Fixer configurations.
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.19.0](https://github.com/Mic92/nix-update/releases/tag/0.19.0), 2 weeks ago) - Swiss-knife for updating nix packages.
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v10-3ea5621](https://github.com/drupol/typst-gallery/releases/tag/v10-3ea5621), 4 weeks ago) - 
 - [composer/composer](https://github.com/composer/composer) ([2.5.8](https://github.com/composer/composer/releases/tag/2.5.8), 1 month ago) - Dependency Manager for PHP
 - [loophp/tin](https://github.com/loophp/tin) ([1.1.1](https://github.com/loophp/tin/releases/tag/1.1.1), 1 month ago) - Taxpayer Identification Number (TIN) Validator
-- [ecphp/ecas](https://github.com/ecphp/ecas) ([4.0.0](https://github.com/ecphp/ecas/releases/tag/4.0.0), 1 month ago) - CAS library to communicate with eCAS/EULogin
 
 I'm currently **available for remote work**, feel free to contact me.
 
