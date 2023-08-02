@@ -25,7 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.19.1](https://github.com/Mic92/nix-update/releases/tag/0.19.1), today) - Swiss-knife for updating nix packages.
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.19.2](https://github.com/Mic92/nix-update/releases/tag/0.19.2), today) - Swiss-knife for updating nix packages.
 - [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) ([v1.3.0](https://github.com/MercuryTechnologies/nix-your-shell/releases/tag/v1.3.0), 1 day ago) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux) ([v0.2.0](https://github.com/andreasKroepelin/polylux/releases/tag/v0.2.0), 1 week ago) - A package for creating slides in Typst
 - [psr7-sessions/storageless](https://github.com/psr7-sessions/storageless) ([9.0.1](https://github.com/psr7-sessions/storageless/releases/tag/9.0.1), 1 week ago) - :mailbox_with_mail: storage-less PSR-7 session support
