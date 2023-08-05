@@ -12,10 +12,10 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/composer-local-repo-plugin](https://github.com/drupol/composer-local-repo-plugin) - A plugin for Composer that creates local repository of type `composer`. (today)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects (today)
+- [drupol/composer-local-repo-plugin](https://github.com/drupol/composer-local-repo-plugin) - A plugin for Composer that creates local repository of type `composer`. (today)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (2 days ago)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (5 days ago)
