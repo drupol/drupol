@@ -12,22 +12,22 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
-- [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects (today)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
-- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 day ago)
-- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (2 days ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (2 days ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (2 days ago)
-- [loophp/typed-generators](https://github.com/loophp/typed-generators) - Generate random typed values and in any shape. (3 days ago)
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (3 days ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
+- [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
+- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (2 days ago)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (3 days ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (3 days ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (3 days ago)
+- [loophp/typed-generators](https://github.com/loophp/typed-generators) - Generate random typed values and in any shape. (4 days ago)
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.3.0](https://github.com/platformer/typst-algorithms/releases/tag/v0.3.0), 1 day ago) - 
-- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.19.3](https://github.com/Mic92/nix-update/releases/tag/0.19.3), 3 days ago) - Swiss-knife for updating nix packages.
-- [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.6](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.6), 3 days ago) - Digitally sign PDF files from your commandline
+- [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.3.0](https://github.com/platformer/typst-algorithms/releases/tag/v0.3.0), 2 days ago) - 
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.19.3](https://github.com/Mic92/nix-update/releases/tag/0.19.3), 4 days ago) - Swiss-knife for updating nix packages.
+- [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.6](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.6), 4 days ago) - Digitally sign PDF files from your commandline
 - [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) ([v1.3.0](https://github.com/MercuryTechnologies/nix-your-shell/releases/tag/v1.3.0), 1 week ago) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux) ([v0.2.0](https://github.com/andreasKroepelin/polylux/releases/tag/v0.2.0), 2 weeks ago) - A package for creating slides in Typst
 - [psr7-sessions/storageless](https://github.com/psr7-sessions/storageless) ([9.0.1](https://github.com/psr7-sessions/storageless/releases/tag/9.0.1), 2 weeks ago) - :mailbox_with_mail: storage-less PSR-7 session support
