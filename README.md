@@ -25,6 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [loophp/collection](https://github.com/loophp/collection) ([7.2.0](https://github.com/loophp/collection/releases/tag/7.2.0), today) - A (memory) friendly, easy, lazy and modular collection class.
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.3.0](https://github.com/platformer/typst-algorithms/releases/tag/v0.3.0), 3 days ago) - 
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.19.3](https://github.com/Mic92/nix-update/releases/tag/0.19.3), 5 days ago) - Swiss-knife for updating nix packages.
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.6](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.6), 5 days ago) - Digitally sign PDF files from your commandline
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.19](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.19), 3 weeks ago) - Base PHP CS Fixer configurations.
 - [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v10-3ea5621](https://github.com/drupol/typst-gallery/releases/tag/v10-3ea5621), 1 month ago) - 
 - [composer/composer](https://github.com/composer/composer) ([2.5.8](https://github.com/composer/composer/releases/tag/2.5.8), 2 months ago) - Dependency Manager for PHP
-- [loophp/tin](https://github.com/loophp/tin) ([1.1.1](https://github.com/loophp/tin/releases/tag/1.1.1), 2 months ago) - Taxpayer Identification Number (TIN) Validator
 
 I'm currently **available for remote work**, feel free to contact me.
 
