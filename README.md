@@ -12,19 +12,20 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (today)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (today)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
+- [sebabal1/projet_lrs](https://github.com/sebabal1/projet_lrs) -  (today)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (today)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (3 days ago)
 - [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects (5 days ago)
-- [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.0-rc.2](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.0-rc.2), today) - Documentation Generator for PHP 
 - [loophp/collection](https://github.com/loophp/collection) ([7.2.0](https://github.com/loophp/collection/releases/tag/7.2.0), 3 days ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.3.0](https://github.com/platformer/typst-algorithms/releases/tag/v0.3.0), 6 days ago) - 
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.19.3](https://github.com/Mic92/nix-update/releases/tag/0.19.3), 1 week ago) - Swiss-knife for updating nix packages.
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [psr7-sessions/storageless](https://github.com/psr7-sessions/storageless) ([9.0.1](https://github.com/psr7-sessions/storageless/releases/tag/9.0.1), 2 weeks ago) - :mailbox_with_mail: storage-less PSR-7 session support
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.19](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.19), 3 weeks ago) - Base PHP CS Fixer configurations.
 - [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v10-3ea5621](https://github.com/drupol/typst-gallery/releases/tag/v10-3ea5621), 1 month ago) - 
-- [composer/composer](https://github.com/composer/composer) ([2.5.8](https://github.com/composer/composer/releases/tag/2.5.8), 2 months ago) - Dependency Manager for PHP
 
 I'm currently **available for remote work**, feel free to contact me.
 
