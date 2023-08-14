@@ -12,16 +12,16 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (today)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (today)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (3 days ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (3 days ago)
-- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (3 days ago)
 - [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects (5 days ago)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (6 days ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 week ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
