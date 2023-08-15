@@ -25,7 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.0-rc.2](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.0-rc.2), 1 day ago) - Documentation Generator for PHP 
+- [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.0](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.0), today) - Documentation Generator for PHP 
 - [loophp/collection](https://github.com/loophp/collection) ([7.2.0](https://github.com/loophp/collection/releases/tag/7.2.0), 4 days ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.3.0](https://github.com/platformer/typst-algorithms/releases/tag/v0.3.0), 1 week ago) - 
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.19.3](https://github.com/Mic92/nix-update/releases/tag/0.19.3), 1 week ago) - Swiss-knife for updating nix packages.
