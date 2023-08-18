@@ -25,6 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.3.0](https://github.com/marcosh/lamphpda/releases/tag/v1.3.0), today) - A collection of type-safe functional data structures
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.3.1](https://github.com/platformer/typst-algorithms/releases/tag/v0.3.1), today) - 
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.0](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.0), 3 days ago) - Documentation Generator for PHP 
 - [loophp/collection](https://github.com/loophp/collection) ([7.2.0](https://github.com/loophp/collection/releases/tag/7.2.0), 1 week ago) - A (memory) friendly, easy, lazy and modular collection class.
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux) ([v0.2.0](https://github.com/andreasKroepelin/polylux/releases/tag/v0.2.0), 3 weeks ago) - A package for creating slides in Typst
 - [psr7-sessions/storageless](https://github.com/psr7-sessions/storageless) ([9.0.1](https://github.com/psr7-sessions/storageless/releases/tag/9.0.1), 3 weeks ago) - :mailbox_with_mail: storage-less PSR-7 session support
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.19](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.19), 4 weeks ago) - Base PHP CS Fixer configurations.
-- [drupol/typst-gallery](https://github.com/drupol/typst-gallery) ([v10-3ea5621](https://github.com/drupol/typst-gallery/releases/tag/v10-3ea5621), 1 month ago) - 
 
 I'm currently **available for remote work**, feel free to contact me.
 
