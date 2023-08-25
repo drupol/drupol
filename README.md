@@ -25,9 +25,9 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.1](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.1), today) - Documentation Generator for PHP 
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.3.0](https://github.com/marcosh/lamphpda/releases/tag/v1.3.0), 1 week ago) - A collection of type-safe functional data structures
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.3.1](https://github.com/platformer/typst-algorithms/releases/tag/v0.3.1), 1 week ago) - 
-- [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.0](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.0), 1 week ago) - Documentation Generator for PHP 
 - [loophp/collection](https://github.com/loophp/collection) ([7.2.0](https://github.com/loophp/collection/releases/tag/7.2.0), 2 weeks ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.19.3](https://github.com/Mic92/nix-update/releases/tag/0.19.3), 2 weeks ago) - Swiss-knife for updating nix packages.
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.6](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.6), 2 weeks ago) - Digitally sign PDF files from your commandline
