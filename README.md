@@ -13,6 +13,7 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
 - [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects (today)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (3 days ago)
@@ -21,7 +22,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 weeks ago)
 - [sebabal1/projet_lrs](https://github.com/sebabal1/projet_lrs) -  (2 weeks ago)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (2 weeks ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
