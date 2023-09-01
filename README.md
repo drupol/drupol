@@ -12,8 +12,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
 - [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects (1 day ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (4 days ago)
@@ -25,7 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.6.0](https://github.com/composer/composer/releases/tag/2.6.0), today) - Dependency Manager for PHP
+- [composer/composer](https://github.com/composer/composer) ([2.6.1](https://github.com/composer/composer/releases/tag/2.6.1), today) - Dependency Manager for PHP
 - [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux) ([v0.3.1](https://github.com/andreasKroepelin/polylux/releases/tag/v0.3.1), 4 days ago) - A package for creating slides in Typst
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.3.2](https://github.com/platformer/typst-algorithms/releases/tag/v0.3.2), 5 days ago) - 
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.1](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.1), 1 week ago) - Documentation Generator for PHP 
