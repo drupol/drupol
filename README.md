@@ -14,8 +14,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects (today)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (5 days ago)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (5 days ago)
@@ -25,7 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [netz98/n98-magerun](https://github.com/netz98/n98-magerun) ([nixpkg-develop](https://github.com/netz98/n98-magerun/releases/tag/nixpkg-develop), 1 day ago) - The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work time. All commands are extendable by a module API.
+- [netz98/n98-magerun](https://github.com/netz98/n98-magerun) ([1.97.14](https://github.com/netz98/n98-magerun/releases/tag/1.97.14), 1 day ago) - The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work time. All commands are extendable by a module API.
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.3.5](https://github.com/loophp/iterators/releases/tag/2.3.5), 1 day ago) - The missing PHP iterators.
 - [openeuropa/epoetry-client](https://github.com/openeuropa/epoetry-client) ([2.0.0-alpha1](https://github.com/openeuropa/epoetry-client/releases/tag/2.0.0-alpha1), 1 day ago) - PHP client for the ePoetry service.
 - [composer/composer](https://github.com/composer/composer) ([2.6.1](https://github.com/composer/composer/releases/tag/2.6.1), 1 day ago) - Dependency Manager for PHP
