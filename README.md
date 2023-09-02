@@ -12,25 +12,25 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
-- [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects (1 day ago)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
-- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (4 days ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (4 days ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (4 days ago)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
+- [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects (2 days ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (2 days ago)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (5 days ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (5 days ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (5 days ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 weeks ago)
 - [sebabal1/projet_lrs](https://github.com/sebabal1/projet_lrs) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [netz98/n98-magerun](https://github.com/netz98/n98-magerun) ([nixpkg-develop](https://github.com/netz98/n98-magerun/releases/tag/nixpkg-develop), today) - The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work time. All commands are extendable by a module API.
-- [loophp/iterators](https://github.com/loophp/iterators) ([2.3.5](https://github.com/loophp/iterators/releases/tag/2.3.5), today) - The missing PHP iterators.
-- [openeuropa/epoetry-client](https://github.com/openeuropa/epoetry-client) ([2.0.0-alpha1](https://github.com/openeuropa/epoetry-client/releases/tag/2.0.0-alpha1), today) - PHP client for the ePoetry service.
-- [composer/composer](https://github.com/composer/composer) ([2.6.1](https://github.com/composer/composer/releases/tag/2.6.1), today) - Dependency Manager for PHP
-- [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux) ([v0.3.1](https://github.com/andreasKroepelin/polylux/releases/tag/v0.3.1), 4 days ago) - A package for creating slides in Typst
-- [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.3.2](https://github.com/platformer/typst-algorithms/releases/tag/v0.3.2), 5 days ago) - 
+- [netz98/n98-magerun](https://github.com/netz98/n98-magerun) ([nixpkg-develop](https://github.com/netz98/n98-magerun/releases/tag/nixpkg-develop), 1 day ago) - The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work time. All commands are extendable by a module API.
+- [loophp/iterators](https://github.com/loophp/iterators) ([2.3.5](https://github.com/loophp/iterators/releases/tag/2.3.5), 1 day ago) - The missing PHP iterators.
+- [openeuropa/epoetry-client](https://github.com/openeuropa/epoetry-client) ([2.0.0-alpha1](https://github.com/openeuropa/epoetry-client/releases/tag/2.0.0-alpha1), 1 day ago) - PHP client for the ePoetry service.
+- [composer/composer](https://github.com/composer/composer) ([2.6.1](https://github.com/composer/composer/releases/tag/2.6.1), 1 day ago) - Dependency Manager for PHP
+- [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux) ([v0.3.1](https://github.com/andreasKroepelin/polylux/releases/tag/v0.3.1), 5 days ago) - A package for creating slides in Typst
+- [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.3.2](https://github.com/platformer/typst-algorithms/releases/tag/v0.3.2), 6 days ago) - 
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.1](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.1), 1 week ago) - Documentation Generator for PHP 
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.3.0](https://github.com/marcosh/lamphpda/releases/tag/v1.3.0), 2 weeks ago) - A collection of type-safe functional data structures
 - [loophp/collection](https://github.com/loophp/collection) ([7.2.0](https://github.com/loophp/collection/releases/tag/7.2.0), 3 weeks ago) - A (memory) friendly, easy, lazy and modular collection class.
