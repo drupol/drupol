@@ -12,15 +12,15 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects (today)
 - [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) - CNS Client - Corporate Notification Service Client (today)
+- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (today)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
-- [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (1 day ago)
-- [loophp/nix-sphinx](https://github.com/loophp/nix-sphinx) - A Nix flake to generate a project&#39;s documentation using Sphinx, without worries. (1 day ago)
+- [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects (today)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 day ago)
 - [drupol/yaroc](https://github.com/drupol/yaroc) - YAROC: Yet Another Random.Org Client. (1 day ago)
 - [loophp/typed-generators](https://github.com/loophp/typed-generators) - Generate random typed values and in any shape. (1 day ago)
+- [loophp/nix-sphinx](https://github.com/loophp/nix-sphinx) - A Nix flake to generate a project&#39;s documentation using Sphinx, without worries. (1 day ago)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 day ago)
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
