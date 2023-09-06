@@ -12,11 +12,11 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
+- [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects (today)
 - [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) - CNS Client - Corporate Notification Service Client (today)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
 - [ecphp/ecas](https://github.com/ecphp/ecas) - CAS library to communicate with eCAS/EULogin (1 day ago)
-- [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects (1 day ago)
-- [loophp/nix-prettier](https://github.com/loophp/nix-prettier) - A Nix flake to run Prettier in a project without worries. (1 day ago)
+- [loophp/nix-sphinx](https://github.com/loophp/nix-sphinx) - A Nix flake to generate a project&#39;s documentation using Sphinx, without worries. (1 day ago)
 - [drupol/yaroc](https://github.com/drupol/yaroc) - YAROC: Yet Another Random.Org Client. (1 day ago)
 - [loophp/typed-generators](https://github.com/loophp/typed-generators) - Generate random typed values and in any shape. (1 day ago)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
@@ -25,6 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) ([1.0.2](https://github.com/ecphp/cns-client-bundle/releases/tag/1.0.2), today) - CNS Client - Corporate Notification Service Client
 - [loophp/collection](https://github.com/loophp/collection) ([7.2.1](https://github.com/loophp/collection/releases/tag/7.2.1), today) - A (memory) friendly, easy, lazy and modular collection class.
 - [composer/composer](https://github.com/composer/composer) ([2.6.2](https://github.com/composer/composer/releases/tag/2.6.2), 3 days ago) - Dependency Manager for PHP
 - [netz98/n98-magerun](https://github.com/netz98/n98-magerun) ([1.97.14](https://github.com/netz98/n98-magerun/releases/tag/1.97.14), 5 days ago) - The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work time. All commands are extendable by a module API.
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.3.2](https://github.com/platformer/typst-algorithms/releases/tag/v0.3.2), 1 week ago) - 
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.1](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.1), 1 week ago) - Documentation Generator for PHP 
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.3.0](https://github.com/marcosh/lamphpda/releases/tag/v1.3.0), 2 weeks ago) - A collection of type-safe functional data structures
-- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([0.19.3](https://github.com/Mic92/nix-update/releases/tag/0.19.3), 1 month ago) - Swiss-knife for updating nix packages.
 
 I'm currently **available for remote work**, feel free to contact me.
 
