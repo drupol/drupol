@@ -25,6 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [nix-community/composer-local-repo-plugin](https://github.com/nix-community/composer-local-repo-plugin) ([1.0.0](https://github.com/nix-community/composer-local-repo-plugin/releases/tag/1.0.0), today) - A plugin for Composer that creates local repository of type `composer`. [maintainer=@drupol]
 - [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) ([1.0.2](https://github.com/ecphp/cns-client-bundle/releases/tag/1.0.2), 4 days ago) - CNS Client - Corporate Notification Service Client
 - [loophp/collection](https://github.com/loophp/collection) ([7.2.1](https://github.com/loophp/collection/releases/tag/7.2.1), 4 days ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [composer/composer](https://github.com/composer/composer) ([2.6.2](https://github.com/composer/composer/releases/tag/2.6.2), 1 week ago) - Dependency Manager for PHP
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux) ([v0.3.1](https://github.com/andreasKroepelin/polylux/releases/tag/v0.3.1), 1 week ago) - A package for creating slides in Typst
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.3.2](https://github.com/platformer/typst-algorithms/releases/tag/v0.3.2), 2 weeks ago) - 
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.1](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.1), 2 weeks ago) - Documentation Generator for PHP 
-- [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.3.0](https://github.com/marcosh/lamphpda/releases/tag/v1.3.0), 3 weeks ago) - A collection of type-safe functional data structures
 
 I'm currently **available for remote work**, feel free to contact me.
 
