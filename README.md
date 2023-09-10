@@ -12,16 +12,16 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [drupol/composer-local-repo-plugin](https://github.com/drupol/composer-local-repo-plugin) - A plugin for Composer that creates local repository of type `composer`. (today)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [nix-community/composer-local-repo-plugin](https://github.com/nix-community/composer-local-repo-plugin) - A plugin for Composer that creates local repository of type `composer`. [maintainer=@drupol] (today)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
+- [drupol/composer-local-repo-plugin](https://github.com/drupol/composer-local-repo-plugin) - A plugin for Composer that creates local repository of type `composer`. (today)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (4 days ago)
 - [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects (4 days ago)
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (4 days ago)
 - [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) - CNS Client - Corporate Notification Service Client (4 days ago)
+- [ecphp/laravel-ecas](https://github.com/ecphp/laravel-ecas) - A bundle for Laravel, providing authentication against eCas, the Central Authentication Service server of European Commission. (5 days ago)
 - [drupol/yaroc](https://github.com/drupol/yaroc) - YAROC: Yet Another Random.Org Client. (5 days ago)
-- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
