@@ -12,16 +12,16 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (today)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
 - [nix-community/composer-local-repo-plugin](https://github.com/nix-community/composer-local-repo-plugin) - A plugin for Composer that creates local repository of type `composer`. [maintainer=@drupol] (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
 - [drupol/composer-local-repo-plugin](https://github.com/drupol/composer-local-repo-plugin) - A plugin for Composer that creates local repository of type `composer`. (1 day ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (5 days ago)
-- [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects (5 days ago)
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (5 days ago)
 - [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) - CNS Client - Corporate Notification Service Client (5 days ago)
-- [ecphp/laravel-ecas](https://github.com/ecphp/laravel-ecas) - A bundle for Laravel, providing authentication against eCas, the Central Authentication Service server of European Commission. (6 days ago)
-- [drupol/yaroc](https://github.com/drupol/yaroc) - YAROC: Yet Another Random.Org Client. (6 days ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
