@@ -12,22 +12,22 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (today)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (today)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (today)
-- [nix-community/composer-local-repo-plugin](https://github.com/nix-community/composer-local-repo-plugin) - A plugin for Composer that creates local repository of type `composer`. [maintainer=@drupol] (1 day ago)
-- [drupol/composer-local-repo-plugin](https://github.com/drupol/composer-local-repo-plugin) - A plugin for Composer that creates local repository of type `composer`. (1 day ago)
-- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (5 days ago)
-- [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) - CNS Client - Corporate Notification Service Client (5 days ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (5 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (1 day ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 day ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 day ago)
+- [nix-community/composer-local-repo-plugin](https://github.com/nix-community/composer-local-repo-plugin) - A plugin for Composer that creates local repository of type `composer`. [maintainer=@drupol] (2 days ago)
+- [drupol/composer-local-repo-plugin](https://github.com/drupol/composer-local-repo-plugin) - A plugin for Composer that creates local repository of type `composer`. (2 days ago)
+- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (6 days ago)
+- [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) - CNS Client - Corporate Notification Service Client (6 days ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [nix-community/composer-local-repo-plugin](https://github.com/nix-community/composer-local-repo-plugin) ([1.0.0](https://github.com/nix-community/composer-local-repo-plugin/releases/tag/1.0.0), 1 day ago) - A plugin for Composer that creates local repository of type `composer`. [maintainer=@drupol]
-- [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) ([1.0.2](https://github.com/ecphp/cns-client-bundle/releases/tag/1.0.2), 5 days ago) - CNS Client - Corporate Notification Service Client
-- [loophp/collection](https://github.com/loophp/collection) ([7.2.1](https://github.com/loophp/collection/releases/tag/7.2.1), 5 days ago) - A (memory) friendly, easy, lazy and modular collection class.
+- [nix-community/composer-local-repo-plugin](https://github.com/nix-community/composer-local-repo-plugin) ([1.0.0](https://github.com/nix-community/composer-local-repo-plugin/releases/tag/1.0.0), 2 days ago) - A plugin for Composer that creates local repository of type `composer`. [maintainer=@drupol]
+- [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) ([1.0.2](https://github.com/ecphp/cns-client-bundle/releases/tag/1.0.2), 6 days ago) - CNS Client - Corporate Notification Service Client
+- [loophp/collection](https://github.com/loophp/collection) ([7.2.1](https://github.com/loophp/collection/releases/tag/7.2.1), 6 days ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [composer/composer](https://github.com/composer/composer) ([2.6.2](https://github.com/composer/composer/releases/tag/2.6.2), 1 week ago) - Dependency Manager for PHP
 - [netz98/n98-magerun](https://github.com/netz98/n98-magerun) ([1.97.14](https://github.com/netz98/n98-magerun/releases/tag/1.97.14), 1 week ago) - The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work time. All commands are extendable by a module API.
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.3.5](https://github.com/loophp/iterators/releases/tag/2.3.5), 1 week ago) - The missing PHP iterators.
