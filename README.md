@@ -12,14 +12,14 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [loophp/php-src-nix](https://github.com/loophp/php-src-nix) - PHP builds for Nix, with Nix. (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (2 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 days ago)
 - [nix-community/composer-local-repo-plugin](https://github.com/nix-community/composer-local-repo-plugin) - A plugin for Composer that creates local repository of type `composer`. [maintainer=@drupol] (2 days ago)
 - [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects (2 days ago)
-- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (5 days ago)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (5 days ago)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (5 days ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (5 days ago)
-- [loophp/php-src-nix](https://github.com/loophp/php-src-nix) - PHP builds for Nix, with Nix. (5 days ago)
 - [ecphp/cas-demo-slim](https://github.com/ecphp/cas-demo-slim) - Basic PHP application with authentication enabled at European Commission (1 week ago)
 - [drupol/composer-local-repo-plugin](https://github.com/drupol/composer-local-repo-plugin) - A plugin for Composer that creates local repository of type `composer`. (1 week ago)
 
