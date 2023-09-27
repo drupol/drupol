@@ -25,7 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.4.0](https://github.com/marcosh/lamphpda/releases/tag/v1.4.0), today) - A collection of type-safe functional data structures
+- [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v3.0.0](https://github.com/marcosh/lamphpda/releases/tag/v3.0.0), today) - A collection of type-safe functional data structures
 - [nix-community/composer-local-repo-plugin](https://github.com/nix-community/composer-local-repo-plugin) ([1.0.3](https://github.com/nix-community/composer-local-repo-plugin/releases/tag/1.0.3), 6 days ago) - A plugin for Composer that creates local repository of type `composer`. [maintainer=@drupol]
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.3.3](https://github.com/platformer/typst-algorithms/releases/tag/v0.3.3), 6 days ago) - 
 - [composer/composer](https://github.com/composer/composer) ([2.6.3](https://github.com/composer/composer/releases/tag/2.6.3), 1 week ago) - Dependency Manager for PHP
