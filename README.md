@@ -25,7 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.5.0](https://github.com/marcosh/lamphpda/releases/tag/v1.5.0), today) - A collection of type-safe functional data structures
+- [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v3.0.0](https://github.com/marcosh/lamphpda/releases/tag/v3.0.0), today) - A collection of type-safe functional data structures
 - [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) ([1.0.3](https://github.com/ecphp/cns-client-bundle/releases/tag/1.0.3), today) - CNS Client - Corporate Notification Service Client
 - [nix-community/composer-local-repo-plugin](https://github.com/nix-community/composer-local-repo-plugin) ([1.0.3](https://github.com/nix-community/composer-local-repo-plugin/releases/tag/1.0.3), 6 days ago) - A plugin for Composer that creates local repository of type `composer`. [maintainer=@drupol]
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.3.3](https://github.com/platformer/typst-algorithms/releases/tag/v0.3.3), 6 days ago) - 
