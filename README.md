@@ -25,6 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.4.0](https://github.com/marcosh/lamphpda/releases/tag/v1.4.0), today) - A collection of type-safe functional data structures
 - [nix-community/composer-local-repo-plugin](https://github.com/nix-community/composer-local-repo-plugin) ([1.0.3](https://github.com/nix-community/composer-local-repo-plugin/releases/tag/1.0.3), 6 days ago) - A plugin for Composer that creates local repository of type `composer`. [maintainer=@drupol]
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.3.3](https://github.com/platformer/typst-algorithms/releases/tag/v0.3.3), 6 days ago) - 
 - [composer/composer](https://github.com/composer/composer) ([2.6.3](https://github.com/composer/composer/releases/tag/2.6.3), 1 week ago) - Dependency Manager for PHP
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.3.5](https://github.com/loophp/iterators/releases/tag/2.3.5), 3 weeks ago) - The missing PHP iterators.
 - [openeuropa/epoetry-client](https://github.com/openeuropa/epoetry-client) ([2.0.0-alpha1](https://github.com/openeuropa/epoetry-client/releases/tag/2.0.0-alpha1), 3 weeks ago) - PHP client for the ePoetry service.
 - [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux) ([v0.3.1](https://github.com/andreasKroepelin/polylux/releases/tag/v0.3.1), 1 month ago) - A package for creating slides in Typst
-- [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.1](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.1), 1 month ago) - Documentation Generator for PHP 
 
 I'm currently **available for remote work**, feel free to contact me.
 
