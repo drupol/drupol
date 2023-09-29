@@ -13,10 +13,10 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [loophp/composer-strip-nondeterminism](https://github.com/loophp/composer-strip-nondeterminism) - A plugin for Composer for stripping non-deterministic information such as timestamps from vendor directory. [maintainer=@drupol] (today)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 day ago)
 - [loophp/php-src-nix](https://github.com/loophp/php-src-nix) - PHP builds for Nix, with Nix. (1 day ago)
 - [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) - CNS Client - Corporate Notification Service Client (2 days ago)
