@@ -25,6 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([1.0.0](https://github.com/Mic92/nix-update/releases/tag/1.0.0), today) - Swiss-knife for updating nix packages.
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.4.0](https://github.com/loophp/iterators/releases/tag/2.4.0), 1 day ago) - The missing PHP iterators.
 - [composer/composer](https://github.com/composer/composer) ([2.6.4](https://github.com/composer/composer/releases/tag/2.6.4), 1 day ago) - Dependency Manager for PHP
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.4.1](https://github.com/marcosh/lamphpda/releases/tag/v1.4.1), 2 days ago) - A collection of type-safe functional data structures
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/collection](https://github.com/loophp/collection) ([7.2.1](https://github.com/loophp/collection/releases/tag/7.2.1), 3 weeks ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [netz98/n98-magerun](https://github.com/netz98/n98-magerun) ([1.97.14](https://github.com/netz98/n98-magerun/releases/tag/1.97.14), 4 weeks ago) - The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work time. All commands are extendable by a module API.
 - [openeuropa/epoetry-client](https://github.com/openeuropa/epoetry-client) ([2.0.0-alpha1](https://github.com/openeuropa/epoetry-client/releases/tag/2.0.0-alpha1), 4 weeks ago) - PHP client for the ePoetry service.
-- [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux) ([v0.3.1](https://github.com/andreasKroepelin/polylux/releases/tag/v0.3.1), 1 month ago) - A package for creating slides in Typst
 
 I'm currently **available for remote work**, feel free to contact me.
 
