@@ -12,23 +12,23 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [loophp/composer-strip-nondeterminism](https://github.com/loophp/composer-strip-nondeterminism) - A plugin for Composer for stripping non-deterministic information such as timestamps from vendor directory. [maintainer=@drupol] (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
-- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 day ago)
-- [loophp/php-src-nix](https://github.com/loophp/php-src-nix) - PHP builds for Nix, with Nix. (1 day ago)
-- [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) - CNS Client - Corporate Notification Service Client (2 days ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (4 days ago)
-- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (4 days ago)
+- [loophp/composer-strip-nondeterminism](https://github.com/loophp/composer-strip-nondeterminism) - A plugin for Composer for stripping non-deterministic information such as timestamps from vendor directory. [maintainer=@drupol] (1 day ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
+- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (2 days ago)
+- [loophp/php-src-nix](https://github.com/loophp/php-src-nix) - PHP builds for Nix, with Nix. (2 days ago)
+- [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) - CNS Client - Corporate Notification Service Client (3 days ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (5 days ago)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [loophp/iterators](https://github.com/loophp/iterators) ([2.4.0](https://github.com/loophp/iterators/releases/tag/2.4.0), today) - The missing PHP iterators.
-- [composer/composer](https://github.com/composer/composer) ([2.6.4](https://github.com/composer/composer/releases/tag/2.6.4), today) - Dependency Manager for PHP
-- [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.4.1](https://github.com/marcosh/lamphpda/releases/tag/v1.4.1), 1 day ago) - A collection of type-safe functional data structures
-- [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) ([1.0.3](https://github.com/ecphp/cns-client-bundle/releases/tag/1.0.3), 2 days ago) - CNS Client - Corporate Notification Service Client
+- [loophp/iterators](https://github.com/loophp/iterators) ([2.4.0](https://github.com/loophp/iterators/releases/tag/2.4.0), 1 day ago) - The missing PHP iterators.
+- [composer/composer](https://github.com/composer/composer) ([2.6.4](https://github.com/composer/composer/releases/tag/2.6.4), 1 day ago) - Dependency Manager for PHP
+- [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.4.1](https://github.com/marcosh/lamphpda/releases/tag/v1.4.1), 2 days ago) - A collection of type-safe functional data structures
+- [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) ([1.0.3](https://github.com/ecphp/cns-client-bundle/releases/tag/1.0.3), 3 days ago) - CNS Client - Corporate Notification Service Client
 - [nix-community/composer-local-repo-plugin](https://github.com/nix-community/composer-local-repo-plugin) ([1.0.3](https://github.com/nix-community/composer-local-repo-plugin/releases/tag/1.0.3), 1 week ago) - A plugin for Composer that creates local repository of type `composer`. [maintainer=@drupol]
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.3.3](https://github.com/platformer/typst-algorithms/releases/tag/v0.3.3), 1 week ago) - 
 - [loophp/collection](https://github.com/loophp/collection) ([7.2.1](https://github.com/loophp/collection/releases/tag/7.2.1), 3 weeks ago) - A (memory) friendly, easy, lazy and modular collection class.
