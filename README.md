@@ -13,11 +13,11 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [loophp/php-src-nix](https://github.com/loophp/php-src-nix) - PHP builds for Nix, with Nix. (today)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (today)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (1 day ago)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (1 day ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 day ago)
 - [loophp/composer-strip-nondeterminism](https://github.com/loophp/composer-strip-nondeterminism) - A plugin for Composer for stripping non-deterministic information such as timestamps from vendor directory. [maintainer=@drupol] (4 days ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (4 days ago)
@@ -25,6 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.2](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.2), today) - Documentation Generator for PHP 
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([1.0.0](https://github.com/Mic92/nix-update/releases/tag/1.0.0), 3 days ago) - Swiss-knife for updating nix packages.
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.4.0](https://github.com/loophp/iterators/releases/tag/2.4.0), 4 days ago) - The missing PHP iterators.
 - [composer/composer](https://github.com/composer/composer) ([2.6.4](https://github.com/composer/composer/releases/tag/2.6.4), 4 days ago) - Dependency Manager for PHP
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.3.3](https://github.com/platformer/typst-algorithms/releases/tag/v0.3.3), 1 week ago) - 
 - [loophp/collection](https://github.com/loophp/collection) ([7.2.1](https://github.com/loophp/collection/releases/tag/7.2.1), 3 weeks ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [netz98/n98-magerun](https://github.com/netz98/n98-magerun) ([1.97.14](https://github.com/netz98/n98-magerun/releases/tag/1.97.14), 1 month ago) - The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work time. All commands are extendable by a module API.
-- [openeuropa/epoetry-client](https://github.com/openeuropa/epoetry-client) ([2.0.0-alpha1](https://github.com/openeuropa/epoetry-client/releases/tag/2.0.0-alpha1), 1 month ago) - PHP client for the ePoetry service.
 
 I'm currently **available for remote work**, feel free to contact me.
 
