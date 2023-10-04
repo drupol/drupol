@@ -13,11 +13,11 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
 - [loophp/php-src-nix](https://github.com/loophp/php-src-nix) - PHP builds for Nix, with Nix. (1 day ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 day ago)
 - [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (2 days ago)
 - [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (2 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 days ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (2 days ago)
 - [loophp/composer-strip-nondeterminism](https://github.com/loophp/composer-strip-nondeterminism) - A plugin for Composer for stripping non-deterministic information such as timestamps from vendor directory. [maintainer=@drupol] (5 days ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (5 days ago)
