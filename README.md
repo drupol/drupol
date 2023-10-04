@@ -25,7 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.2](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.2), 1 day ago) - Documentation Generator for PHP 
+- [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.3](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.3), today) - Documentation Generator for PHP 
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([1.0.0](https://github.com/Mic92/nix-update/releases/tag/1.0.0), 4 days ago) - Swiss-knife for updating nix packages.
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.4.0](https://github.com/loophp/iterators/releases/tag/2.4.0), 5 days ago) - The missing PHP iterators.
 - [composer/composer](https://github.com/composer/composer) ([2.6.4](https://github.com/composer/composer/releases/tag/2.6.4), 5 days ago) - Dependency Manager for PHP
