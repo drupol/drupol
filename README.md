@@ -25,10 +25,10 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) ([2.6.5](https://github.com/composer/composer/releases/tag/2.6.5), today) - Dependency Manager for PHP
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.3](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.3), 2 days ago) - Documentation Generator for PHP 
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([1.0.0](https://github.com/Mic92/nix-update/releases/tag/1.0.0), 6 days ago) - Swiss-knife for updating nix packages.
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.4.0](https://github.com/loophp/iterators/releases/tag/2.4.0), 1 week ago) - The missing PHP iterators.
-- [composer/composer](https://github.com/composer/composer) ([2.6.4](https://github.com/composer/composer/releases/tag/2.6.4), 1 week ago) - Dependency Manager for PHP
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.4.1](https://github.com/marcosh/lamphpda/releases/tag/v1.4.1), 1 week ago) - A collection of type-safe functional data structures
 - [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) ([1.0.3](https://github.com/ecphp/cns-client-bundle/releases/tag/1.0.3), 1 week ago) - CNS Client - Corporate Notification Service Client
 - [nix-community/composer-local-repo-plugin](https://github.com/nix-community/composer-local-repo-plugin) ([1.0.3](https://github.com/nix-community/composer-local-repo-plugin/releases/tag/1.0.3), 2 weeks ago) - A plugin for Composer that creates local repository of type `composer`. [maintainer=@drupol]
