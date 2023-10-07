@@ -12,22 +12,22 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (today)
-- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (today)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
-- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (today)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 day ago)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (3 days ago)
-- [loophp/php-src-nix](https://github.com/loophp/php-src-nix) - PHP builds for Nix, with Nix. (3 days ago)
-- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (4 days ago)
-- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (4 days ago)
+- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (1 day ago)
+- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
+- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (1 day ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (2 days ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (2 days ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (4 days ago)
+- [loophp/php-src-nix](https://github.com/loophp/php-src-nix) - PHP builds for Nix, with Nix. (4 days ago)
+- [loophp/rust-shell](https://github.com/loophp/rust-shell) - Nix shells for Rust development (5 days ago)
+- [loophp/ci-detector](https://github.com/loophp/ci-detector) - To detect whether we are in a CI or not (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.6.5](https://github.com/composer/composer/releases/tag/2.6.5), today) - Dependency Manager for PHP
-- [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.3](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.3), 2 days ago) - Documentation Generator for PHP 
-- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([1.0.0](https://github.com/Mic92/nix-update/releases/tag/1.0.0), 6 days ago) - Swiss-knife for updating nix packages.
+- [composer/composer](https://github.com/composer/composer) ([2.6.5](https://github.com/composer/composer/releases/tag/2.6.5), 1 day ago) - Dependency Manager for PHP
+- [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.3](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.3), 3 days ago) - Documentation Generator for PHP 
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([1.0.0](https://github.com/Mic92/nix-update/releases/tag/1.0.0), 1 week ago) - Swiss-knife for updating nix packages.
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.4.0](https://github.com/loophp/iterators/releases/tag/2.4.0), 1 week ago) - The missing PHP iterators.
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.4.1](https://github.com/marcosh/lamphpda/releases/tag/v1.4.1), 1 week ago) - A collection of type-safe functional data structures
 - [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) ([1.0.3](https://github.com/ecphp/cns-client-bundle/releases/tag/1.0.3), 1 week ago) - CNS Client - Corporate Notification Service Client
