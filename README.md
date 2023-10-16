@@ -25,6 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [openeuropa/epoetry-client](https://github.com/openeuropa/epoetry-client) ([2.0.0-beta1](https://github.com/openeuropa/epoetry-client/releases/tag/2.0.0-beta1), today) - PHP client for the ePoetry service.
 - [composer/composer](https://github.com/composer/composer) ([2.6.5](https://github.com/composer/composer/releases/tag/2.6.5), 1 week ago) - Dependency Manager for PHP
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.3](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.3), 1 week ago) - Documentation Generator for PHP 
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([1.0.0](https://github.com/Mic92/nix-update/releases/tag/1.0.0), 2 weeks ago) - Swiss-knife for updating nix packages.
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [nix-community/composer-local-repo-plugin](https://github.com/nix-community/composer-local-repo-plugin) ([1.0.3](https://github.com/nix-community/composer-local-repo-plugin/releases/tag/1.0.3), 3 weeks ago) - A plugin for Composer that creates local repository of type `composer`. [maintainer=@drupol]
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) ([v0.3.3](https://github.com/platformer/typst-algorithms/releases/tag/v0.3.3), 3 weeks ago) - 
 - [loophp/collection](https://github.com/loophp/collection) ([7.2.1](https://github.com/loophp/collection/releases/tag/7.2.1), 1 month ago) - A (memory) friendly, easy, lazy and modular collection class.
-- [netz98/n98-magerun](https://github.com/netz98/n98-magerun) ([1.97.14](https://github.com/netz98/n98-magerun/releases/tag/1.97.14), 1 month ago) - The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work time. All commands are extendable by a module API.
 
 I'm currently **available for remote work**, feel free to contact me.
 
