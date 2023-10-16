@@ -19,8 +19,8 @@ More about me on my blog: https://not-a-number.io/about/
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (3 days ago)
 - [loophp/php-src-nix](https://github.com/loophp/php-src-nix) - PHP builds for Nix, with Nix. (1 week ago)
 - [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects (1 week ago)
-- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 week ago)
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (1 week ago)
+- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 week ago)
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
