@@ -12,11 +12,11 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (2 days ago)
-- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (3 days ago)
-- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (3 days ago)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (3 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 days ago)
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (3 days ago)
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (4 days ago)
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (4 days ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (4 days ago)
 - [loophp/php-src-nix](https://github.com/loophp/php-src-nix) - PHP builds for Nix, with Nix. (1 week ago)
 - [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects (1 week ago)
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (1 week ago)
@@ -25,7 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [openeuropa/epoetry-client](https://github.com/openeuropa/epoetry-client) ([2.0.0-beta1](https://github.com/openeuropa/epoetry-client/releases/tag/2.0.0-beta1), today) - PHP client for the ePoetry service.
+- [openeuropa/epoetry-client](https://github.com/openeuropa/epoetry-client) ([2.0.0-beta1](https://github.com/openeuropa/epoetry-client/releases/tag/2.0.0-beta1), 1 day ago) - PHP client for the ePoetry service.
 - [composer/composer](https://github.com/composer/composer) ([2.6.5](https://github.com/composer/composer/releases/tag/2.6.5), 1 week ago) - Dependency Manager for PHP
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.3](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.3), 1 week ago) - Documentation Generator for PHP 
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([1.0.0](https://github.com/Mic92/nix-update/releases/tag/1.0.0), 2 weeks ago) - Swiss-knife for updating nix packages.
