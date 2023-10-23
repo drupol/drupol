@@ -25,6 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [drupol/phpcsfixer-configs-drupal](https://github.com/drupol/phpcsfixer-configs-drupal) ([2.1.0](https://github.com/drupol/phpcsfixer-configs-drupal/releases/tag/2.1.0), today) - Base PHP CS Fixer configurations for Drupal 7 and 8.
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.7](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.7), 2 days ago) - Digitally sign PDF files from your commandline
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.20](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.20), 2 days ago) - Base PHP CS Fixer configurations.
 - [openeuropa/epoetry-client](https://github.com/openeuropa/epoetry-client) ([2.0.0-beta1](https://github.com/openeuropa/epoetry-client/releases/tag/2.0.0-beta1), 1 week ago) - PHP client for the ePoetry service.
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.4.0](https://github.com/loophp/iterators/releases/tag/2.4.0), 3 weeks ago) - The missing PHP iterators.
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.4.1](https://github.com/marcosh/lamphpda/releases/tag/v1.4.1), 3 weeks ago) - A collection of type-safe functional data structures
 - [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) ([1.0.3](https://github.com/ecphp/cns-client-bundle/releases/tag/1.0.3), 3 weeks ago) - CNS Client - Corporate Notification Service Client
-- [nix-community/composer-local-repo-plugin](https://github.com/nix-community/composer-local-repo-plugin) ([1.0.3](https://github.com/nix-community/composer-local-repo-plugin/releases/tag/1.0.3), 1 month ago) - A plugin for Composer that creates local repository of type `composer`. [maintainer=@drupol]
 
 I'm currently **available for remote work**, feel free to contact me.
 
