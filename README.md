@@ -25,6 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.4.2](https://github.com/ecphp/eu-login-bundle/releases/tag/2.4.2), today) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [drupol/phpcsfixer-configs-drupal](https://github.com/drupol/phpcsfixer-configs-drupal) ([2.1.0](https://github.com/drupol/phpcsfixer-configs-drupal/releases/tag/2.1.0), today) - Base PHP CS Fixer configurations for Drupal 7 and 8.
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.7](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.7), 2 days ago) - Digitally sign PDF files from your commandline
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.20](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.20), 2 days ago) - Base PHP CS Fixer configurations.
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([1.0.0](https://github.com/Mic92/nix-update/releases/tag/1.0.0), 3 weeks ago) - Swiss-knife for updating nix packages.
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.4.0](https://github.com/loophp/iterators/releases/tag/2.4.0), 3 weeks ago) - The missing PHP iterators.
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) ([v1.4.1](https://github.com/marcosh/lamphpda/releases/tag/v1.4.1), 3 weeks ago) - A collection of type-safe functional data structures
-- [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) ([1.0.3](https://github.com/ecphp/cns-client-bundle/releases/tag/1.0.3), 3 weeks ago) - CNS Client - Corporate Notification Service Client
 
 I'm currently **available for remote work**, feel free to contact me.
 
