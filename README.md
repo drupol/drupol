@@ -12,23 +12,23 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski&#39;s &#39;Category Theory for Programmers&#39; unofficial PDF and LaTeX source (1 day ago)
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (2 days ago)
-- [loophp/typed-generators](https://github.com/loophp/typed-generators) - Generate random typed values and in any shape. (3 days ago)
-- [NixOS/nix-pills](https://github.com/NixOS/nix-pills) -  (5 days ago)
-- [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure (6 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
+- [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski&#39;s &#39;Category Theory for Programmers&#39; unofficial PDF and LaTeX source (2 days ago)
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (3 days ago)
+- [loophp/typed-generators](https://github.com/loophp/typed-generators) - Generate random typed values and in any shape. (4 days ago)
+- [NixOS/nix-pills](https://github.com/NixOS/nix-pills) -  (6 days ago)
+- [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure (1 week ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (1 week ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 week ago)
 - [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.4.2](https://github.com/ecphp/eu-login-bundle/releases/tag/2.4.2), today) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
-- [drupol/phpcsfixer-configs-drupal](https://github.com/drupol/phpcsfixer-configs-drupal) ([2.1.0](https://github.com/drupol/phpcsfixer-configs-drupal/releases/tag/2.1.0), today) - Base PHP CS Fixer configurations for Drupal 7 and 8.
-- [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.7](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.7), 2 days ago) - Digitally sign PDF files from your commandline
-- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.20](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.20), 2 days ago) - Base PHP CS Fixer configurations.
+- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.4.2](https://github.com/ecphp/eu-login-bundle/releases/tag/2.4.2), 1 day ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
+- [drupol/phpcsfixer-configs-drupal](https://github.com/drupol/phpcsfixer-configs-drupal) ([2.1.0](https://github.com/drupol/phpcsfixer-configs-drupal/releases/tag/2.1.0), 1 day ago) - Base PHP CS Fixer configurations for Drupal 7 and 8.
+- [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.7](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.7), 3 days ago) - Digitally sign PDF files from your commandline
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.20](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.20), 3 days ago) - Base PHP CS Fixer configurations.
 - [openeuropa/epoetry-client](https://github.com/openeuropa/epoetry-client) ([2.0.0-beta1](https://github.com/openeuropa/epoetry-client/releases/tag/2.0.0-beta1), 1 week ago) - PHP client for the ePoetry service.
 - [composer/composer](https://github.com/composer/composer) ([2.6.5](https://github.com/composer/composer/releases/tag/2.6.5), 2 weeks ago) - Dependency Manager for PHP
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.3](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.3), 2 weeks ago) - Documentation Generator for PHP 
