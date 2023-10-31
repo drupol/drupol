@@ -14,6 +14,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
+- [loophp/php-src-nix](https://github.com/loophp/php-src-nix) - PHP builds for Nix, with Nix. (today)
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (2 days ago)
 - [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that compiles to PHP. A Lisp dialect inspired by Clojure and Janet. (4 days ago)
 - [drupol/ipc2023](https://github.com/drupol/ipc2023) - Sources of &#39;Leveraging Nix in the PHP ecosystem&#39; presentation (5 days ago)
@@ -21,7 +22,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations. (1 week ago)
 - [loophp/typed-generators](https://github.com/loophp/typed-generators) - Generate random typed values and in any shape. (1 week ago)
 - [NixOS/nix-pills](https://github.com/NixOS/nix-pills) -  (1 week ago)
-- [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
