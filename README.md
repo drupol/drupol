@@ -25,6 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [typst/typst](https://github.com/typst/typst) ([v0.9.0](https://github.com/typst/typst/releases/tag/v0.9.0), today) - A new markup-based typesetting system that is powerful and easy to learn.
 - [drupol/ipc2023](https://github.com/drupol/ipc2023) ([v19-ea1ffb1](https://github.com/drupol/ipc2023/releases/tag/v19-ea1ffb1), 5 days ago) - Sources of &#39;Leveraging Nix in the PHP ecosystem&#39; presentation
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.4.2](https://github.com/ecphp/eu-login-bundle/releases/tag/2.4.2), 1 week ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [drupol/phpcsfixer-configs-drupal](https://github.com/drupol/phpcsfixer-configs-drupal) ([2.1.0](https://github.com/drupol/phpcsfixer-configs-drupal/releases/tag/2.1.0), 1 week ago) - Base PHP CS Fixer configurations for Drupal 7 and 8.
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [composer/composer](https://github.com/composer/composer) ([2.6.5](https://github.com/composer/composer/releases/tag/2.6.5), 3 weeks ago) - Dependency Manager for PHP
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.3](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.3), 3 weeks ago) - Documentation Generator for PHP 
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) ([1.0.0](https://github.com/Mic92/nix-update/releases/tag/1.0.0), 1 month ago) - Swiss-knife for updating nix packages.
-- [loophp/iterators](https://github.com/loophp/iterators) ([2.4.0](https://github.com/loophp/iterators/releases/tag/2.4.0), 1 month ago) - The missing PHP iterators.
 
 I'm currently **available for remote work**, feel free to contact me.
 
