@@ -25,6 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) ([v0.12.0](https://github.com/phel-lang/phel-lang/releases/tag/v0.12.0), today) - Phel is a functional programming language that compiles to PHP. A Lisp dialect inspired by Clojure and Janet.
 - [typst/typst](https://github.com/typst/typst) ([v0.9.0](https://github.com/typst/typst/releases/tag/v0.9.0), 1 day ago) - A new markup-based typesetting system that is powerful and easy to learn.
 - [drupol/ipc2023](https://github.com/drupol/ipc2023) ([v19-ea1ffb1](https://github.com/drupol/ipc2023/releases/tag/v19-ea1ffb1), 6 days ago) - Sources of &#39;Leveraging Nix in the PHP ecosystem&#39; presentation
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.4.2](https://github.com/ecphp/eu-login-bundle/releases/tag/2.4.2), 1 week ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [openeuropa/epoetry-client](https://github.com/openeuropa/epoetry-client) ([2.0.0-beta1](https://github.com/openeuropa/epoetry-client/releases/tag/2.0.0-beta1), 2 weeks ago) - PHP client for the ePoetry service.
 - [composer/composer](https://github.com/composer/composer) ([2.6.5](https://github.com/composer/composer/releases/tag/2.6.5), 3 weeks ago) - Dependency Manager for PHP
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.3](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.3), 4 weeks ago) - Documentation Generator for PHP 
-- [Mic92/nix-update](https://github.com/Mic92/nix-update) ([1.0.0](https://github.com/Mic92/nix-update/releases/tag/1.0.0), 1 month ago) - Swiss-knife for updating nix packages.
 
 I'm currently **available for remote work**, feel free to contact me.
 
