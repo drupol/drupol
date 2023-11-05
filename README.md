@@ -13,8 +13,8 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
 - [drupol/ipc2023](https://github.com/drupol/ipc2023) - Sources of &#39;Leveraging Nix in the PHP ecosystem&#39; presentation (today)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions (1 day ago)
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development (2 days ago)
 - [loophp/php-src-nix](https://github.com/loophp/php-src-nix) - PHP builds for Nix, with Nix. (5 days ago)
@@ -25,7 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [drupol/ipc2023](https://github.com/drupol/ipc2023) ([v21-d2eec227eabc118393d1d18eae053c21775111f6](https://github.com/drupol/ipc2023/releases/tag/v21-d2eec227eabc118393d1d18eae053c21775111f6), today) - Sources of &#39;Leveraging Nix in the PHP ecosystem&#39; presentation
+- [drupol/ipc2023](https://github.com/drupol/ipc2023) ([v22-79516f3d2e34c179bf81b4e5dd0a6a98352cb727](https://github.com/drupol/ipc2023/releases/tag/v22-79516f3d2e34c179bf81b4e5dd0a6a98352cb727), today) - Sources of &#39;Leveraging Nix in the PHP ecosystem&#39; presentation
 - [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) ([v0.12.0](https://github.com/phel-lang/phel-lang/releases/tag/v0.12.0), 4 days ago) - Phel is a functional programming language that compiles to PHP. A Lisp dialect inspired by Clojure and Janet.
 - [typst/typst](https://github.com/typst/typst) ([v0.9.0](https://github.com/typst/typst/releases/tag/v0.9.0), 5 days ago) - A new markup-based typesetting system that is powerful and easy to learn.
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.4.2](https://github.com/ecphp/eu-login-bundle/releases/tag/2.4.2), 1 week ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
