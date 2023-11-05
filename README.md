@@ -25,7 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [drupol/ipc2023](https://github.com/drupol/ipc2023) ([v22-79516f3d2e34c179bf81b4e5dd0a6a98352cb727](https://github.com/drupol/ipc2023/releases/tag/v22-79516f3d2e34c179bf81b4e5dd0a6a98352cb727), today) - Sources of &#39;Leveraging Nix in the PHP ecosystem&#39; presentation
+- [drupol/ipc2023](https://github.com/drupol/ipc2023) ([v23-79efbb4c24ab0d42c73906d16233a79d9659c5ca](https://github.com/drupol/ipc2023/releases/tag/v23-79efbb4c24ab0d42c73906d16233a79d9659c5ca), today) - Sources of &#39;Leveraging Nix in the PHP ecosystem&#39; presentation
 - [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) ([v0.12.0](https://github.com/phel-lang/phel-lang/releases/tag/v0.12.0), 4 days ago) - Phel is a functional programming language that compiles to PHP. A Lisp dialect inspired by Clojure and Janet.
 - [typst/typst](https://github.com/typst/typst) ([v0.9.0](https://github.com/typst/typst/releases/tag/v0.9.0), 5 days ago) - A new markup-based typesetting system that is powerful and easy to learn.
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([2.4.2](https://github.com/ecphp/eu-login-bundle/releases/tag/2.4.2), 1 week ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
