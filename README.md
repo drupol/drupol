@@ -12,6 +12,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
 - [drupol/ipc2023](https://github.com/drupol/ipc2023) - Sources of &#39;Leveraging Nix in the PHP ecosystem&#39; presentation (1 day ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
@@ -21,10 +22,10 @@ More about me on my blog: https://not-a-number.io/about/
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (1 week ago)
 - [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that compiles to PHP. A Lisp dialect inspired by Clojure and Janet. (1 week ago)
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (2 weeks ago)
-- [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski&#39;s &#39;Category Theory for Programmers&#39; unofficial PDF and LaTeX source (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([3.0.1](https://github.com/ecphp/cas-bundle/releases/tag/3.0.1), today) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 - [drupol/ipc2023](https://github.com/drupol/ipc2023) ([v23-79efbb4c24ab0d42c73906d16233a79d9659c5ca](https://github.com/drupol/ipc2023/releases/tag/v23-79efbb4c24ab0d42c73906d16233a79d9659c5ca), 1 day ago) - Sources of &#39;Leveraging Nix in the PHP ecosystem&#39; presentation
 - [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) ([v0.12.0](https://github.com/phel-lang/phel-lang/releases/tag/v0.12.0), 5 days ago) - Phel is a functional programming language that compiles to PHP. A Lisp dialect inspired by Clojure and Janet.
 - [typst/typst](https://github.com/typst/typst) ([v0.9.0](https://github.com/typst/typst/releases/tag/v0.9.0), 6 days ago) - A new markup-based typesetting system that is powerful and easy to learn.
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.20](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.20), 2 weeks ago) - Base PHP CS Fixer configurations.
 - [openeuropa/epoetry-client](https://github.com/openeuropa/epoetry-client) ([2.0.0-beta1](https://github.com/openeuropa/epoetry-client/releases/tag/2.0.0-beta1), 3 weeks ago) - PHP client for the ePoetry service.
 - [composer/composer](https://github.com/composer/composer) ([2.6.5](https://github.com/composer/composer/releases/tag/2.6.5), 1 month ago) - Dependency Manager for PHP
-- [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ([v3.4.3](https://github.com/phpDocumentor/phpDocumentor/releases/tag/v3.4.3), 1 month ago) - Documentation Generator for PHP 
 
 I'm currently **available for remote work**, feel free to contact me.
 
