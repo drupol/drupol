@@ -25,6 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) ([v1.3.1](https://github.com/MercuryTechnologies/nix-your-shell/releases/tag/v1.3.1), today) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [psr7-sessions/storageless](https://github.com/psr7-sessions/storageless) ([9.1.0](https://github.com/psr7-sessions/storageless/releases/tag/9.1.0), today) - :mailbox_with_mail: storage-less PSR-7 session support
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([3.0.0](https://github.com/ecphp/eu-login-bundle/releases/tag/3.0.0), 2 weeks ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([3.0.1](https://github.com/ecphp/cas-bundle/releases/tag/3.0.1), 2 weeks ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [drupol/phpcsfixer-configs-drupal](https://github.com/drupol/phpcsfixer-configs-drupal) ([2.1.0](https://github.com/drupol/phpcsfixer-configs-drupal/releases/tag/2.1.0), 4 weeks ago) - Base PHP CS Fixer configurations for Drupal 7 and 8.
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.7](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.7), 1 month ago) - Digitally sign PDF files from your commandline
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.20](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.20), 1 month ago) - Base PHP CS Fixer configurations.
-- [openeuropa/epoetry-client](https://github.com/openeuropa/epoetry-client) ([2.0.0-beta1](https://github.com/openeuropa/epoetry-client/releases/tag/2.0.0-beta1), 1 month ago) - PHP client for the ePoetry service.
 
 I'm currently **available for remote work**, feel free to contact me.
 
