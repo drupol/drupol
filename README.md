@@ -25,6 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [psr7-sessions/storageless](https://github.com/psr7-sessions/storageless) ([9.1.0](https://github.com/psr7-sessions/storageless/releases/tag/9.1.0), today) - :mailbox_with_mail: storage-less PSR-7 session support
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([3.0.0](https://github.com/ecphp/eu-login-bundle/releases/tag/3.0.0), 2 weeks ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([3.0.1](https://github.com/ecphp/cas-bundle/releases/tag/3.0.1), 2 weeks ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 - [drupol/ipc2023](https://github.com/drupol/ipc2023) ([v23-79efbb4c24ab0d42c73906d16233a79d9659c5ca](https://github.com/drupol/ipc2023/releases/tag/v23-79efbb4c24ab0d42c73906d16233a79d9659c5ca), 2 weeks ago) - Sources of &#39;Leveraging Nix in the PHP ecosystem&#39; presentation
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.7](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.7), 1 month ago) - Digitally sign PDF files from your commandline
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) ([2.0.20](https://github.com/drupol/phpcsfixer-configs-php/releases/tag/2.0.20), 1 month ago) - Base PHP CS Fixer configurations.
 - [openeuropa/epoetry-client](https://github.com/openeuropa/epoetry-client) ([2.0.0-beta1](https://github.com/openeuropa/epoetry-client/releases/tag/2.0.0-beta1), 1 month ago) - PHP client for the ePoetry service.
-- [composer/composer](https://github.com/composer/composer) ([2.6.5](https://github.com/composer/composer/releases/tag/2.6.5), 1 month ago) - Dependency Manager for PHP
 
 I'm currently **available for remote work**, feel free to contact me.
 
