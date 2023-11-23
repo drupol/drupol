@@ -13,11 +13,11 @@ More about me on my blog: https://not-a-number.io/about/
 #### 👷 Check out what I'm currently working on
 
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (today)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh (1 day ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (1 day ago)
 - [NixOS/nixos-common-styles](https://github.com/NixOS/nixos-common-styles) - Common styles for NixOS related web sites. (1 day ago)
-- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (2 days ago)
 - [drupol/phpermutations](https://github.com/drupol/phpermutations) - Generate Permutations and Combinations in an efficient way. (3 days ago)
 - [loophp/php-src-nix](https://github.com/loophp/php-src-nix) - PHP builds for Nix, with Nix. (1 week ago)
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (2 weeks ago)
