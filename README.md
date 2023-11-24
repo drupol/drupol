@@ -12,19 +12,20 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (today)
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh (2 days ago)
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a &#39;ready-to-use&#39; Github workflow to update &#39;flake.lock&#39; file automatically. (2 days ago)
 - [NixOS/nixos-common-styles](https://github.com/NixOS/nixos-common-styles) - Common styles for NixOS related web sites. (2 days ago)
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh (2 days ago)
 - [drupol/phpermutations](https://github.com/drupol/phpermutations) - Generate Permutations and Combinations in an efficient way. (4 days ago)
 - [loophp/php-src-nix](https://github.com/loophp/php-src-nix) - PHP builds for Nix, with Nix. (1 week ago)
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (2 weeks ago)
-- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [loophp/iterators](https://github.com/loophp/iterators) ([2.5.1](https://github.com/loophp/iterators/releases/tag/2.5.1), today) - The missing PHP iterators.
 - [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) ([v1.4.0](https://github.com/MercuryTechnologies/nix-your-shell/releases/tag/v1.4.0), 4 days ago) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [psr7-sessions/storageless](https://github.com/psr7-sessions/storageless) ([9.1.0](https://github.com/psr7-sessions/storageless/releases/tag/9.1.0), 4 days ago) - :mailbox_with_mail: storage-less PSR-7 session support
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([3.0.0](https://github.com/ecphp/eu-login-bundle/releases/tag/3.0.0), 2 weeks ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) ([v0.12.0](https://github.com/phel-lang/phel-lang/releases/tag/v0.12.0), 3 weeks ago) - Phel is a functional programming language that compiles to PHP. A Lisp dialect inspired by Clojure and Janet.
 - [typst/typst](https://github.com/typst/typst) ([v0.9.0](https://github.com/typst/typst/releases/tag/v0.9.0), 3 weeks ago) - A new markup-based typesetting system that is powerful and easy to learn.
 - [drupol/phpcsfixer-configs-drupal](https://github.com/drupol/phpcsfixer-configs-drupal) ([2.1.0](https://github.com/drupol/phpcsfixer-configs-drupal/releases/tag/2.1.0), 1 month ago) - Base PHP CS Fixer configurations for Drupal 7 and 8.
-- [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) ([v0.1.7](https://github.com/open-pdf-sign/open-pdf-sign/releases/tag/v0.1.7), 1 month ago) - Digitally sign PDF files from your commandline
 
 I'm currently **available for remote work**, feel free to contact me.
 
