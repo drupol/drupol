@@ -25,8 +25,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [loophp/iterators](https://github.com/loophp/iterators) ([3.0.2](https://github.com/loophp/iterators/releases/tag/3.0.2), today) - The missing PHP iterators.
 - [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.4](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.4), today) - Iterable assertions for PHPUnit
-- [loophp/iterators](https://github.com/loophp/iterators) ([3.0.0](https://github.com/loophp/iterators/releases/tag/3.0.0), today) - The missing PHP iterators.
 - [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) ([v1.4.0](https://github.com/MercuryTechnologies/nix-your-shell/releases/tag/v1.4.0), 5 days ago) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [psr7-sessions/storageless](https://github.com/psr7-sessions/storageless) ([9.1.0](https://github.com/psr7-sessions/storageless/releases/tag/9.1.0), 5 days ago) - :mailbox_with_mail: storage-less PSR-7 session support
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([3.0.0](https://github.com/ecphp/eu-login-bundle/releases/tag/3.0.0), 2 weeks ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
