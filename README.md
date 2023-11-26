@@ -12,8 +12,8 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 day ago)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (1 day ago)
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class. (1 day ago)
 - [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) - Iterable assertions for PHPUnit (1 day ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 days ago)
