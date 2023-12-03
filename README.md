@@ -21,7 +21,7 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) - CNS Client - Corporate Notification Service Client (3 days ago)
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org (4 days ago)
 - [NixOS/nixos-common-styles](https://github.com/NixOS/nixos-common-styles) - Common styles for NixOS related web sites. (5 days ago)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 week ago)
+- [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) - Iterable assertions for PHPUnit (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
