@@ -25,6 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [typst/typst](https://github.com/typst/typst) ([v0.10.0](https://github.com/typst/typst/releases/tag/v0.10.0), today) - A new markup-based typesetting system that is powerful and easy to learn.
 - [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) ([1.0.4](https://github.com/ecphp/cns-client-bundle/releases/tag/1.0.4), 4 days ago) - CNS Client - Corporate Notification Service Client
 - [loophp/iterators](https://github.com/loophp/iterators) ([3.0.2](https://github.com/loophp/iterators/releases/tag/3.0.2), 1 week ago) - The missing PHP iterators.
 - [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.4](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.4), 1 week ago) - Iterable assertions for PHPUnit
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) ([1.1.0](https://github.com/nix-community/nixos-anywhere/releases/tag/1.1.0), 4 weeks ago) - install nixos everywhere via ssh [maintainer=@numtide]
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([3.0.1](https://github.com/ecphp/cas-bundle/releases/tag/3.0.1), 4 weeks ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 - [drupol/ipc2023](https://github.com/drupol/ipc2023) ([v23-79efbb4c24ab0d42c73906d16233a79d9659c5ca](https://github.com/drupol/ipc2023/releases/tag/v23-79efbb4c24ab0d42c73906d16233a79d9659c5ca), 4 weeks ago) - Sources of &#39;Leveraging Nix in the PHP ecosystem&#39; presentation
-- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) ([v0.12.0](https://github.com/phel-lang/phel-lang/releases/tag/v0.12.0), 1 month ago) - Phel is a functional programming language that compiles to PHP. A Lisp dialect inspired by Clojure and Janet.
 
 I'm currently **available for remote work**, feel free to contact me.
 
