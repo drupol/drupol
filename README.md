@@ -25,6 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) ([2.6.6](https://github.com/composer/composer/releases/tag/2.6.6), today) - Dependency Manager for PHP
 - [typst/typst](https://github.com/typst/typst) ([v0.10.0](https://github.com/typst/typst/releases/tag/v0.10.0), 4 days ago) - A new markup-based typesetting system that is powerful and easy to learn.
 - [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) ([1.0.4](https://github.com/ecphp/cns-client-bundle/releases/tag/1.0.4), 1 week ago) - CNS Client - Corporate Notification Service Client
 - [loophp/iterators](https://github.com/loophp/iterators) ([3.0.2](https://github.com/loophp/iterators/releases/tag/3.0.2), 1 week ago) - The missing PHP iterators.
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([3.0.0](https://github.com/ecphp/eu-login-bundle/releases/tag/3.0.0), 1 month ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) ([1.1.0](https://github.com/nix-community/nixos-anywhere/releases/tag/1.1.0), 1 month ago) - install nixos everywhere via ssh [maintainer=@numtide]
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([3.0.1](https://github.com/ecphp/cas-bundle/releases/tag/3.0.1), 1 month ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
-- [drupol/ipc2023](https://github.com/drupol/ipc2023) ([v23-79efbb4c24ab0d42c73906d16233a79d9659c5ca](https://github.com/drupol/ipc2023/releases/tag/v23-79efbb4c24ab0d42c73906d16233a79d9659c5ca), 1 month ago) - Sources of &#39;Leveraging Nix in the PHP ecosystem&#39; presentation
 
 I'm currently **available for remote work**, feel free to contact me.
 
