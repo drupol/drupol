@@ -25,6 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [loophp/collection](https://github.com/loophp/collection) ([7.3.0](https://github.com/loophp/collection/releases/tag/7.3.0), today) - A (memory) friendly, easy, lazy and modular collection class.
 - [composer/composer](https://github.com/composer/composer) ([2.6.6](https://github.com/composer/composer/releases/tag/2.6.6), 2 days ago) - Dependency Manager for PHP
 - [typst/typst](https://github.com/typst/typst) ([v0.10.0](https://github.com/typst/typst/releases/tag/v0.10.0), 6 days ago) - A new markup-based typesetting system that is powerful and easy to learn.
 - [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) ([1.0.4](https://github.com/ecphp/cns-client-bundle/releases/tag/1.0.4), 1 week ago) - CNS Client - Corporate Notification Service Client
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [psr7-sessions/storageless](https://github.com/psr7-sessions/storageless) ([9.1.0](https://github.com/psr7-sessions/storageless/releases/tag/9.1.0), 2 weeks ago) - :mailbox_with_mail: storage-less PSR-7 session support
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([3.0.0](https://github.com/ecphp/eu-login-bundle/releases/tag/3.0.0), 1 month ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) ([1.1.0](https://github.com/nix-community/nixos-anywhere/releases/tag/1.1.0), 1 month ago) - install nixos everywhere via ssh [maintainer=@numtide]
-- [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) ([3.0.1](https://github.com/ecphp/cas-bundle/releases/tag/3.0.1), 1 month ago) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 
 I'm currently **available for remote work**, feel free to contact me.
 
