@@ -25,13 +25,13 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) ([v1.4.1](https://github.com/MercuryTechnologies/nix-your-shell/releases/tag/v1.4.1), today) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [loophp/collection](https://github.com/loophp/collection) ([7.3.0](https://github.com/loophp/collection/releases/tag/7.3.0), 1 week ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [composer/composer](https://github.com/composer/composer) ([2.6.6](https://github.com/composer/composer/releases/tag/2.6.6), 1 week ago) - Dependency Manager for PHP
 - [typst/typst](https://github.com/typst/typst) ([v0.10.0](https://github.com/typst/typst/releases/tag/v0.10.0), 2 weeks ago) - A new markup-based typesetting system that is powerful and easy to learn.
 - [ecphp/cns-client-bundle](https://github.com/ecphp/cns-client-bundle) ([1.0.4](https://github.com/ecphp/cns-client-bundle/releases/tag/1.0.4), 2 weeks ago) - CNS Client - Corporate Notification Service Client
 - [loophp/iterators](https://github.com/loophp/iterators) ([3.0.2](https://github.com/loophp/iterators/releases/tag/3.0.2), 3 weeks ago) - The missing PHP iterators.
 - [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.4](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.4), 3 weeks ago) - Iterable assertions for PHPUnit
-- [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) ([v1.4.0](https://github.com/MercuryTechnologies/nix-your-shell/releases/tag/v1.4.0), 4 weeks ago) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [psr7-sessions/storageless](https://github.com/psr7-sessions/storageless) ([9.1.0](https://github.com/psr7-sessions/storageless/releases/tag/9.1.0), 4 weeks ago) - :mailbox_with_mail: storage-less PSR-7 session support
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([3.0.0](https://github.com/ecphp/eu-login-bundle/releases/tag/3.0.0), 1 month ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) ([1.1.0](https://github.com/nix-community/nixos-anywhere/releases/tag/1.1.0), 1 month ago) - install nixos everywhere via ssh [maintainer=@numtide]
