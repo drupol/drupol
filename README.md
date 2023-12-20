@@ -25,7 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([8.5.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.5.0), today) - :ab: Tool to compare two revisions of a class API to check for BC breaks
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([8.6.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.6.0), today) - :ab: Tool to compare two revisions of a class API to check for BC breaks
 - [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) ([v1.4.1](https://github.com/MercuryTechnologies/nix-your-shell/releases/tag/v1.4.1), 1 day ago) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [loophp/collection](https://github.com/loophp/collection) ([7.3.0](https://github.com/loophp/collection/releases/tag/7.3.0), 1 week ago) - A (memory) friendly, easy, lazy and modular collection class.
 - [composer/composer](https://github.com/composer/composer) ([2.6.6](https://github.com/composer/composer/releases/tag/2.6.6), 1 week ago) - Dependency Manager for PHP
