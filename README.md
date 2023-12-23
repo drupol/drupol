@@ -25,6 +25,7 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 🔭 Latest releases I've contributed to
 
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) ([1.1.1](https://github.com/nix-community/nixos-anywhere/releases/tag/1.1.1), today) - install nixos everywhere via ssh [maintainer=@numtide]
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([8.6.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.6.0), 3 days ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
 - [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) ([v1.4.1](https://github.com/MercuryTechnologies/nix-your-shell/releases/tag/v1.4.1), 4 days ago) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [loophp/collection](https://github.com/loophp/collection) ([7.3.0](https://github.com/loophp/collection/releases/tag/7.3.0), 1 week ago) - A (memory) friendly, easy, lazy and modular collection class.
@@ -34,7 +35,6 @@ More about me on my blog: https://not-a-number.io/about/
 - [loophp/iterators](https://github.com/loophp/iterators) ([3.0.2](https://github.com/loophp/iterators/releases/tag/3.0.2), 4 weeks ago) - The missing PHP iterators.
 - [loophp/phpunit-iterable-assertions](https://github.com/loophp/phpunit-iterable-assertions) ([1.0.4](https://github.com/loophp/phpunit-iterable-assertions/releases/tag/1.0.4), 4 weeks ago) - Iterable assertions for PHPUnit
 - [psr7-sessions/storageless](https://github.com/psr7-sessions/storageless) ([9.1.0](https://github.com/psr7-sessions/storageless/releases/tag/9.1.0), 1 month ago) - :mailbox_with_mail: storage-less PSR-7 session support
-- [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) ([3.0.0](https://github.com/ecphp/eu-login-bundle/releases/tag/3.0.0), 1 month ago) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login.
 
 I'm currently **available for remote work**, feel free to contact me.
 
