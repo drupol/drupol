@@ -12,11 +12,11 @@ More about me on my blog: https://not-a-number.io/about/
 
 #### 👷 Check out what I'm currently working on
 
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (today)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (1 week ago)
 - [loophp/composer-strip-nondeterminism](https://github.com/loophp/composer-strip-nondeterminism) - A plugin for Composer for stripping non-deterministic information such as timestamps from vendor directory. [maintainer=@drupol] (1 week ago)
 - [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog. (1 week ago)
-- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers (3 weeks ago)
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol. (3 weeks ago)
 - [ecphp/cas-lib](https://github.com/ecphp/cas-lib) - CAS Lib, a standard library for CAS authentication. (3 weeks ago)
 - [ecphp/eu-login-bundle](https://github.com/ecphp/eu-login-bundle) - EU Login bundle, a standard Symfony bundle to authenticate users against EU Login. (3 weeks ago)
