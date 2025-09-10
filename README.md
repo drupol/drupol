@@ -12,4 +12,6 @@ More about me on my blog: https://not-a-number.io/about/
 
 I'm currently **available for remote work**, feel free to contact me.
 
-[![Pol Dellaiera's github stats](https://github-readme-stats.vercel.app/api?username=drupol&count_private=true&show_icons=true)](https://github.com/drupol)
+# Metrics
+
+![github metrics](github-metrics.svg)
