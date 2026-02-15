@@ -584,7 +584,7 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBAf/xAAtEAABAwIEBAUEAwAAAAAAAAABAgMEBREAEiExBiJBURMUMmGBIzNC8KGxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAUE/8QAHhEAAgICAgMAAAAAAAAAAAAAAAECAwQSEyERMVH/2gAMAwEAAhEDEQA/AOirbsgncn3v/uFtXmKp9MkSWW87rbZLYI0zdL67XwByuwn3kRxIa8ydmcwub9gRc4PWosxikyHSgLWGyQ22Rf8Ar5+MCJOHsU6myMpkS7XjTq8ipP8A20gRCz5c5zdYIsLXPXuNcU0UyGWEobZRKQNnc3q/nAeHqfWKhAmIqiRFacUCQ8StDt7AAD8f3ffCOuRZEGWll1iQ0Qm4S2jOkC52V1GFaFJ1rZEGVorHqUvDtAp3DsZuW2lsuuDI04ooW4ok29ff2GKBZCmSfXfk0Vseun7viY4PZDK4vMtYPOErNwgm18vbFShIlTfKq5GlDUtgAnQdcHYb5a1P6W5C45aoyy5ctoeGWXPrKsFEgAW10RbDaISlhIcuFDuL4yQ6Ww/VMjynVpYByXVtqcLK5LeZlobbWUpCNB8nC9L68h9qP//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABwgCBgMEBf/EACwQAAECBQIDBwUAAAAAAAAAAAECAwAEBQYRITESExQIIkFRYXGBByMyUsH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQA/8QAHBEBAAICAwEAAAAAAAAAAAAAAQACAxIREzFR/9oADAMBAAIRAxEAPwBmES6f1ET6ceUaTdYBUA5JTKM+PDmAF2jL1uEVtFBos27TaamVS7NODKFLK1rABI1xhGw9cwxuyUwFoxBlhGIygztCw9n69q/IXwxbk9UF1CivNOrPMUV9PwJK+ME6gaYxtrDGovGguAlNQRjOPwUP5G7YbYNXhgnqV+Gkth6o1NDQOySASfYAQI72vyWuauuTKC40hpltsuOAd8gk7fPjFPv+YddueqhayQ28EJ9BiOdbkm1UXJ/qCvCJZbw4TjvJ2+IRbyWYzVEhK+mc7LOSk2+h9g1J4qaPAnhc5ORp6gkZ08hFyUV51ML/ACw6eRQ6x9t1SFpKk777+8Gy3nlv0SScfPMcLScrVudPGAJ5BlHnb7P/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQGCAX/xAAoEAABAwMEAQQCAwAAAAAAAAABAgMEAAURBhITITEiQVFhB4FxocH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAECBf/EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMEIRESIkH/2gAMAwEAAhEDEQA/AE+NBdEZpScAlIJAHWaLdbOIud5ciy7hKjus7+NpgdIQjySfc9ZpaOq9OsKaZeu0NBO8duDA2ecnwn94zRDrO+R2L8+m2zmnGC5yNutuA7gs5PfuM5FBJsr2IaitWPuK/wCKwlWk2nJs0SglwtsyXDguJwCM59xkj9VbZEiNHc2L3ZxnpCj/AJRNI0dNmadt78aW1GmYbe4yANxznyPfGBUyLrq7Q0LhyLS9KeirLK3SpKQSPjd2R91Zckrp4OzHVjykzddeeDdX4M8LQ4g4UlXkGo/O80tBYkrbAO8d+D9fFRdYTX5erro8+vc5zrRn6GEj+q57by1OJBPQrRS0XD0IyLPkvdp1tqK3RSq33CQuMhQJac9aEEnro/NLka6zblEjybpBU1MW2OQBxAyfnCjkfxWc7KjnvVtbUpSQqQ2MpOCPWPFMdmuMiRbmnHlBSyPOKVzn0B1ElQGM/9k=" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAQHBf/EAC4QAAEDAgMGAwkAAAAAAAAAAAECAwQFEQAGIRITMUFRYQcUIggyYnGBkbHR4f/EABcBAQADAAAAAAAAAAAAAAAAAAYDBAX/xAAhEQACAgIBBAMAAAAAAAAAAAABAgMEABEFEiEjMUFRgf/aAAwDAQACEQMRAD8ANLKLtNkcVKKePP0/vCbyZ7PbcqmxZruZJLbikhSkMtekKPQ3vz44wjL9DbmVmmRHNoMKkILhuPdKkg/Llrhj5Sg1KgVGJClZsZfjPMqLUVxlCCANQU8zb7Yglfyhct14g0RbM6l+FtTytnKiyXKi3Ppr7rjQUpNnEL3KyAriCCAed7jviPNWWguuSFhkqvbX6Y1bN8Kpsoy29VpyZa2KkVHdNBIUFMup1A00vxxPKih6QtaSADyI7YTcLYNdDodsMc1CDICv18fuEmhzFt1yF5cKLhXs7FiNq9tO/LCryFmOj1aXHdcqK4slDYb8u4dkA9RfS/EYN2SobL2baOXAb+eaGh+L+YW+UqBTI8tyQ3Ea3i0hdykGxPTBSyCJ1IxZTYLXcNkHiLWgxVKDACmy2+pbqioDaISLAjS4Gp6Y5TjqFq2t6nXviLx3mOQapRZDARvGHEFJUm9woqSQeot+BjsUVDc6kxZLrLSVuIuQlIte/e+EcURFddH3mJHYQWW6hvQ1n//Z" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBQP/xAAsEAABAwIFAwMDBQAAAAAAAAABAgMEBREABhIhMQcTYSJBUQgykSNxocHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIB/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQMAAhESMQQh/9oADAMBAAIRAxEAPwDXp8J12Fd4vWWnX+q0G+VrPA4PH8ecB7vU3OSqbTncu0OmpoyW9DKZJK3XgNitfqFrkG394ZWVYjQosdSEtCzDdw24Tb0XtdX7+/zhQ1imzqdVZkFutOMxo90MsFjWGr7hFwPbzjGMAtF8y946unuYoOcy+wYLsCqw22lyozlik6x97axyi4I+dsBLcfXqVcHUonjBf9PtEfhUStVefIMmRIbbaS7oCfS33Daw8rOMhcVaCE+vYD7xvxg2X2AigYsRF2jr/Di0nsxaFIcklvSnvPoCEm1vZPHvbzgfpHUVOY6q2irwIqp8t4Fx3cJv4Fj+MJoY7MOLadDrS1IcRZSVJNiD84q6xaCphWfkqrp/mSBmTtsQXOzHgofvEW+nXq0gJWG+bc7ji5BwRqSQdgfxiPaHNkQa3BlxXVtyW3kKSsHcG+LIYkhcdpSmWySkX3V/uIK8clBhPZ//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAwYHAgQI/8QAKBAAAQQBAwQBBAMAAAAAAAAAAQIDBBEFACExBhITQQciMlGBFKHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECBP/EAB4RAAICAgIDAAAAAAAAAAAAAAIRAAEDIRITMUFx/9oADAMBAAIRAxEAPwCxdN9YSV5yfgs+22zlmlKW023VKas0vnjivdcgaYmZb0tZMFCFISSO5x2rPuhvsNRX5XyuMifIw8cqRGzbRjeLxtlwrbJo9oND3V3t2/nTFj/k/GdPB7G5nz/zGo65HnQhPjeXe7LdrsuFVkIobe/ZykRcqH7LpJyhSMyzFjvyMgQw3GB86jX0fv2KP96XMDn+qc/GeyOLj45GNddJimUSCtuhRFeuRuAbB2Gpf1d1YnKx4k7JPSouDlvhxxotbrSG1kIcKT9OwbGxO4N87WP4xfiyehsU7j/KuIWz4lLKrUnuNH98/vU4yJIrjJepj1J0vg8nmoU+dFbVKZUS2vxi+/jZVWD/AIPxqL/OHxkcvnsdJgMFLbzraCU787dh/F7UeLuzuNdASGEpmu7k3XNH1oEltK5a267U+NX2kj7VitXlrreSvMVb1FWP0Lj3+mIWJnwY6kRUgU42laO674N2L4B09Y7HR40RDSGG0AetEabSGCKsK5vW4EiuNFBtwep//9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD9ElEQVR4nK3V6VMaZxgAcP+fTCdmEqNTO20/pDP9lJl+sv2QSRnFRJFFkEPisR5cGiBoUFHBiIAHKYfh8ABEYUV2OZaSoOwKm0Ol6UgV/4NOhOxIGwRtZ54PO+/7PL99r323Kps7+9+jqmxG5o9DIhlNJ+B0AiaS0Uzm4D+hhwdEElnFgjYCdZOBwfY92HnwDr8O+hb//R9cER20EcnI1dD3xB4GlxTzgcOO9+lEpejxaS4BWQjUnQqt4JBlH7ZftFKIE9+2pkIrBOre3bYen5xWhL7FY+moCw8sR3SiiFYQ0Qpii7K4WRk3K2NL8nxLZE6E+U0E6k7vhStCsaiHQN2xlyOf64WoXhJbkMYWpKhhKDInzLejC08J1J0MrVeE7gXtqfBqQdQKojoRahiOLz2LG5/F5oejn4cf0Qr2g7bdwHJFaAIy49tWsrJopHoJOdKIVoD5zQnIUhG6G1jG/CaHnDPKpvIpDSD1l5diVlQnjurE5mE2SP2ZT2lQdDTZZZzkpjEBmcujWGgraJTpJNw3Dq3NML2oGnPoVa4XMpu0w/aU9UrRZRiRWOZUq8bZ/S2rVsRGTKNJxFsGDVnUvkk+ZByLWyd9DpO4r2Nl0RKx6zfGuz1Kvlcrf2Uy9LUBQbd9f8PoW3zuV3eHzNNl0NfeZefAQ2ii0zUO+ueka5PCrRmJZwIMvRiI6sSusd5NjXh9WuSfk64qe6CJTufAw7jHXAbNHB24ZYBLTA3PDpIbFdVLEA34aesvbFR4dnBd1OQdZWeOPlRwTkNbvtEOeLrnvFh4foaEweme+FL+SInzKKIBfSNMLOyr9NuPOQ3+MS55ThFN36acDik5iAYkUb+Sgzr1V7hQsrmz8G8ThRU4nz46P4wWTx9ZUJSqrSrV8SG1tzPVna8PqJ7snEdA9aTQMtn1DntzZTSbO8OQzeBUfmUFyEwfrO7NP8Pq3t3ttev/TgyqYdIi98c6I7+8quqSvsxx9l5jk627wSujI+peRA16ZXRbdwOFx70+6ou9vktjPwYaF3p/Xel/sNL/wCVqkvGbalqYxg3fn1+6nrOl0I/ZExu00z87/wO7524bpw7g1bWyxCDDOcq7DzBq2zi1dG4Njf0jDxzUzvvQ+PFpriSaPjwyrHmYyqlv2zvr2/mfLIBXTQVqaOw6gPcTkzU+1FkH8Grp3K8a22rp3HzC14zO+10D8iUziqeK0BieEugWv2Pyv2EWrItx61H7TSrwffNjGhe4QWm9QWktDL846hk8ypDCE0YLaI9GV93M+HceGbdbWLcetV+SQL6ephgvoA0DQ3daO263sEpl36QCtXTunRYWOesvRnUzo57O/fjXyd8levvEDT7hvQAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwQGCAMF/8QAKxAAAQMCBAUDBQEAAAAAAAAAAQIDBAURABIhQQYHEzFxFCKBMlFhkbHw/8QAFwEBAAMAAAAAAAAAAAAAAAAAAwIEBf/EAB0RAAICAgMBAAAAAAAAAAAAAAABAgMEERIhMRP/2gAMAwEAAhEDEQA/AGWoKBB7YI+ZHH8DhpxURtsSahYHp5gAi4v7j37EbXthNkv3vrjKfOiG6OZs8EECSlpxrbN7An+pI84nJ9FOmKlI9ml82njMtV4TRiqP1xwQtAO9ibH89j/MKMJ+NUIrcqG91Y7ozIW2TZQ+N/Oo7YzdCokp5sOKbXkCgFJbSVrtfuB8Y0LwdQ2uHKI3BbW66Crqkqt7SQLj94JSTFuqUNMt1QqjENkuSnktp23J8Aak/jXAVzOq0LiOusOxY6rx2i2XHAUlVyTbLta9/vc4jMVKVU51Qdmul1SnAqytQNSLD7DTHT07TriEuIChe2vzgLL3viZ6y/jZpokcDUGoVEMPraW3T3FEGQhwA5Uk6WBCgbjbz5WnE5VZU6hItqLn94PqS6uEmL6U9JKXOnlT2I764vr6j1Vf7bC0NPwVZbyumvD/2Q==" width="28" height="28" alt="" />
@@ -729,56 +729,56 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="75.92307692307693 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="76.61643835616438 329"/>
                                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="205.17307692307693 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="204.6109589041096 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👍</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.7115384615384617 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.7041095890410958 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👎</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.7115384615384617 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.7041095890410958 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😄</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.519230769230769 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.506849315068493 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😕</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="9.942307692307692 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="9.915068493150685 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👀</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="16.26923076923077 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="16.224657534246575 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🚀</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="11.75 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="11.717808219178082 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🎉</text>
                                     </svg>
                                 </div>
@@ -789,7 +789,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Feb 2026, 22:08:48 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Feb 2026, 23:07:41 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
